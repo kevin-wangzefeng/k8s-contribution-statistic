@@ -1,0 +1,92 @@
+{
+    "crawler_headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36"
+    },
+
+    "commit_url_prefix": "https://github.com/GoogleCloudPlatform/kubernetes/commit/",
+    "uesr_url_prefix": "https://github.com/",
+
+
+    "users_file_name": "commits.txt",
+    "user_info_json_file_name": "user_info.json",
+    "commits_ranking_file": "commits_ranking_by_users.txt",
+    "orgs_ranking_output_file": "orgs_ranking.json",
+
+    "concurrency": 50,
+
+    "contributers_orgs_map": {
+        "jiangyaoguo":          "Huawei",
+        "fabioy":               "Google",
+        "jbeda":                "Google",
+        "Kathrin Probst":       "Google",
+        "Michael Jeffrey":      "Google",
+        "justinsb":             "FathomDB",
+        "resouer":              "ZheJiang University",
+        "dalanlan":             "ZheJiang University",
+        "WIZARD-CXY":           "ZheJiang University",
+        "adimania":             "Mumbai, India",
+        "rajdeepd":             "VMware"
+    },
+
+
+    "orgs_mapping": {
+        "Amadeus sas":                        "Amadeus SAS",
+        "Amadeus SAS":                        "Amadeus SAS",
+        
+        "Canonical":                          "Canonical",
+        "Canonical, USA":                     "Canonical",
+        "canonical.com":                      "Canonical",
+
+        "CoreOS":                             "CoreOS",
+        "CoreOS, Inc":                        "CoreOS",
+        "CoreOS, Inc.":                       "CoreOS",
+        "coreos.com":                         "CoreOS",
+
+        "gmail.com":                          "*independent",
+        "live.com":                           "*independent",
+        "users.noreply.github.com":           "*independent",
+
+
+        "Google":                             "Google",
+        "Google (Kubernetes, Omega, Borg)":   "Google",
+        "Google Inc":                         "Google",
+        "Google Inc.":                        "Google",
+        "Google Japan, Inc.":                 "Google",
+        "Google, Inc":                        "Google",
+        "Google, Inc.":                       "Google",
+        "google.com":                         "Google",
+        "0xBEDA, LLC":                         "Google",
+
+        "huawei":                             "Huawei",
+        "Huawei":                             "Huawei",
+        "huawei.com":                         "Huawei",
+        "Huawei Technologies":                "Huawei",
+        "Huawei Technologies Co., Ltd.":      "Huawei",
+
+        "Mesosphere":                         "Mesosphere",
+        "Mesoshpere, Inc.":                   "Mesosphere",
+
+        "Rackspace":                          "Rackspace",
+        "rackspace.com":                      "Rackspace",
+
+        "Red Hat":                            "Redhat",
+        "red hat":                            "Redhat",
+        "Red Hat Inc.":                       "Redhat",
+        "Red Hat Japan":                      "Redhat",
+        "Red Hat, Inc":                       "Redhat",
+        "Red Hat, Inc.":                      "Redhat",
+        "Red Hat OpenShift":                  "Redhat",
+        "Redhat":                             "Redhat",
+        "redhat":                             "Redhat",
+        "redhat.com":                         "Redhat",
+        "Red Hat Software":                   "Redhat",
+
+        "zju.edu.cn":                         "ZheJiang University",
+        "Zhejiang Universisty":               "ZheJiang University",
+        "ZheJiang University":                "ZheJiang University",
+
+        "vmware.com":                         "VMware",
+        "VMWare":                             "VMware"
+    }
+}

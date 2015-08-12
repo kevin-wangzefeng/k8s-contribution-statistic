@@ -1,0 +1,629 @@
+{
+    "gl-systemhaus.de": {
+        "commits": 1
+    },
+    "*independent": {
+        "commits": 623
+    },
+    "Google": {
+        "commits": 12595
+    },
+    "CoreOS": {
+        "commits": 204
+    },
+    "Redhat": {
+        "commits": 2268
+    },
+    "Ustream, Inc.": {
+        "commits": 1
+    },
+    "nine.net": {
+        "commits": 1
+    },
+    "dymitruk.com": {
+        "commits": 1
+    },
+    "BrainFund": {
+        "commits": 11
+    },
+    "Mumbai, India": {
+        "commits": 2
+    },
+    "Microsoft Azure": {
+        "commits": 1
+    },
+    "the-kramers.net": {
+        "commits": 1
+    },
+    "yahoo.com": {
+        "commits": 3
+    },
+    "Autodesk": {
+        "commits": 1
+    },
+    "Datastax": {
+        "commits": 1
+    },
+    "Travis CI": {
+        "commits": 1
+    },
+    "infosleuth.net": {
+        "commits": 4
+    },
+    "CERN": {
+        "commits": 18
+    },
+    "aas.io": {
+        "commits": 2
+    },
+    "andrewmichaelsmith.com": {
+        "commits": 4
+    },
+    "Ionic Security": {
+        "commits": 1
+    },
+    "minuteware.net": {
+        "commits": 4
+    },
+    "Pardot": {
+        "commits": 1
+    },
+    "inodes.org": {
+        "commits": 20
+    },
+    "Freeletics GmbH": {
+        "commits": 3
+    },
+    "ilin.dn.ua": {
+        "commits": 1
+    },
+    "reformi.st": {
+        "commits": 15
+    },
+    "mamikonyan.am": {
+        "commits": 3
+    },
+    "Red Hat Software": {
+        "commits": 2
+    },
+    "HugeInc": {
+        "commits": 1
+    },
+    "Digital Natives Hungary Ltd.": {
+        "commits": 1
+    },
+    "Kismatic": {
+        "commits": 22
+    },
+    "Yola": {
+        "commits": 1
+    },
+    "Dollar Shave Club": {
+        "commits": 1
+    },
+    "Connectifier": {
+        "commits": 7
+    },
+    "ALTA Language Services, Inc": {
+        "commits": 2
+    },
+    "On Center Software, Inc": {
+        "commits": 1
+    },
+    "cornell.edu": {
+        "commits": 2
+    },
+    "Devsisters Corp.": {
+        "commits": 1
+    },
+    "Brian Ketelsen, LLC ": {
+        "commits": 2
+    },
+    "xor.exchange": {
+        "commits": 2
+    },
+    "Yammer": {
+        "commits": 1
+    },
+    "Revinate, Siliconvortex": {
+        "commits": 1
+    },
+    "GREE Inc": {
+        "commits": 2
+    },
+    "ETRI": {
+        "commits": 1
+    },
+    "maestrodev.com": {
+        "commits": 1
+    },
+    "Project Calico": {
+        "commits": 3
+    },
+    "datawisesystems.com": {
+        "commits": 6
+    },
+    "Canonical": {
+        "commits": 38
+    },
+    "clkao.org": {
+        "commits": 2
+    },
+    "winged.kiwi": {
+        "commits": 1
+    },
+    "Oakleon": {
+        "commits": 3
+    },
+    "Tech9 Computer Solutions, LLC": {
+        "commits": 2
+    },
+    "ctso.me": {
+        "commits": 1
+    },
+    "Q42": {
+        "commits": 2
+    },
+    "Freelance": {
+        "commits": 1
+    },
+    "MadGlory": {
+        "commits": 2
+    },
+    "lollyrock.com": {
+        "commits": 1
+    },
+    "gmx.de": {
+        "commits": 1
+    },
+    "hotmail.com": {
+        "commits": 1
+    },
+    "Mesosphere": {
+        "commits": 60
+    },
+    "mindscratch.org": {
+        "commits": 1
+    },
+    "Puppet Labs": {
+        "commits": 2
+    },
+    "spotify.com": {
+        "commits": 2
+    },
+    "metaswitch.com": {
+        "commits": 2
+    },
+    "binarygoo inc.": {
+        "commits": 1
+    },
+    "Liquidweb": {
+        "commits": 1
+    },
+    "Hark": {
+        "commits": 2
+    },
+    "alwaysmovefast.com": {
+        "commits": 3
+    },
+    "Cornell University": {
+        "commits": 1
+    },
+    "CloudFlare": {
+        "commits": 1
+    },
+    "Hashrocket": {
+        "commits": 1
+    },
+    "www.shippable.com": {
+        "commits": 4
+    },
+    "ПРОНИКС": {
+        "commits": 1
+    },
+    "Huawei": {
+        "commits": 68
+    },
+    "Stigmergy LLC": {
+        "commits": 6
+    },
+    "Hotels.com": {
+        "commits": 1
+    },
+    "Parallel Drive": {
+        "commits": 1
+    },
+    "Amadeus SAS": {
+        "commits": 37
+    },
+    "DiscoPosse": {
+        "commits": 1
+    },
+    "Gopher Academy": {
+        "commits": 1
+    },
+    "souza.cc": {
+        "commits": 2
+    },
+    "Tumblr": {
+        "commits": 1
+    },
+    "163.com": {
+        "commits": 6
+    },
+    "morethanseven.net": {
+        "commits": 1
+    },
+    "99cloud.net": {
+        "commits": 1
+    },
+    "Aclima": {
+        "commits": 1
+    },
+    "gurpartap.com": {
+        "commits": 8
+    },
+    "uninett.no": {
+        "commits": 3
+    },
+    "Box": {
+        "commits": 46
+    },
+    "ZheJiang University": {
+        "commits": 36
+    },
+    "Virgen Technologies": {
+        "commits": 1
+    },
+    "http://luxiar.co.jp/": {
+        "commits": 4
+    },
+    "tenxcloud": {
+        "commits": 1
+    },
+    "Naver": {
+        "commits": 1
+    },
+    "ShutIt": {
+        "commits": 1
+    },
+    "weave.works": {
+        "commits": 28
+    },
+    "apache.org": {
+        "commits": 2
+    },
+    "CMCC": {
+        "commits": 2
+    },
+    "Oberlin College": {
+        "commits": 4
+    },
+    "informaticslab.co.uk": {
+        "commits": 2
+    },
+    "skedulo.com": {
+        "commits": 2
+    },
+    "AT&T Foundry": {
+        "commits": 2
+    },
+    "littleBits": {
+        "commits": 1
+    },
+    "vt.edu": {
+        "commits": 3
+    },
+    "IBM": {
+        "commits": 7
+    },
+    "Mirantis, Inc.": {
+        "commits": 1
+    },
+    "Accelerant Mobile Corp.": {
+        "commits": 6
+    },
+    "hds.com": {
+        "commits": 5
+    },
+    "University of Michigan": {
+        "commits": 3
+    },
+    "kos.mx": {
+        "commits": 1
+    },
+    "Dynamic Design": {
+        "commits": 1
+    },
+    "Smart Scheduling": {
+        "commits": 2
+    },
+    "N/A": {
+        "commits": 1
+    },
+    "SPARCS, KAIST": {
+        "commits": 2
+    },
+    "josephholsten.com": {
+        "commits": 1
+    },
+    "Opsview Ltd": {
+        "commits": 2
+    },
+    "SoundCloud Ltd.": {
+        "commits": 1
+    },
+    "mspin.net": {
+        "commits": 20
+    },
+    "Workiva": {
+        "commits": 2
+    },
+    "FathomDB": {
+        "commits": 288
+    },
+    "marhubi.com": {
+        "commits": 1
+    },
+    "endocode.com": {
+        "commits": 5
+    },
+    "Mesoshpere, Inc.": {
+        "commits": 11
+    },
+    "Yahoo Japan Corporation": {
+        "commits": 1
+    },
+    "praisechaos.com": {
+        "commits": 1
+    },
+    "ie.suberic.net": {
+        "commits": 3
+    },
+    "Huawei Technologies": {
+        "commits": 1
+    },
+    "Kornisteui-MacBook-Pro.local": {
+        "commits": 1
+    },
+    "RelateRocket": {
+        "commits": 2
+    },
+    "Appier": {
+        "commits": 1
+    },
+    "emergingstack.com": {
+        "commits": 1
+    },
+    "lvlv.email": {
+        "commits": 2
+    },
+    "Irian Solutions": {
+        "commits": 6
+    },
+    "rudd-o.com": {
+        "commits": 1
+    },
+    "esigetel.net": {
+        "commits": 1
+    },
+    "marcelhauf.name": {
+        "commits": 1
+    },
+    "CS Student @ UQÀM": {
+        "commits": 1
+    },
+    "Kalon": {
+        "commits": 3
+    },
+    "xoom.com": {
+        "commits": 1
+    },
+    "way2clever.com": {
+        "commits": 1
+    },
+    "schaffer.me": {
+        "commits": 2
+    },
+    "Veritaseum, Inc.": {
+        "commits": 2
+    },
+    "MediaMath": {
+        "commits": 1
+    },
+    "manh.com": {
+        "commits": 2
+    },
+    "Samsung SDS America": {
+        "commits": 1
+    },
+    "vianett.no": {
+        "commits": 1
+    },
+    "qse.no": {
+        "commits": 2
+    },
+    "zarb.org": {
+        "commits": 1
+    },
+    " Recruit Marketing Partners Co.,Ltd.": {
+        "commits": 1
+    },
+    "Assurity Consulting Limited": {
+        "commits": 1
+    },
+    "prokoschenko.de": {
+        "commits": 1
+    },
+    "-": {
+        "commits": 4
+    },
+    "Kismatic, Inc.": {
+        "commits": 11
+    },
+    "WillCall": {
+        "commits": 2
+    },
+    "Kende": {
+        "commits": 1
+    },
+    "Pachyderm, Inc.": {
+        "commits": 1
+    },
+    "Cyrus Biotechnology": {
+        "commits": 1
+    },
+    "pcx.io": {
+        "commits": 3
+    },
+    "Ericsson": {
+        "commits": 2
+    },
+    "Teads Technology": {
+        "commits": 2
+    },
+    "pcservice.co.za": {
+        "commits": 1
+    },
+    "VMWare": {
+        "commits": 30
+    },
+    "springer.com": {
+        "commits": 2
+    },
+    "Huawei Technologies Co., Ltd.": {
+        "commits": 2
+    },
+    "Time Inc. UK": {
+        "commits": 1
+    },
+    "Zalando": {
+        "commits": 2
+    },
+    "uSwitch": {
+        "commits": 2
+    },
+    "VMware": {
+        "commits": 6
+    },
+    "RightScale": {
+        "commits": 1
+    },
+    "Dutchcoders": {
+        "commits": 6
+    },
+    "Symantec": {
+        "commits": 2
+    },
+    "BoomTown!": {
+        "commits": 1
+    },
+    "Rackspace": {
+        "commits": 26
+    },
+    "singlewire.com": {
+        "commits": 1
+    },
+    "Encyclopaedia Britannica": {
+        "commits": 1
+    },
+    "Inviqa & Freelancer": {
+        "commits": 1
+    },
+    "Kyrychenko Anton": {
+        "commits": 1
+    },
+    "SantoshSahoo.com": {
+        "commits": 1
+    },
+    "Sichuan University": {
+        "commits": 1
+    },
+    "seanborman.com": {
+        "commits": 1
+    },
+    "adesso AG": {
+        "commits": 1
+    },
+    "Klarna AB": {
+        "commits": 3
+    },
+    "eseth.com": {
+        "commits": 1
+    },
+    "shaicoleman.com": {
+        "commits": 1
+    },
+    "freeformers.com": {
+        "commits": 1
+    },
+    "New York University": {
+        "commits": 1
+    },
+    "Hortonworks": {
+        "commits": 1
+    },
+    "eBay": {
+        "commits": 1
+    },
+    "zulily": {
+        "commits": 12
+    },
+    "upmc.edu": {
+        "commits": 1
+    },
+    "tmrts.com": {
+        "commits": 2
+    },
+    "outlook.com": {
+        "commits": 7
+    },
+    "external.mckinsey.com": {
+        "commits": 1
+    },
+    "Chef": {
+        "commits": 2
+    },
+    "Noraneko Inc.": {
+        "commits": 1
+    },
+    "FactSet Research Systems": {
+        "commits": 1
+    },
+    "Epic Games": {
+        "commits": 3
+    },
+    "MuleSoft": {
+        "commits": 1
+    },
+    "Oblong Industries, Inc.": {
+        "commits": 4
+    },
+    "insiemenetworks.com": {
+        "commits": 2
+    },
+    "Akvelon": {
+        "commits": 2
+    },
+    "Pressly Inc.": {
+        "commits": 16
+    },
+    "ChinaNetCenter": {
+        "commits": 1
+    },
+    "WhatsOn": {
+        "commits": 1
+    },
+    "Tencent": {
+        "commits": 1
+    },
+    "Topotal": {
+        "commits": 1
+    },
+    "yugui.jp": {
+        "commits": 12
+    },
+    "Cisco": {
+        "commits": 1
+    }
+}
