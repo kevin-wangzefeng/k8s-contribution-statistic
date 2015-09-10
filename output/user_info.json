@@ -1,5 +1,5 @@
 {
-    "7oku <tk@gl-systemhaus.de>": {
+    "tk@gl-systemhaus.de": {
         "name": "7oku",
         "additionalName": "7oku",
         "worksFor": "",
@@ -7,7 +7,7 @@
         "email": "tk@gl-systemhaus.de",
         "orgnization": "gl-systemhaus.de"
     },
-    "Aamir Khan <syst3m.w0rm@gmail.com>": {
+    "syst3m.w0rm@gmail.com": {
         "name": "Aamir Khan",
         "additionalName": "syst3mw0rm",
         "worksFor": "",
@@ -15,15 +15,15 @@
         "email": "syst3m.w0rm@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Alex Mohr <aaron.bell@gmail.com>": {
-        "name": "Alex Mohr",
-        "additionalName": "alex-mohr",
-        "worksFor": "Google",
-        "homeLocation": "Seattle",
+    "aaron.bell@gmail.com": {
+        "name": "Aaron Bell",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "aaron.bell@gmail.com",
-        "orgnization": "Google"
+        "orgnization": "gmail.com"
     },
-    "Aaron Levy <aaron.levy@coreos.com>": {
+    "aaron.levy@coreos.com": {
         "name": "Aaron Levy",
         "additionalName": "aaronlevy",
         "worksFor": "",
@@ -31,7 +31,7 @@
         "email": "aaron.levy@coreos.com",
         "orgnization": "coreos.com"
     },
-    "Abhi Shah <abshah@google.com>": {
+    "abshah@google.com": {
         "name": "Abhi Shah",
         "additionalName": "ArtfulCoder",
         "worksFor": "Google Inc.",
@@ -39,7 +39,7 @@
         "email": "abshah@google.com",
         "orgnization": "Google Inc."
     },
-    "Abhishek Gupta <abhgupta@redhat.com>": {
+    "abhgupta@redhat.com": {
         "name": "Abhishek Gupta",
         "additionalName": "abhgupta",
         "worksFor": "Red Hat, Inc",
@@ -47,7 +47,7 @@
         "email": "abhgupta@redhat.com",
         "orgnization": "Red Hat, Inc"
     },
-    "Sándor Ács <acs.sandor@ustream.tv>": {
+    "acs.sandor@ustream.tv": {
         "name": "Sándor Ács",
         "additionalName": "sandoracs",
         "worksFor": "Ustream, Inc.",
@@ -55,7 +55,7 @@
         "email": "acs.sandor@ustream.tv",
         "orgnization": "Ustream, Inc."
     },
-    "Adam Durana <adam@nine.net>": {
+    "adam@nine.net": {
         "name": "Adam Durana",
         "additionalName": "durana",
         "worksFor": "",
@@ -63,7 +63,7 @@
         "email": "adam@nine.net",
         "orgnization": "nine.net"
     },
-    "Adam Dymitruk <adam@dymitruk.com>": {
+    "adam@dymitruk.com": {
         "name": "Adam Dymitruk",
         "additionalName": "adymitruk",
         "worksFor": "",
@@ -71,7 +71,7 @@
         "email": "adam@dymitruk.com",
         "orgnization": "dymitruk.com"
     },
-    "Adam Sunderland <iterion@gmail.com>": {
+    "iterion@gmail.com": {
         "name": "Adam Sunderland",
         "additionalName": "iterion",
         "worksFor": "BrainFund",
@@ -79,15 +79,15 @@
         "email": "iterion@gmail.com",
         "orgnization": "BrainFund"
     },
-    "Aditya Patawari <aditya@adityapatawari.com>": {
+    "aditya@adityapatawari.com": {
         "name": "Aditya Patawari",
         "additionalName": "adimania",
         "worksFor": "https://github.com/organizations/browserstack/settings",
         "homeLocation": "Mumbai, India",
         "email": "aditya@adityapatawari.com",
-        "orgnization": "https://github.com/organizations/browserstack/settings"
+        "orgnization": "Mumbai, India"
     },
-    "Adnan Hajdarević <adnanh@gmail.com>": {
+    "adnanh@gmail.com": {
         "name": "Adnan Hajdarević",
         "additionalName": "adnanh",
         "worksFor": "",
@@ -95,7 +95,7 @@
         "email": "adnanh@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Ahmet Alp Balkan <ahmetalpbalkan@gmail.com>": {
+    "ahmetalpbalkan@gmail.com": {
         "name": "Ahmet Alp Balkan",
         "additionalName": "ahmetalpbalkan",
         "worksFor": "Microsoft Azure",
@@ -103,7 +103,7 @@
         "email": "ahmetalpbalkan@gmail.com",
         "orgnization": "Microsoft Azure"
     },
-    "Akram Ben Aissi <akram.benaissi@gmail.com>": {
+    "akram.benaissi@gmail.com": {
         "name": "Akram Ben Aissi",
         "additionalName": "akram",
         "worksFor": "Red Hat",
@@ -111,7 +111,7 @@
         "email": "akram.benaissi@gmail.com",
         "orgnization": "Red Hat"
     },
-    "akramer <adam@the-kramers.net>": {
+    "adam@the-kramers.net": {
         "name": "akramer",
         "additionalName": "akramer",
         "worksFor": "",
@@ -119,7 +119,7 @@
         "email": "adam@the-kramers.net",
         "orgnization": "the-kramers.net"
     },
-    "Akshay Aurora <akshayaurora@yahoo.com>": {
+    "akshayaurora@yahoo.com": {
         "name": "Akshay Aurora",
         "additionalName": "iakshay",
         "worksFor": "",
@@ -127,7 +127,7 @@
         "email": "akshayaurora@yahoo.com",
         "orgnization": "yahoo.com"
     },
-    "Alan Williams <alanwill81@gmail.com>": {
+    "alanwill81@gmail.com": {
         "name": "Alan Williams",
         "additionalName": "alanwill",
         "worksFor": "Autodesk",
@@ -135,7 +135,7 @@
         "email": "alanwill81@gmail.com",
         "orgnization": "Autodesk"
     },
-    "Albert Zhang <zhgwenming@gmail.com>": {
+    "zhgwenming@gmail.com": {
         "name": "Albert Zhang",
         "additionalName": "zhgwenming",
         "worksFor": "",
@@ -143,7 +143,7 @@
         "email": "zhgwenming@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Alen Komljen <alen.komljen@live.com>": {
+    "alen.komljen@live.com": {
         "name": "Alen Komljen",
         "additionalName": "komljen",
         "worksFor": "",
@@ -151,7 +151,7 @@
         "email": "alen.komljen@live.com",
         "orgnization": "live.com"
     },
-    "alex <alex@cloudware.it>": {
+    "alex@cloudware.it": {
         "name": "alex",
         "additionalName": "crhym3",
         "worksFor": "Google",
@@ -159,7 +159,15 @@
         "email": "alex@cloudware.it",
         "orgnization": "Google"
     },
-    "Alexander <iam.asm89@gmail.com>": {
+    "alexander.hersh@metaswitch.com": {
+        "name": "Alexander Hersh",
+        "additionalName": "alexhersh",
+        "worksFor": "Metaswitch Networks",
+        "homeLocation": "San Francisco",
+        "email": "alexander.hersh@metaswitch.com",
+        "orgnization": "Metaswitch Networks"
+    },
+    "iam.asm89@gmail.com": {
         "name": "Alexander",
         "additionalName": "asm89",
         "worksFor": "",
@@ -167,7 +175,7 @@
         "email": "iam.asm89@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Alexandr Lurye <alml@google.com>": {
+    "alml@google.com": {
         "name": "Alexandr Lurye",
         "additionalName": "alml",
         "worksFor": "Google",
@@ -175,15 +183,31 @@
         "email": "alml@google.com",
         "orgnization": "Google"
     },
-    "Alexandros Mavrogiannis <almavrog@google.com>": {
+    "almavrog@google.com": {
         "name": "Alexandros Mavrogiannis",
-        "additionalName": "afein",
-        "worksFor": "Google",
-        "homeLocation": "Mountain View, California",
+        "additionalName": "Alexandros Mavrogiannis",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "almavrog@google.com",
-        "orgnization": "Google"
+        "orgnization": "google.com"
     },
-    "Alex Mohr <mohr@google.com>": {
+    "alex@alexwlchan.net": {
+        "name": "Alex Chan",
+        "additionalName": "alexwlchan",
+        "worksFor": "",
+        "homeLocation": "Cambridge, UK",
+        "email": "alex@alexwlchan.net",
+        "orgnization": "alexwlchan.net"
+    },
+    "alex.crawford@coreos.com": {
+        "name": "Alex Crawford",
+        "additionalName": "crawford",
+        "worksFor": "CoreOS",
+        "homeLocation": "San Francisco, CA",
+        "email": "alex.crawford@coreos.com",
+        "orgnization": "CoreOS"
+    },
+    "mohr@google.com": {
         "name": "Alex Mohr",
         "additionalName": "alex-mohr",
         "worksFor": "Google",
@@ -191,7 +215,7 @@
         "email": "mohr@google.com",
         "orgnization": "Google"
     },
-    "Alex Polvi <alex@polvi.net>": {
+    "alex@polvi.net": {
         "name": "Alex Polvi",
         "additionalName": "polvi",
         "worksFor": "CoreOS",
@@ -199,7 +223,7 @@
         "email": "alex@polvi.net",
         "orgnization": "CoreOS"
     },
-    "Alex Robinson <alexdwanerobinson@gmail.com>": {
+    "alexdwanerobinson@gmail.com": {
         "name": "Alex Robinson",
         "additionalName": "a-robinson",
         "worksFor": "Google",
@@ -207,7 +231,7 @@
         "email": "alexdwanerobinson@gmail.com",
         "orgnization": "Google"
     },
-    "Alex Robinson <arob@google.com>": {
+    "arob@google.com": {
         "name": "Alex Robinson",
         "additionalName": "a-robinson",
         "worksFor": "Google",
@@ -215,7 +239,7 @@
         "email": "arob@google.com",
         "orgnization": "Google"
     },
-    "Alissa Bonas <abonas@redhat.com>": {
+    "abonas@redhat.com": {
         "name": "Alissa Bonas",
         "additionalName": "abonas",
         "worksFor": "",
@@ -223,7 +247,7 @@
         "email": "abonas@redhat.com",
         "orgnization": "redhat.com"
     },
-    "Al Tobey <tobert@gmail.com>": {
+    "tobert@gmail.com": {
         "name": "Al Tobey",
         "additionalName": "tobert",
         "worksFor": "Datastax",
@@ -231,7 +255,7 @@
         "email": "tobert@gmail.com",
         "orgnization": "Datastax"
     },
-    "Aly Fulton <sinthetix@users.noreply.github.com>": {
+    "sinthetix@users.noreply.github.com": {
         "name": "Aly Fulton",
         "additionalName": "sinthetix",
         "worksFor": "Travis CI",
@@ -239,7 +263,7 @@
         "email": "sinthetix@users.noreply.github.com",
         "orgnization": "Travis CI"
     },
-    "Amy <amy@infosleuth.net>": {
+    "amy@infosleuth.net": {
         "name": "Amy",
         "additionalName": "amygdala",
         "worksFor": "",
@@ -247,7 +271,7 @@
         "email": "amy@infosleuth.net",
         "orgnization": "infosleuth.net"
     },
-    "Amy <amyu@google.com>": {
+    "amyu@google.com": {
         "name": "Amy",
         "additionalName": "amygdala",
         "worksFor": "",
@@ -255,7 +279,7 @@
         "email": "amyu@google.com",
         "orgnization": "google.com"
     },
-    "Ananya Kumar <skywalker94@gmail.com>": {
+    "skywalker94@gmail.com": {
         "name": "Ananya Kumar",
         "additionalName": "AnanyaKumar",
         "worksFor": "",
@@ -263,7 +287,7 @@
         "email": "skywalker94@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Anastasis Andronidis <anastasis90@yahoo.gr>": {
+    "anastasis90@yahoo.gr": {
         "name": "Anastasis Andronidis",
         "additionalName": "andronat",
         "worksFor": "CERN",
@@ -271,7 +295,7 @@
         "email": "anastasis90@yahoo.gr",
         "orgnization": "CERN"
     },
-    "Andrew Gerrand <adg@golang.org>": {
+    "adg@golang.org": {
         "name": "Andrew Gerrand",
         "additionalName": "adg",
         "worksFor": "Google Inc.",
@@ -279,7 +303,7 @@
         "email": "adg@golang.org",
         "orgnization": "Google Inc."
     },
-    "Andrew Michael Bursavich <abursavich@gmail.com>": {
+    "abursavich@gmail.com": {
         "name": "Andrew Michael Bursavich",
         "additionalName": "abursavich",
         "worksFor": "Google",
@@ -287,7 +311,7 @@
         "email": "abursavich@gmail.com",
         "orgnization": "Google"
     },
-    "Andrew Seidl <dev@aas.io>": {
+    "dev@aas.io": {
         "name": "Andrew Seidl",
         "additionalName": "andrewseidl",
         "worksFor": "",
@@ -295,7 +319,7 @@
         "email": "dev@aas.io",
         "orgnization": "aas.io"
     },
-    "Andrew Smith <me@andrewmichaelsmith.com>": {
+    "me@andrewmichaelsmith.com": {
         "name": "Andrew Smith",
         "additionalName": "andrewmichaelsmith",
         "worksFor": "",
@@ -303,7 +327,7 @@
         "email": "me@andrewmichaelsmith.com",
         "orgnization": "andrewmichaelsmith.com"
     },
-    "Andrew Watson <andrewmoorewatson@gmail.com>": {
+    "andrewmoorewatson@gmail.com": {
         "name": "Andrew Watson",
         "additionalName": "andrewwatson",
         "worksFor": "Ionic Security",
@@ -311,7 +335,7 @@
         "email": "andrewmoorewatson@gmail.com",
         "orgnization": "Ionic Security"
     },
-    "Andrew Williams <williams.andrew@gmail.com>": {
+    "williams.andrew@gmail.com": {
         "name": "Andrew Williams",
         "additionalName": "TheDude05",
         "worksFor": "",
@@ -319,7 +343,7 @@
         "email": "williams.andrew@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Andriy Yurchuk <ayurchuk@minuteware.net>": {
+    "ayurchuk@minuteware.net": {
         "name": "Andriy Yurchuk",
         "additionalName": "Ch00k",
         "worksFor": "",
@@ -327,7 +351,7 @@
         "email": "ayurchuk@minuteware.net",
         "orgnization": "minuteware.net"
     },
-    "Andy Goldstein <agoldste@redhat.com>": {
+    "agoldste@redhat.com": {
         "name": "Andy Goldstein",
         "additionalName": "ncdc",
         "worksFor": "Red Hat",
@@ -335,7 +359,7 @@
         "email": "agoldste@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Andy Lindeman <andy@operable.io>": {
+    "andy@operable.io": {
         "name": "Andy Lindeman",
         "additionalName": "alindeman",
         "worksFor": "Pardot",
@@ -343,7 +367,15 @@
         "email": "andy@operable.io",
         "orgnization": "Pardot"
     },
-    "Angus Lees <gus@inodes.org>": {
+    "qzheng@google.com": {
+        "name": "Andy Zheng",
+        "additionalName": "andyzheng0831",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "qzheng@google.com",
+        "orgnization": "google.com"
+    },
+    "gus@inodes.org": {
         "name": "Angus Lees",
         "additionalName": "anguslees",
         "worksFor": "",
@@ -351,7 +383,7 @@
         "email": "gus@inodes.org",
         "orgnization": "inodes.org"
     },
-    "Anthony Yeh <enisoc@google.com>": {
+    "enisoc@google.com": {
         "name": "Anthony Yeh",
         "additionalName": "enisoc",
         "worksFor": "Google",
@@ -359,7 +391,7 @@
         "email": "enisoc@google.com",
         "orgnization": "Google"
     },
-    "BinZhao <antmanler@gmail.com>": {
+    "antmanler@gmail.com": {
         "name": "BinZhao",
         "additionalName": "antmanler",
         "worksFor": "",
@@ -367,7 +399,7 @@
         "email": "antmanler@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Antoine Cotten <tonio.cotten@gmail.com>": {
+    "tonio.cotten@gmail.com": {
         "name": "Antoine Cotten",
         "additionalName": "antoineco",
         "worksFor": "Freeletics GmbH",
@@ -375,7 +407,7 @@
         "email": "tonio.cotten@gmail.com",
         "orgnization": "Freeletics GmbH"
     },
-    "Anton Ilin <anton@ilin.dn.ua>": {
+    "anton@ilin.dn.ua": {
         "name": "Anton Ilin",
         "additionalName": "bronislav",
         "worksFor": "",
@@ -383,7 +415,7 @@
         "email": "anton@ilin.dn.ua",
         "orgnization": "ilin.dn.ua"
     },
-    "António Meireles <antonio.meireles@reformi.st>": {
+    "antonio.meireles@reformi.st": {
         "name": "António Meireles",
         "additionalName": "AntonioMeireles",
         "worksFor": "",
@@ -391,7 +423,7 @@
         "email": "antonio.meireles@reformi.st",
         "orgnization": "reformi.st"
     },
-    "Arsen Mamikonyan <arsen@mamikonyan.am>": {
+    "arsen@mamikonyan.am": {
         "name": "Arsen Mamikonyan",
         "additionalName": "mamikonyana",
         "worksFor": "",
@@ -399,7 +431,7 @@
         "email": "arsen@mamikonyan.am",
         "orgnization": "mamikonyan.am"
     },
-    "Arun Gupta <arun.gupta@gmail.com>": {
+    "arun.gupta@gmail.com": {
         "name": "Arun Gupta",
         "additionalName": "arun-gupta",
         "worksFor": "Red Hat Software",
@@ -407,7 +439,7 @@
         "email": "arun.gupta@gmail.com",
         "orgnization": "Red Hat Software"
     },
-    "Ashwin Raveendran <ashw7n@gmail.com>": {
+    "ashw7n@gmail.com": {
         "name": "Ashwin Raveendran",
         "additionalName": "ashw7n",
         "worksFor": "",
@@ -415,7 +447,7 @@
         "email": "ashw7n@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Atish <atish@atish.info>": {
+    "atish@atish.info": {
         "name": "Atish",
         "additionalName": "atishn",
         "worksFor": "HugeInc",
@@ -423,7 +455,7 @@
         "email": "atish@atish.info",
         "orgnization": "HugeInc"
     },
-    "Avesh Agarwal <avagarwa@redhat.com>": {
+    "avagarwa@redhat.com": {
         "name": "Avesh Agarwal",
         "additionalName": "aveshagarwal",
         "worksFor": "Red Hat Inc.",
@@ -431,7 +463,15 @@
         "email": "avagarwa@redhat.com",
         "orgnization": "Red Hat Inc."
     },
-    "Balazs Varga <varbalazs@gmail.com>": {
+    "avinash.sridharan@gmail.com": {
+        "name": "Avinash Sridharan",
+        "additionalName": "asridharan",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "avinash.sridharan@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "varbalazs@gmail.com": {
         "name": "Balazs Varga",
         "additionalName": "vbalazs",
         "worksFor": "Digital Natives Hungary Ltd.",
@@ -439,7 +479,7 @@
         "email": "varbalazs@gmail.com",
         "orgnization": "Digital Natives Hungary Ltd."
     },
-    "BC Broussard <bc@kismatic.io>": {
+    "bc@kismatic.io": {
         "name": "BC Broussard",
         "additionalName": "bcbroussard",
         "worksFor": "Kismatic",
@@ -447,7 +487,15 @@
         "email": "bc@kismatic.io",
         "orgnization": "Kismatic"
     },
-    "Bearnard Hibbins <bearnard@gmail.com>": {
+    "boris.de.vloed@gmail.com": {
+        "name": "bdevloed",
+        "additionalName": "bdevloed",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "boris.de.vloed@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "bearnard@gmail.com": {
         "name": "Bearnard Hibbins",
         "additionalName": "bearnard",
         "worksFor": "Yola",
@@ -455,7 +503,7 @@
         "email": "bearnard@gmail.com",
         "orgnization": "Yola"
     },
-    "Benjamen Keroack <benjamen.keroack@dollarshaveclub.com>": {
+    "benjamen.keroack@dollarshaveclub.com": {
         "name": "Benjamen Keroack",
         "additionalName": "bkeroackdsc",
         "worksFor": "Dollar Shave Club",
@@ -463,7 +511,7 @@
         "email": "benjamen.keroack@dollarshaveclub.com",
         "orgnization": "Dollar Shave Club"
     },
-    "Benjamin Elder <ben.the.elder@gmail.com>": {
+    "ben.the.elder@gmail.com": {
         "name": "Benjamin Elder",
         "additionalName": "BenTheElder",
         "worksFor": "",
@@ -471,15 +519,15 @@
         "email": "ben.the.elder@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Alex Mohr <benjamin@python.org>": {
-        "name": "Alex Mohr",
-        "additionalName": "alex-mohr",
-        "worksFor": "Google",
-        "homeLocation": "Seattle",
+    "benjamin@python.org": {
+        "name": "Benjamin Peterson",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "benjamin@python.org",
-        "orgnization": "Google"
+        "orgnization": "python.org"
     },
-    "Ben McCann <ben@connectifier.com>": {
+    "ben@connectifier.com": {
         "name": "Ben McCann",
         "additionalName": "benmccann",
         "worksFor": "Connectifier",
@@ -487,7 +535,7 @@
         "email": "ben@connectifier.com",
         "orgnization": "Connectifier"
     },
-    "Ben Parees <bparees@redhat.com>": {
+    "bparees@redhat.com": {
         "name": "Ben Parees",
         "additionalName": "bparees",
         "worksFor": "Red Hat",
@@ -495,15 +543,15 @@
         "email": "bparees@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Alex Mohr <bensonk@google.com>": {
-        "name": "Alex Mohr",
-        "additionalName": "alex-mohr",
-        "worksFor": "Google",
-        "homeLocation": "Seattle",
+    "bensonk@google.com": {
+        "name": "Benson Kalahar",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "bensonk@google.com",
-        "orgnization": "Google"
+        "orgnization": "google.com"
     },
-    "Brian Grant <bgrant0607@users.noreply.github.com>": {
+    "bgrant0607@users.noreply.github.com": {
         "name": "Brian Grant",
         "additionalName": "bgrant0607",
         "worksFor": "Google (Kubernetes, Omega, Borg)",
@@ -511,7 +559,15 @@
         "email": "bgrant0607@users.noreply.github.com",
         "orgnization": "Google (Kubernetes, Omega, Borg)"
     },
-    "Blake Haggerty <blake.haggerty@rackspace.com>": {
+    "wbin00@gmail.com": {
+        "name": "Bin Wang",
+        "additionalName": "wb14123",
+        "worksFor": "",
+        "homeLocation": "China",
+        "email": "wbin00@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "blake.haggerty@rackspace.com": {
         "name": "Blake Haggerty",
         "additionalName": "bhaggerty",
         "worksFor": "CoreOS",
@@ -519,7 +575,7 @@
         "email": "blake.haggerty@rackspace.com",
         "orgnization": "CoreOS"
     },
-    "Brad Wells <bwells@altalang.com>": {
+    "bwells@altalang.com": {
         "name": "Brad Wells",
         "additionalName": "bwells",
         "worksFor": "ALTA Language Services, Inc",
@@ -527,7 +583,7 @@
         "email": "bwells@altalang.com",
         "orgnization": "ALTA Language Services, Inc"
     },
-    "Brandon Davis <brandon.davis@oncenter.com>": {
+    "brandon.davis@oncenter.com": {
         "name": "Brandon Davis",
         "additionalName": "ocsbrandon",
         "worksFor": "On Center Software, Inc",
@@ -535,7 +591,7 @@
         "email": "brandon.davis@oncenter.com",
         "orgnization": "On Center Software, Inc"
     },
-    "Brandon Philips <brandon@ifup.org>": {
+    "brandon@ifup.org": {
         "name": "Brandon Philips",
         "additionalName": "philips",
         "worksFor": "CoreOS, Inc",
@@ -543,7 +599,7 @@
         "email": "brandon@ifup.org",
         "orgnization": "CoreOS, Inc"
     },
-    "Brendan Burns <bburns@google.com>": {
+    "bburns@google.com": {
         "name": "Brendan Burns",
         "additionalName": "brendandburns",
         "worksFor": "Google, Inc.",
@@ -551,7 +607,7 @@
         "email": "bburns@google.com",
         "orgnization": "Google, Inc."
     },
-    "Brendan Burns <brendan.d.burns@gmail.com>": {
+    "brendan.d.burns@gmail.com": {
         "name": "Brendan Burns",
         "additionalName": "brendanburns",
         "worksFor": "",
@@ -559,7 +615,7 @@
         "email": "brendan.d.burns@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Brendan Burns <real.cost.info@gmail.com>": {
+    "real.cost.info@gmail.com": {
         "name": "Brendan Burns",
         "additionalName": "real-cost",
         "worksFor": "",
@@ -567,7 +623,7 @@
         "email": "real.cost.info@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Brendan Burns <brendandburns@users.noreply.github.com>": {
+    "brendandburns@users.noreply.github.com": {
         "name": "Brendan Burns",
         "additionalName": "brendandburns",
         "worksFor": "Google, Inc.",
@@ -575,7 +631,7 @@
         "email": "brendandburns@users.noreply.github.com",
         "orgnization": "Google, Inc."
     },
-    "Brian Akins <brian.akins@coreos.com>": {
+    "brian.akins@coreos.com": {
         "name": "Brian Akins",
         "additionalName": "Brian Akins",
         "worksFor": "",
@@ -583,7 +639,7 @@
         "email": "brian.akins@coreos.com",
         "orgnization": "coreos.com"
     },
-    "Brian Browning <bwbrowning@gmail.com>": {
+    "bwbrowning@gmail.com": {
         "name": "Brian Browning",
         "additionalName": "browning",
         "worksFor": "",
@@ -591,15 +647,15 @@
         "email": "bwbrowning@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Alex Mohr <briandorsey@google.com>": {
-        "name": "Alex Mohr",
-        "additionalName": "alex-mohr",
-        "worksFor": "Google",
-        "homeLocation": "Seattle",
+    "briandorsey@google.com": {
+        "name": "Brian Dorsey",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "briandorsey@google.com",
-        "orgnization": "Google"
+        "orgnization": "google.com"
     },
-    "Brian Dorsey <brian@dorseys.org>": {
+    "brian@dorseys.org": {
         "name": "Brian Dorsey",
         "additionalName": "briandorsey",
         "worksFor": "Google",
@@ -607,7 +663,7 @@
         "email": "brian@dorseys.org",
         "orgnization": "Google"
     },
-    "Brian Fallik <baf11@cornell.edu>": {
+    "baf11@cornell.edu": {
         "name": "Brian Fallik",
         "additionalName": "bfallik",
         "worksFor": "",
@@ -615,7 +671,7 @@
         "email": "baf11@cornell.edu",
         "orgnization": "cornell.edu"
     },
-    "Brian Grant <briangrant@google.com>": {
+    "briangrant@google.com": {
         "name": "Brian Grant",
         "additionalName": "bgrant0607",
         "worksFor": "Google (Kubernetes, Omega, Borg)",
@@ -623,7 +679,7 @@
         "email": "briangrant@google.com",
         "orgnization": "Google (Kubernetes, Omega, Borg)"
     },
-    "Brian Hong <sungjinhong@devsisters.com>": {
+    "sungjinhong@devsisters.com": {
         "name": "Brian Hong",
         "additionalName": "serialx",
         "worksFor": "Devsisters Corp.",
@@ -631,7 +687,7 @@
         "email": "sungjinhong@devsisters.com",
         "orgnization": "Devsisters Corp."
     },
-    "Brian Ketelsen <bketelsen@gmail.com>": {
+    "bketelsen@gmail.com": {
         "name": "Brian Ketelsen",
         "additionalName": "bketelsen",
         "worksFor": "Brian Ketelsen, LLC ",
@@ -639,7 +695,7 @@
         "email": "bketelsen@gmail.com",
         "orgnization": "Brian Ketelsen, LLC "
     },
-    "Brian Ketelsen <brian@xor.exchange>": {
+    "brian@xor.exchange": {
         "name": "Brian Ketelsen",
         "additionalName": "Brian Ketelsen",
         "worksFor": "",
@@ -647,7 +703,7 @@
         "email": "brian@xor.exchange",
         "orgnization": "xor.exchange"
     },
-    "Brian Lynch <brianlynch@gmail.com>": {
+    "brianlynch@gmail.com": {
         "name": "Brian Lynch",
         "additionalName": "blynch",
         "worksFor": "Google, Inc.",
@@ -655,7 +711,7 @@
         "email": "brianlynch@gmail.com",
         "orgnization": "Google, Inc."
     },
-    "Brian Morton <brian@xq3.net>": {
+    "brian@xq3.net": {
         "name": "Brian Morton",
         "additionalName": "bmorton",
         "worksFor": "Yammer",
@@ -663,7 +719,15 @@
         "email": "brian@xq3.net",
         "orgnization": "Yammer"
     },
-    "Brian Waldon <brian.waldon@coreos.com>": {
+    "brian@brosner.com": {
+        "name": "Brian Rosner",
+        "additionalName": "brosner",
+        "worksFor": "Eldarion, Inc.",
+        "homeLocation": "Denver, CO",
+        "email": "brian@brosner.com",
+        "orgnization": "Eldarion, Inc."
+    },
+    "brian.waldon@coreos.com": {
         "name": "Brian Waldon",
         "additionalName": "bcwaldon",
         "worksFor": "CoreOS, Inc",
@@ -671,7 +735,7 @@
         "email": "brian.waldon@coreos.com",
         "orgnization": "CoreOS, Inc"
     },
-    "Bryan Stenson <bryan.stenson@gmail.com>": {
+    "bryan.stenson@gmail.com": {
         "name": "Bryan Stenson",
         "additionalName": "stensonb",
         "worksFor": "Revinate, Siliconvortex",
@@ -679,15 +743,15 @@
         "email": "bryan.stenson@gmail.com",
         "orgnization": "Revinate, Siliconvortex"
     },
-    "Burcu Dogan <jbd@google.com>": {
-        "name": "Burcu Dogan",
+    "jbd@google.com": {
+        "name": "jbd",
         "additionalName": "rakyll",
         "worksFor": "Google",
         "homeLocation": "San Francisco, CA",
         "email": "jbd@google.com",
         "orgnization": "Google"
     },
-    "BUSSY Jean-Daniel <SilverSurfer972@gmail.com>": {
+    "SilverSurfer972@gmail.com": {
         "name": "BUSSY Jean-Daniel",
         "additionalName": "bussyjd",
         "worksFor": "GREE Inc",
@@ -695,7 +759,15 @@
         "email": "SilverSurfer972@gmail.com",
         "orgnization": "GREE Inc"
     },
-    "Chao Xu <caesarxuchao@gmail.com>": {
+    "byungjoon.lee@gmail.com": {
+        "name": "Byungjoon Lee",
+        "additionalName": "bjlee72",
+        "worksFor": "NHN ENTERTAINMENT",
+        "homeLocation": "Republic of Korea",
+        "email": "byungjoon.lee@gmail.com",
+        "orgnization": "NHN ENTERTAINMENT"
+    },
+    "caesarxuchao@gmail.com": {
         "name": "Chao Xu",
         "additionalName": "caesarxuchao",
         "worksFor": "",
@@ -703,7 +775,23 @@
         "email": "caesarxuchao@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Carlos Sanchez <csanchez@maestrodev.com>": {
+    "brunner@univa.com": {
+        "name": "Cameron Brunner",
+        "additionalName": "cameronbrunner",
+        "worksFor": "Univa",
+        "homeLocation": "Chicago, IL",
+        "email": "brunner@univa.com",
+        "orgnization": "Univa"
+    },
+    "caogaojin@cmss.chinamobile.com": {
+        "name": "Gaojin CAO",
+        "additionalName": "invenfantasy",
+        "worksFor": "CMCC",
+        "homeLocation": "",
+        "email": "caogaojin@cmss.chinamobile.com",
+        "orgnization": "CMCC"
+    },
+    "csanchez@maestrodev.com": {
         "name": "Carlos Sanchez",
         "additionalName": "carlossg",
         "worksFor": "",
@@ -711,7 +799,15 @@
         "email": "csanchez@maestrodev.com",
         "orgnization": "maestrodev.com"
     },
-    "Casey Davenport <casey.davenport@metaswitch.com>": {
+    "clasohm@redhat.com": {
+        "name": "Carsten Clasohm",
+        "additionalName": "clasohm",
+        "worksFor": "Red Hat",
+        "homeLocation": "San Francisco, CA",
+        "email": "clasohm@redhat.com",
+        "orgnization": "Red Hat"
+    },
+    "casey.davenport@metaswitch.com": {
         "name": "Casey Davenport",
         "additionalName": "caseydavenport",
         "worksFor": "Project Calico",
@@ -719,7 +815,7 @@
         "email": "casey.davenport@metaswitch.com",
         "orgnization": "Project Calico"
     },
-    "Cesar Wong <cewong@redhat.com>": {
+    "cewong@redhat.com": {
         "name": "Cesar Wong",
         "additionalName": "csrwng",
         "worksFor": "Red Hat",
@@ -727,7 +823,7 @@
         "email": "cewong@redhat.com",
         "orgnization": "Red Hat"
     },
-    "chakri <chakri@datawisesystems.com>": {
+    "chakri@datawisesystems.com": {
         "name": "chakri",
         "additionalName": "chakri",
         "worksFor": "",
@@ -735,7 +831,7 @@
         "email": "chakri@datawisesystems.com",
         "orgnization": "datawisesystems.com"
     },
-    "Chao Xu <caesarxuchao@users.noreply.github.com>": {
+    "caesarxuchao@users.noreply.github.com": {
         "name": "Chao Xu",
         "additionalName": "caesarxuchao",
         "worksFor": "",
@@ -743,7 +839,7 @@
         "email": "caesarxuchao@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "Chao Xu <xuchao@google.com>": {
+    "xuchao@google.com": {
         "name": "Chao Xu",
         "additionalName": "caesarxuchao",
         "worksFor": "",
@@ -751,7 +847,7 @@
         "email": "xuchao@google.com",
         "orgnization": "google.com"
     },
-    "Charles Butler <chuck@dasroot.net>": {
+    "chuck@dasroot.net": {
         "name": "Charles Butler",
         "additionalName": "chuckbutler",
         "worksFor": "Canonical, USA",
@@ -759,7 +855,7 @@
         "email": "chuck@dasroot.net",
         "orgnization": "Canonical, USA"
     },
-    "Chia-liang Kao <clkao@clkao.org>": {
+    "clkao@clkao.org": {
         "name": "Chia-liang Kao",
         "additionalName": "clkao",
         "worksFor": "",
@@ -767,7 +863,7 @@
         "email": "clkao@clkao.org",
         "orgnization": "clkao.org"
     },
-    "Chi Vinh Le <cvl@winged.kiwi>": {
+    "cvl@winged.kiwi": {
         "name": "Chi Vinh Le",
         "additionalName": "wingedkiwi",
         "worksFor": "",
@@ -775,7 +871,7 @@
         "email": "cvl@winged.kiwi",
         "orgnization": "winged.kiwi"
     },
-    "Chmouel Boudjnah <chmouel@chmouel.com>": {
+    "chmouel@chmouel.com": {
         "name": "Chmouel Boudjnah",
         "additionalName": "chmouel",
         "worksFor": "Red Hat",
@@ -783,7 +879,7 @@
         "email": "chmouel@chmouel.com",
         "orgnization": "Red Hat"
     },
-    "Chris Alfonso <calfonso@redhat.com>": {
+    "calfonso@redhat.com": {
         "name": "Chris Alfonso",
         "additionalName": "calfonso",
         "worksFor": "",
@@ -791,7 +887,7 @@
         "email": "calfonso@redhat.com",
         "orgnization": "redhat.com"
     },
-    "Chris Hiestand <chrishiestand@gmail.com>": {
+    "chrishiestand@gmail.com": {
         "name": "Chris Hiestand",
         "additionalName": "chrishiestand",
         "worksFor": "Oakleon",
@@ -799,7 +895,7 @@
         "email": "chrishiestand@gmail.com",
         "orgnization": "Oakleon"
     },
-    "Chris Hiestand <chris@oakleon.com>": {
+    "chris@oakleon.com": {
         "name": "Chris Hiestand",
         "additionalName": "chrishiestand",
         "worksFor": "Oakleon",
@@ -807,7 +903,7 @@
         "email": "chris@oakleon.com",
         "orgnization": "Oakleon"
     },
-    "Chris Moos <chris@tech9computers.com>": {
+    "chris@tech9computers.com": {
         "name": "Chris Moos",
         "additionalName": "chrismoos",
         "worksFor": "Tech9 Computer Solutions, LLC",
@@ -815,7 +911,7 @@
         "email": "chris@tech9computers.com",
         "orgnization": "Tech9 Computer Solutions, LLC"
     },
-    "Chris Soyars <ctso@ctso.me>": {
+    "ctso@ctso.me": {
         "name": "Chris Soyars",
         "additionalName": "ctso",
         "worksFor": "",
@@ -823,7 +919,7 @@
         "email": "ctso@ctso.me",
         "orgnization": "ctso.me"
     },
-    "Christiaan Hees <mail@chees.info>": {
+    "mail@chees.info": {
         "name": "Christiaan Hees",
         "additionalName": "chees",
         "worksFor": "Q42",
@@ -831,7 +927,23 @@
         "email": "mail@chees.info",
         "orgnization": "Q42"
     },
-    "Christophe Labouisse <christophe@labouisse.org>": {
+    "simon@swine.de": {
+        "name": "Christian Simon",
+        "additionalName": "simonswine",
+        "worksFor": "",
+        "homeLocation": "Germany",
+        "email": "simon@swine.de",
+        "orgnization": "swine.de"
+    },
+    "christian@paral.in": {
+        "name": "Christian Stewart",
+        "additionalName": "paralin",
+        "worksFor": "",
+        "homeLocation": "Los Angeles, California",
+        "email": "christian@paral.in",
+        "orgnization": "paral.in"
+    },
+    "christophe@labouisse.org": {
         "name": "Christophe Labouisse",
         "additionalName": "ggtools",
         "worksFor": "Freelance",
@@ -839,7 +951,7 @@
         "email": "christophe@labouisse.org",
         "orgnization": "Freelance"
     },
-    "Christopher Najewicz <chief@beefdisciple.com>": {
+    "chief@beefdisciple.com": {
         "name": "Christopher Najewicz",
         "additionalName": "chiefy",
         "worksFor": "MadGlory",
@@ -847,7 +959,7 @@
         "email": "chief@beefdisciple.com",
         "orgnization": "MadGlory"
     },
-    "Christoph Hartmann <chris@lollyrock.com>": {
+    "chris@lollyrock.com": {
         "name": "Christoph Hartmann",
         "additionalName": "chris-rock",
         "worksFor": "",
@@ -855,7 +967,15 @@
         "email": "chris@lollyrock.com",
         "orgnization": "lollyrock.com"
     },
-    "CJ Cullen <cjcullen888@gmail.com>": {
+    "cmaser@gmx.de": {
+        "name": "Christoph Maser",
+        "additionalName": "TheMeier",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "cmaser@gmx.de",
+        "orgnization": "gmx.de"
+    },
+    "cjcullen888@gmail.com": {
         "name": "CJ Cullen",
         "additionalName": "cjcullen",
         "worksFor": "Google",
@@ -863,7 +983,7 @@
         "email": "cjcullen888@gmail.com",
         "orgnization": "Google"
     },
-    "CJ Cullen <cjcullen@google.com>": {
+    "cjcullen@google.com": {
         "name": "CJ Cullen",
         "additionalName": "cjcullen",
         "worksFor": "Google",
@@ -871,7 +991,7 @@
         "email": "cjcullen@google.com",
         "orgnization": "Google"
     },
-    "Claire Li <claire921@gmail.com>": {
+    "claire921@gmail.com": {
         "name": "Claire Li",
         "additionalName": "claire921",
         "worksFor": "Google",
@@ -879,7 +999,7 @@
         "email": "claire921@gmail.com",
         "orgnization": "Google"
     },
-    "Clayton Coleman <ccoleman@redhat.com>": {
+    "ccoleman@redhat.com": {
         "name": "Clayton Coleman",
         "additionalName": "smarterclayton",
         "worksFor": "Red Hat",
@@ -887,7 +1007,7 @@
         "email": "ccoleman@redhat.com",
         "orgnization": "Red Hat"
     },
-    "codemonkey77 <arb77@hotmail.com>": {
+    "arb77@hotmail.com": {
         "name": "codemonkey77",
         "additionalName": "codemonkey77",
         "worksFor": "",
@@ -895,7 +1015,7 @@
         "email": "arb77@hotmail.com",
         "orgnization": "hotmail.com"
     },
-    "Cole Mickens <cole.mickens@gmail.com>": {
+    "cole.mickens@gmail.com": {
         "name": "Cole Mickens",
         "additionalName": "colemickens",
         "worksFor": "",
@@ -903,7 +1023,7 @@
         "email": "cole.mickens@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Colin Walters <walters@verbum.org>": {
+    "walters@verbum.org": {
         "name": "Colin Walters",
         "additionalName": "cgwalters",
         "worksFor": "Red Hat, Inc.",
@@ -911,7 +1031,7 @@
         "email": "walters@verbum.org",
         "orgnization": "Red Hat, Inc."
     },
-    "Colm Monks <colmomonks@gmail.com>": {
+    "colmomonks@gmail.com": {
         "name": "Colm Monks",
         "additionalName": "colmm99",
         "worksFor": "",
@@ -919,7 +1039,7 @@
         "email": "colmomonks@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Connor Doyle <connor@mesosphere.io>": {
+    "connor@mesosphere.io": {
         "name": "Connor Doyle",
         "additionalName": "ConnorDoyle",
         "worksFor": "Mesosphere",
@@ -927,7 +1047,7 @@
         "email": "connor@mesosphere.io",
         "orgnization": "Mesosphere"
     },
-    "Craig Wickesser <craig@mindscratch.org>": {
+    "craig@mindscratch.org": {
         "name": "Craig Wickesser",
         "additionalName": "Craig Wickesser",
         "worksFor": "",
@@ -935,7 +1055,7 @@
         "email": "craig@mindscratch.org",
         "orgnization": "mindscratch.org"
     },
-    "Dai Zuozhuo <daizuozhuo@gmail.com>": {
+    "daizuozhuo@gmail.com": {
         "name": "Dai Zuozhuo",
         "additionalName": "daizuozhuo",
         "worksFor": "",
@@ -943,7 +1063,7 @@
         "email": "daizuozhuo@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Dan Ciruli <ciruli@gmail.com>": {
+    "ciruli@gmail.com": {
         "name": "Dan Ciruli",
         "additionalName": "oaktowner",
         "worksFor": "Google",
@@ -951,7 +1071,7 @@
         "email": "ciruli@gmail.com",
         "orgnization": "Google"
     },
-    "Daniel Dreier <d@puppetlabs.com>": {
+    "d@puppetlabs.com": {
         "name": "Daniel Dreier",
         "additionalName": "danieldreier",
         "worksFor": "Puppet Labs",
@@ -959,15 +1079,23 @@
         "email": "d@puppetlabs.com",
         "orgnization": "Puppet Labs"
     },
-    "Daniel Lobato García <elobatocs@gmail.com>": {
+    "elobatocs@gmail.com": {
         "name": "Daniel Lobato García",
         "additionalName": "eLobato",
         "worksFor": "Red Hat",
-        "homeLocation": "New York, NY",
+        "homeLocation": "Madrid, Spain",
         "email": "elobatocs@gmail.com",
         "orgnization": "Red Hat"
     },
-    "Daniel Norberg <daniel.norberg@gmail.com>": {
+    "mvdan@mvdan.cc": {
+        "name": "Daniel Martí",
+        "additionalName": "mvdan",
+        "worksFor": "Google",
+        "homeLocation": "Palo Alto, CA",
+        "email": "mvdan@mvdan.cc",
+        "orgnization": "Google"
+    },
+    "daniel.norberg@gmail.com": {
         "name": "Daniel Norberg",
         "additionalName": "danielnorberg",
         "worksFor": "",
@@ -975,7 +1103,7 @@
         "email": "daniel.norberg@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Daniel Norberg <dano@spotify.com>": {
+    "dano@spotify.com": {
         "name": "Daniel Norberg",
         "additionalName": "danielnorberg",
         "worksFor": "",
@@ -983,15 +1111,23 @@
         "email": "dano@spotify.com",
         "orgnization": "spotify.com"
     },
-    "Daniel Smith <dbsmith@google.com>": {
+    "dasch@zendesk.com": {
+        "name": "Daniel Schierbeck",
+        "additionalName": "dasch",
+        "worksFor": "Zendesk",
+        "homeLocation": "Copenhagen, Denmark",
+        "email": "dasch@zendesk.com",
+        "orgnization": "Zendesk"
+    },
+    "dbsmith@google.com": {
         "name": "Daniel Smith",
         "additionalName": "lavalamp",
         "worksFor": "Google",
-        "homeLocation": "",
+        "homeLocation": "Mountain View, CA",
         "email": "dbsmith@google.com",
         "orgnization": "Google"
     },
-    "Dan Mace <dmace@redhat.com>": {
+    "dmace@redhat.com": {
         "name": "Dan Mace",
         "additionalName": "ironcladlou",
         "worksFor": "Red Hat",
@@ -999,7 +1135,7 @@
         "email": "dmace@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Dan Mace <ironcladlou@gmail.com>": {
+    "ironcladlou@gmail.com": {
         "name": "Dan Mace",
         "additionalName": "ironcladlou",
         "worksFor": "Red Hat",
@@ -1007,7 +1143,7 @@
         "email": "ironcladlou@gmail.com",
         "orgnization": "Red Hat"
     },
-    "Dan McPherson <dmcphers@redhat.com>": {
+    "dmcphers@redhat.com": {
         "name": "Dan McPherson",
         "additionalName": "danmcp",
         "worksFor": "Red Hat",
@@ -1015,7 +1151,7 @@
         "email": "dmcphers@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Danny Jones <jonesdl@google.com>": {
+    "jonesdl@google.com": {
         "name": "Danny Jones",
         "additionalName": "Sarsate",
         "worksFor": "",
@@ -1023,7 +1159,7 @@
         "email": "jonesdl@google.com",
         "orgnization": "google.com"
     },
-    "Dan Osborne <daniel.osborne@metaswitch.com>": {
+    "daniel.osborne@metaswitch.com": {
         "name": "Dan Osborne",
         "additionalName": "djosborne",
         "worksFor": "",
@@ -1031,7 +1167,15 @@
         "email": "daniel.osborne@metaswitch.com",
         "orgnization": "metaswitch.com"
     },
-    "Faruk Brbovic <darkgaro@me.com>": {
+    "danw@redhat.com": {
+        "name": "Dan Winship",
+        "additionalName": "danwinship",
+        "worksFor": "Red Hat, Inc.",
+        "homeLocation": "",
+        "email": "danw@redhat.com",
+        "orgnization": "Red Hat, Inc."
+    },
+    "darkgaro@me.com": {
         "name": "Faruk Brbovic",
         "additionalName": "darkgaro",
         "worksFor": "binarygoo inc.",
@@ -1039,7 +1183,7 @@
         "email": "darkgaro@me.com",
         "orgnization": "binarygoo inc."
     },
-    "Dave Bailey <davebailey@google.com>": {
+    "davebailey@google.com": {
         "name": "Dave Bailey",
         "additionalName": "Dave Bailey",
         "worksFor": "",
@@ -1047,7 +1191,7 @@
         "email": "davebailey@google.com",
         "orgnization": "google.com"
     },
-    "Dave <dave@perljedi.com>": {
+    "dave@perljedi.com": {
         "name": "Dave",
         "additionalName": "perljedi",
         "worksFor": "Liquidweb",
@@ -1055,7 +1199,7 @@
         "email": "dave@perljedi.com",
         "orgnization": "Liquidweb"
     },
-    "David Aronchick <aronchick@gmail.com>": {
+    "aronchick@gmail.com": {
         "name": "David Aronchick",
         "additionalName": "aronchick",
         "worksFor": "Hark",
@@ -1063,7 +1207,7 @@
         "email": "aronchick@gmail.com",
         "orgnization": "Hark"
     },
-    "David Calavera <david.calavera@gmail.com>": {
+    "david.calavera@gmail.com": {
         "name": "David Calavera",
         "additionalName": "calavera",
         "worksFor": "",
@@ -1071,7 +1215,7 @@
         "email": "david.calavera@gmail.com",
         "orgnization": "gmail.com"
     },
-    "David Oppenheimer <davidopp@gmail.com>": {
+    "davidopp@gmail.com": {
         "name": "David Oppenheimer",
         "additionalName": "davidopp",
         "worksFor": "",
@@ -1079,7 +1223,7 @@
         "email": "davidopp@gmail.com",
         "orgnization": "gmail.com"
     },
-    "David Oppenheimer <davidopp@google.com>": {
+    "davidopp@google.com": {
         "name": "David Oppenheimer",
         "additionalName": "davidopp",
         "worksFor": "",
@@ -1087,7 +1231,7 @@
         "email": "davidopp@google.com",
         "orgnization": "google.com"
     },
-    "David Reynolds <david@alwaysmovefast.com>": {
+    "david@alwaysmovefast.com": {
         "name": "David Reynolds",
         "additionalName": "davidreynolds",
         "worksFor": "",
@@ -1095,7 +1239,7 @@
         "email": "david@alwaysmovefast.com",
         "orgnization": "alwaysmovefast.com"
     },
-    "David Symonds <dsymonds@golang.org>": {
+    "dsymonds@golang.org": {
         "name": "David Symonds",
         "additionalName": "dsymonds",
         "worksFor": "Google",
@@ -1103,7 +1247,15 @@
         "email": "dsymonds@golang.org",
         "orgnization": "Google"
     },
-    "Dawn Chen <dawnchen@google.com>": {
+    "walter.david@gmail.com": {
+        "name": "David Walter",
+        "additionalName": "davidwalter0",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "walter.david@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "dawnchen@google.com": {
         "name": "Dawn Chen",
         "additionalName": "dchen1107",
         "worksFor": "Google",
@@ -1111,7 +1263,7 @@
         "email": "dawnchen@google.com",
         "orgnization": "Google"
     },
-    "David Eads <deads@redhat.com>": {
+    "deads@redhat.com": {
         "name": "David Eads",
         "additionalName": "deads2k",
         "worksFor": "Red Hat OpenShift",
@@ -1119,7 +1271,15 @@
         "email": "deads@redhat.com",
         "orgnization": "Red Hat OpenShift"
     },
-    "Derek Carr <decarr@redhat.com>": {
+    "devurandom@users.noreply.github.com": {
+        "name": "Dennis Schridde",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "devurandom@users.noreply.github.com",
+        "orgnization": "users.noreply.github.com"
+    },
+    "decarr@redhat.com": {
         "name": "Derek Carr",
         "additionalName": "derekwaynecarr",
         "worksFor": "Red Hat",
@@ -1127,7 +1287,7 @@
         "email": "decarr@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Derek Chiang (Enchi Jiang) <derekchiang93@gmail.com>": {
+    "derekchiang93@gmail.com": {
         "name": "Derek Chiang (Enchi Jiang)",
         "additionalName": "derekchiang",
         "worksFor": "Cornell University",
@@ -1135,7 +1295,7 @@
         "email": "derekchiang93@gmail.com",
         "orgnization": "Cornell University"
     },
-    "Derek Gonyeo <dgonyeo@csh.rit.edu>": {
+    "dgonyeo@csh.rit.edu": {
         "name": "Derek Gonyeo",
         "additionalName": "dgonyeo",
         "worksFor": "CloudFlare",
@@ -1143,7 +1303,15 @@
         "email": "dgonyeo@csh.rit.edu",
         "orgnization": "CloudFlare"
     },
-    "Devashish <devashish.86@gmail.com>": {
+    "parkerderek86@gmail.com": {
+        "name": "Derek Parker",
+        "additionalName": "derekparker",
+        "worksFor": "Hashrocket",
+        "homeLocation": "Chicago, IL",
+        "email": "parkerderek86@gmail.com",
+        "orgnization": "Hashrocket"
+    },
+    "devashish.86@gmail.com": {
         "name": "Devashish",
         "additionalName": "ric03uec",
         "worksFor": "www.shippable.com",
@@ -1151,7 +1319,7 @@
         "email": "devashish.86@gmail.com",
         "orgnization": "www.shippable.com"
     },
-    "Deyuan Deng <deyuan.deng@gmail.com>": {
+    "deyuan.deng@gmail.com": {
         "name": "Deyuan Deng",
         "additionalName": "ddysher",
         "worksFor": "Google",
@@ -1159,7 +1327,7 @@
         "email": "deyuan.deng@gmail.com",
         "orgnization": "Google"
     },
-    "Deyuan Deng <Deyuan.Deng@gmail.com>": {
+    "Deyuan.Deng@gmail.com": {
         "name": "Deyuan Deng",
         "additionalName": "ddysher",
         "worksFor": "Google",
@@ -1167,7 +1335,7 @@
         "email": "Deyuan.Deng@gmail.com",
         "orgnization": "Google"
     },
-    "Deyuan Deng <deyuan@google.com>": {
+    "deyuan@google.com": {
         "name": "Deyuan Deng",
         "additionalName": "ddysher",
         "worksFor": "Google",
@@ -1175,7 +1343,7 @@
         "email": "deyuan@google.com",
         "orgnization": "Google"
     },
-    "Dmitry Vasilets <pronix.service@gmail.com>": {
+    "pronix.service@gmail.com": {
         "name": "Dmitry Vasilets",
         "additionalName": "pronix",
         "worksFor": "ПРОНИКС",
@@ -1183,15 +1351,15 @@
         "email": "pronix.service@gmail.com",
         "orgnization": "ПРОНИКС"
     },
-    "dingh <dinghaiyang@huawei.com>": {
+    "dinghaiyang@huawei.com": {
         "name": "dingh",
         "additionalName": "HaiyangDING",
-        "worksFor": "",
-        "homeLocation": "",
+        "worksFor": "Huawei",
+        "homeLocation": "Nanjing, China",
         "email": "dinghaiyang@huawei.com",
-        "orgnization": "huawei.com"
+        "orgnization": "Huawei"
     },
-    "Di Xu <xudifsd@gmail.com>": {
+    "xudifsd@gmail.com": {
         "name": "Di Xu",
         "additionalName": "xudifsd",
         "worksFor": "",
@@ -1199,7 +1367,7 @@
         "email": "xudifsd@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Daniel Korn <dkorn@redhat.com>": {
+    "dkorn@redhat.com": {
         "name": "Daniel Korn",
         "additionalName": "dkorn",
         "worksFor": "Red Hat",
@@ -1207,7 +1375,7 @@
         "email": "dkorn@redhat.com",
         "orgnization": "Red Hat"
     },
-    "DeShuai Ma <dma@redhat.com>": {
+    "dma@redhat.com": {
         "name": "DeShuai Ma",
         "additionalName": "mdshuai",
         "worksFor": "Red Hat, Inc.",
@@ -1215,7 +1383,7 @@
         "email": "dma@redhat.com",
         "orgnization": "Red Hat, Inc."
     },
-    "Drew Csillag <drewc@spotify.com>": {
+    "drewc@spotify.com": {
         "name": "Drew Csillag",
         "additionalName": "Drew Csillag",
         "worksFor": "",
@@ -1223,7 +1391,7 @@
         "email": "drewc@spotify.com",
         "orgnization": "spotify.com"
     },
-    "Dr. Stefan Schimanski <stefan.schimanski@gmail.com>": {
+    "stefan.schimanski@gmail.com": {
         "name": "Dr. Stefan Schimanski",
         "additionalName": "sttts",
         "worksFor": "",
@@ -1231,7 +1399,7 @@
         "email": "stefan.schimanski@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Dylan Carney <dcarney@gmail.com>": {
+    "dcarney@gmail.com": {
         "name": "Dylan Carney",
         "additionalName": "dcarney",
         "worksFor": "",
@@ -1239,7 +1407,7 @@
         "email": "dcarney@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Ed Costello <epc@epcostello.com>": {
+    "epc@epcostello.com": {
         "name": "Ed Costello",
         "additionalName": "epc",
         "worksFor": "Stigmergy LLC",
@@ -1247,7 +1415,15 @@
         "email": "epc@epcostello.com",
         "orgnization": "Stigmergy LLC"
     },
-    "Edoardo Tosca <edoardo.tosca@gmail.com>": {
+    "ej.simeon@gmail.com": {
+        "name": "Eddie Simeon",
+        "additionalName": "eddiesimeon",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "ej.simeon@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "edoardo.tosca@gmail.com": {
         "name": "Edoardo Tosca",
         "additionalName": "ed0t",
         "worksFor": "Hotels.com",
@@ -1255,7 +1431,7 @@
         "email": "edoardo.tosca@gmail.com",
         "orgnization": "Hotels.com"
     },
-    "Ed Rooth <sym3tri@users.noreply.github.com>": {
+    "sym3tri@users.noreply.github.com": {
         "name": "Ed Rooth",
         "additionalName": "sym3tri",
         "worksFor": "CoreOS",
@@ -1263,7 +1439,15 @@
         "email": "sym3tri@users.noreply.github.com",
         "orgnization": "CoreOS"
     },
-    "Egor Guz <guz_egor@yahoo.com>": {
+    "edwardam@interlix.com": {
+        "name": "Edward Muller",
+        "additionalName": "freeformz",
+        "worksFor": "Heroku",
+        "homeLocation": "Beaverton, OR",
+        "email": "edwardam@interlix.com",
+        "orgnization": "Heroku"
+    },
+    "guz_egor@yahoo.com": {
         "name": "Egor Guz",
         "additionalName": "eghobo",
         "worksFor": "",
@@ -1271,15 +1455,7 @@
         "email": "guz_egor@yahoo.com",
         "orgnization": "yahoo.com"
     },
-    "elsonrodriguez <elson.rodriguez@gmail.com>": {
-        "name": "elsonrodriguez",
-        "additionalName": "elsonrodriguez",
-        "worksFor": "",
-        "homeLocation": "",
-        "email": "elson.rodriguez@gmail.com",
-        "orgnization": "gmail.com"
-    },
-    "Elson Rodriguez <elson.rodriguez@gmail.com>": {
+    "elson.rodriguez@gmail.com": {
         "name": "Elson Rodriguez",
         "additionalName": "elsonrodriguez",
         "worksFor": "",
@@ -1287,15 +1463,15 @@
         "email": "elson.rodriguez@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Eric Elliott <dilvie@dilvie.com>": {
+    "dilvie@dilvie.com": {
         "name": "Eric Elliott",
-        "additionalName": "ericelliott",
-        "worksFor": "Parallel Drive",
-        "homeLocation": "San Francisco, California",
+        "additionalName": "Eric Elliott",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "dilvie@dilvie.com",
-        "orgnization": "Parallel Drive"
+        "orgnization": "dilvie.com"
     },
-    "erickhan <ericha@google.com>": {
+    "ericha@google.com": {
         "name": "erickhan",
         "additionalName": "erickhan",
         "worksFor": "",
@@ -1303,7 +1479,7 @@
         "email": "ericha@google.com",
         "orgnization": "google.com"
     },
-    "Eric Mountain @ Amadeus <eric.mountain@amadeus.com>": {
+    "eric.mountain@amadeus.com": {
         "name": "Eric Mountain @ Amadeus",
         "additionalName": "EricMountain-1A",
         "worksFor": "Amadeus sas",
@@ -1311,7 +1487,7 @@
         "email": "eric.mountain@amadeus.com",
         "orgnization": "Amadeus sas"
     },
-    "Eric Paris <eparis@redhat.com>": {
+    "eparis@redhat.com": {
         "name": "Eric Paris",
         "additionalName": "eparis",
         "worksFor": "Red Hat",
@@ -1319,7 +1495,7 @@
         "email": "eparis@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Eric Tune <etune@google.com>": {
+    "etune@google.com": {
         "name": "Eric Tune",
         "additionalName": "erictune",
         "worksFor": "Google",
@@ -1327,7 +1503,15 @@
         "email": "etune@google.com",
         "orgnization": "Google"
     },
-    "Erik St. Martin <alakriti@gmail.com>": {
+    "eric@discoposse.com": {
+        "name": "Eric Wright",
+        "additionalName": "discoposse",
+        "worksFor": "DiscoPosse",
+        "homeLocation": "Toronto",
+        "email": "eric@discoposse.com",
+        "orgnization": "DiscoPosse"
+    },
+    "alakriti@gmail.com": {
         "name": "Erik St. Martin",
         "additionalName": "erikstmartin",
         "worksFor": "Gopher Academy",
@@ -1335,7 +1519,15 @@
         "email": "alakriti@gmail.com",
         "orgnization": "Gopher Academy"
     },
-    "Evan Flynn <evan.flynn@gmail.com>": {
+    "seandon.mooy@gmail.com": {
+        "name": "Seandon Mooy",
+        "additionalName": "erulabs",
+        "worksFor": "TigerText",
+        "homeLocation": "Santa Monica, California",
+        "email": "seandon.mooy@gmail.com",
+        "orgnization": "TigerText"
+    },
+    "evan.flynn@gmail.com": {
         "name": "Evan Flynn",
         "additionalName": "eflynn",
         "worksFor": "",
@@ -1343,7 +1535,15 @@
         "email": "evan.flynn@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Fabiano Franz <contact@fabianofranz.com>": {
+    "socaa@google.com": {
+        "name": "Ewa Socala",
+        "additionalName": "socaa",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "socaa@google.com",
+        "orgnization": "google.com"
+    },
+    "contact@fabianofranz.com": {
         "name": "Fabiano Franz",
         "additionalName": "fabianofranz",
         "worksFor": "Red Hat",
@@ -1351,7 +1551,7 @@
         "email": "contact@fabianofranz.com",
         "orgnization": "Red Hat"
     },
-    "Fabio Yeon <fabioy@fabioy-macbookpro2.roam.corp.google.com>": {
+    "fabioy@fabioy-macbookpro2.roam.corp.google.com": {
         "name": "Fabio Yeon",
         "additionalName": "fabioy",
         "worksFor": "Google",
@@ -1359,7 +1559,7 @@
         "email": "fabioy@fabioy-macbookpro2.roam.corp.google.com",
         "orgnization": "Google"
     },
-    "Fabio Yeon <fabioy@google.com>": {
+    "fabioy@google.com": {
         "name": "Fabio Yeon",
         "additionalName": "fabioy",
         "worksFor": "Google",
@@ -1367,7 +1567,7 @@
         "email": "fabioy@google.com",
         "orgnization": "Google"
     },
-    "Fabio Yeon <fabioy@users.noreply.github.com>": {
+    "fabioy@users.noreply.github.com": {
         "name": "Fabio Yeon",
         "additionalName": "fabioy",
         "worksFor": "Google",
@@ -1375,7 +1575,7 @@
         "email": "fabioy@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "Federico Simoncelli <fsimonce@redhat.com>": {
+    "fsimonce@redhat.com": {
         "name": "Federico Simoncelli",
         "additionalName": "simon3z",
         "worksFor": "Red Hat",
@@ -1383,15 +1583,23 @@
         "email": "fsimonce@redhat.com",
         "orgnization": "Red Hat"
     },
-    "feihujiang <jiangfeihu@huawei.com>": {
-        "name": "feihujiang",
+    "felix.a.rod@gmail.com": {
+        "name": "Felix Rodriguez",
+        "additionalName": "feelobot",
+        "worksFor": "feelobot",
+        "homeLocation": "San Francisco, California",
+        "email": "felix.a.rod@gmail.com",
+        "orgnization": "feelobot"
+    },
+    "jiangfeihu@huawei.com": {
+        "name": "Flying Tiger",
         "additionalName": "feihujiang",
         "worksFor": "huawei",
         "homeLocation": "",
         "email": "jiangfeihu@huawei.com",
         "orgnization": "huawei"
     },
-    "Filipe Brandenburger <filbranden@google.com>": {
+    "filbranden@google.com": {
         "name": "Filipe Brandenburger",
         "additionalName": "filbranden",
         "worksFor": "Google",
@@ -1399,7 +1607,7 @@
         "email": "filbranden@google.com",
         "orgnization": "Google"
     },
-    "Filip Grzadkowski <filipg@google.com>": {
+    "filipg@google.com": {
         "name": "Filip Grzadkowski",
         "additionalName": "fgrzadkowski",
         "worksFor": "Google Inc",
@@ -1407,7 +1615,7 @@
         "email": "filipg@google.com",
         "orgnization": "Google Inc"
     },
-    "Francisco Souza <f@souza.cc>": {
+    "f@souza.cc": {
         "name": "Francisco Souza",
         "additionalName": "fsouza",
         "worksFor": "",
@@ -1415,7 +1623,15 @@
         "email": "f@souza.cc",
         "orgnization": "souza.cc"
     },
-    "Fumitoshi Ukai <ukai@google.com>": {
+    "fred@fredjean.net": {
+        "name": "Frederic Jean",
+        "additionalName": "fredjean",
+        "worksFor": "",
+        "homeLocation": "Boulder, CO",
+        "email": "fred@fredjean.net",
+        "orgnization": "fredjean.net"
+    },
+    "ukai@google.com": {
         "name": "Fumitoshi Ukai",
         "additionalName": "ukai",
         "worksFor": "Google",
@@ -1423,7 +1639,7 @@
         "email": "ukai@google.com",
         "orgnization": "Google"
     },
-    "Gabe Conradi <gabe@tumblr.com>": {
+    "gabe@tumblr.com": {
         "name": "Gabe Conradi",
         "additionalName": "byxorna",
         "worksFor": "Tumblr",
@@ -1431,7 +1647,7 @@
         "email": "gabe@tumblr.com",
         "orgnization": "Tumblr"
     },
-    "Gabriel Weyer <gabrielweyer@gmail.com>": {
+    "gabrielweyer@gmail.com": {
         "name": "Gabriel Weyer",
         "additionalName": "gabrielweyer",
         "worksFor": "",
@@ -1439,7 +1655,7 @@
         "email": "gabrielweyer@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Gao Zheng <gaozheng0123@163.com>": {
+    "gaozheng0123@163.com": {
         "name": "Gao Zheng",
         "additionalName": "njuicsgz",
         "worksFor": "",
@@ -1447,7 +1663,7 @@
         "email": "gaozheng0123@163.com",
         "orgnization": "163.com"
     },
-    "Gareth Rushgrove <gareth@morethanseven.net>": {
+    "gareth@morethanseven.net": {
         "name": "Gareth Rushgrove",
         "additionalName": "garethr",
         "worksFor": "",
@@ -1455,7 +1671,7 @@
         "email": "gareth@morethanseven.net",
         "orgnization": "morethanseven.net"
     },
-    "George Kuan <commonlisp@gmail.com>": {
+    "commonlisp@gmail.com": {
         "name": "George Kuan",
         "additionalName": "commonlisp",
         "worksFor": "",
@@ -1463,7 +1679,7 @@
         "email": "commonlisp@gmail.com",
         "orgnization": "gmail.com"
     },
-    "gleamglom <gleamglom@gmail.com>": {
+    "gleamglom@gmail.com": {
         "name": "gleamglom",
         "additionalName": "gleamglom",
         "worksFor": "",
@@ -1471,7 +1687,7 @@
         "email": "gleamglom@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Marek Grabowski <gmarek@google.com>": {
+    "gmarek@google.com": {
         "name": "Marek Grabowski",
         "additionalName": "gmarek",
         "worksFor": "Google Inc.",
@@ -1479,7 +1695,7 @@
         "email": "gmarek@google.com",
         "orgnization": "Google Inc."
     },
-    "goltermann <goltermann@google.com>": {
+    "goltermann@google.com": {
         "name": "goltermann",
         "additionalName": "goltermann",
         "worksFor": "",
@@ -1487,7 +1703,7 @@
         "email": "goltermann@google.com",
         "orgnization": "google.com"
     },
-    "goltermann <goltermann@users.noreply.github.com>": {
+    "goltermann@users.noreply.github.com": {
         "name": "goltermann",
         "additionalName": "goltermann",
         "worksFor": "",
@@ -1495,7 +1711,7 @@
         "email": "goltermann@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "gong yong sheng <gong.yongsheng@99cloud.net>": {
+    "gong.yongsheng@99cloud.net": {
         "name": "gong yong sheng",
         "additionalName": "gongysh2004",
         "worksFor": "",
@@ -1503,7 +1719,7 @@
         "email": "gong.yongsheng@99cloud.net",
         "orgnization": "99cloud.net"
     },
-    "Tony Hsu <gosharplite@gmail.com>": {
+    "gosharplite@gmail.com": {
         "name": "Tony Hsu",
         "additionalName": "gosharplite",
         "worksFor": "",
@@ -1511,7 +1727,15 @@
         "email": "gosharplite@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Greg Taylor <snagglepants@gmail.com>": {
+    "gliebowitz@iconectiv.com": {
+        "name": "Greg Liebowitz",
+        "additionalName": "Greg Liebowitz",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "gliebowitz@iconectiv.com",
+        "orgnization": "iconectiv.com"
+    },
+    "snagglepants@gmail.com": {
         "name": "Greg Taylor",
         "additionalName": "gtaylor",
         "worksFor": "Aclima",
@@ -1519,7 +1743,15 @@
         "email": "snagglepants@gmail.com",
         "orgnization": "Aclima"
     },
-    "Gurpartap Singh <contact@gurpartap.com>": {
+    "gouyang@redhat.com": {
+        "name": "Guohua Ouyang",
+        "additionalName": "gouyang",
+        "worksFor": "RedHat",
+        "homeLocation": "Beijing, China",
+        "email": "gouyang@redhat.com",
+        "orgnization": "RedHat"
+    },
+    "contact@gurpartap.com": {
         "name": "Gurpartap Singh",
         "additionalName": "Gurpartap",
         "worksFor": "",
@@ -1527,7 +1759,7 @@
         "email": "contact@gurpartap.com",
         "orgnization": "gurpartap.com"
     },
-    "Gurvinder Singh <gurvindersinghdahiya@gmail.com>": {
+    "gurvindersinghdahiya@gmail.com": {
         "name": "Gurvinder Singh",
         "additionalName": "gurvindersingh",
         "worksFor": "",
@@ -1535,7 +1767,7 @@
         "email": "gurvindersinghdahiya@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Gurvinder Singh <gurvinder.singh@uninett.no>": {
+    "gurvinder.singh@uninett.no": {
         "name": "Gurvinder Singh",
         "additionalName": "gurvindersingh",
         "worksFor": "",
@@ -1543,15 +1775,15 @@
         "email": "gurvinder.singh@uninett.no",
         "orgnization": "uninett.no"
     },
-    "hallucynogenyc <hallucynogenyc@gmail.com>": {
-        "name": "hallucynogenyc",
+    "hallucynogenyc@gmail.com": {
+        "name": "bluehallu",
         "additionalName": "bluehallu",
         "worksFor": "",
         "homeLocation": "London",
         "email": "hallucynogenyc@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Haney Maxwell <hmrmaxwell@gmail.com>": {
+    "hmrmaxwell@gmail.com": {
         "name": "Haney Maxwell",
         "additionalName": "hmrm",
         "worksFor": "Box",
@@ -1559,7 +1791,7 @@
         "email": "hmrmaxwell@gmail.com",
         "orgnization": "Box"
     },
-    "Harry Zhang <harryzhang@zju.edu.cn>": {
+    "harryzhang@zju.edu.cn": {
         "name": "Harry Zhang",
         "additionalName": "resouer",
         "worksFor": "ZheJiang University",
@@ -1567,7 +1799,7 @@
         "email": "harryzhang@zju.edu.cn",
         "orgnization": "ZheJiang University"
     },
-    "Harry Zhang <resouer@gmail.com>": {
+    "resouer@gmail.com": {
         "name": "Harry Zhang",
         "additionalName": "resouer",
         "worksFor": "ZheJiang University",
@@ -1575,7 +1807,7 @@
         "email": "resouer@gmail.com",
         "orgnization": "ZheJiang University"
     },
-    "Hector Virgen <djvirgen@gmail.com>": {
+    "djvirgen@gmail.com": {
         "name": "Hector Virgen",
         "additionalName": "djvirgen",
         "worksFor": "Virgen Technologies",
@@ -1583,7 +1815,7 @@
         "email": "djvirgen@gmail.com",
         "orgnization": "Virgen Technologies"
     },
-    "Hendrik Volkmer <hvolkmer@gmail.com>": {
+    "hvolkmer@gmail.com": {
         "name": "Hendrik Volkmer",
         "additionalName": "hvolkmer",
         "worksFor": "",
@@ -1591,15 +1823,23 @@
         "email": "hvolkmer@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Emma He <hesimei@zju.edu.cn>": {
+    "hesimei@zju.edu.cn": {
         "name": "Emma He",
         "additionalName": "dalanlan",
         "worksFor": "",
         "homeLocation": "",
         "email": "hesimei@zju.edu.cn",
-        "orgnization": "zju.edu.cn"
+        "orgnization": "ZheJiang University"
     },
-    "jeanepaul <jeanepaul@gmail.com>": {
+    "hokutosei": {
+        "name": "jeanepaul",
+        "additionalName": "Hokutosei",
+        "worksFor": "http://luxiar.co.jp/",
+        "homeLocation": "tokyo, japan",
+        "email": "hokutosei",
+        "orgnization": "http://luxiar.co.jp/"
+    },
+    "jeanepaul@gmail.com": {
         "name": "jeanepaul",
         "additionalName": "Hokutosei",
         "worksFor": "http://luxiar.co.jp/",
@@ -1607,7 +1847,7 @@
         "email": "jeanepaul@gmail.com",
         "orgnization": "http://luxiar.co.jp/"
     },
-    "Huamin Chen <hchen@redhat.com>": {
+    "hchen@redhat.com": {
         "name": "Huamin Chen",
         "additionalName": "rootfs",
         "worksFor": "Red Hat",
@@ -1615,7 +1855,7 @@
         "email": "hchen@redhat.com",
         "orgnization": "Red Hat"
     },
-    "huangqg <csuhp007@gmail.com>": {
+    "csuhp007@gmail.com": {
         "name": "huangqg",
         "additionalName": "huangqg",
         "worksFor": "tenxcloud",
@@ -1623,7 +1863,15 @@
         "email": "csuhp007@gmail.com",
         "orgnization": "tenxcloud"
     },
-    "Hunter Freyer <yt@hjfreyer.com>": {
+    "huangyuqi@huawei.com": {
+        "name": "yuqi huang",
+        "additionalName": "huangyuqi",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "huangyuqi@huawei.com",
+        "orgnization": "huawei.com"
+    },
+    "yt@hjfreyer.com": {
         "name": "Hunter Freyer",
         "additionalName": "hjfreyer",
         "worksFor": "Google",
@@ -1631,7 +1879,7 @@
         "email": "yt@hjfreyer.com",
         "orgnization": "Google"
     },
-    "Victor HU <huruifeng@huawei.com>": {
+    "huruifeng@huawei.com": {
         "name": "Victor HU",
         "additionalName": "hurf",
         "worksFor": "",
@@ -1639,7 +1887,15 @@
         "email": "huruifeng@huawei.com",
         "orgnization": "huawei.com"
     },
-    "hyeongkyu.lee <hyeongkyu.lee@navercorp.com>": {
+    "qiaolei2@huawei.com": {
+        "name": "qiaolei",
+        "additionalName": "hw-qiaolei",
+        "worksFor": "Huawei Technologies Co., Ltd.",
+        "homeLocation": "HangZhou, China",
+        "email": "qiaolei2@huawei.com",
+        "orgnization": "Huawei Technologies Co., Ltd."
+    },
+    "hyeongkyu.lee@navercorp.com": {
         "name": "hyeongkyu.lee",
         "additionalName": "leeplay",
         "worksFor": "Naver",
@@ -1647,7 +1903,7 @@
         "email": "hyeongkyu.lee@navercorp.com",
         "orgnization": "Naver"
     },
-    "Ian Lewis <ianmlewis@gmail.com>": {
+    "ianmlewis@gmail.com": {
         "name": "Ian Lewis",
         "additionalName": "IanLewis",
         "worksFor": "Google",
@@ -1655,7 +1911,7 @@
         "email": "ianmlewis@gmail.com",
         "orgnization": "Google"
     },
-    "Ian Lewis <IanMLewis@gmail.com>": {
+    "IanMLewis@gmail.com": {
         "name": "Ian Lewis",
         "additionalName": "IanLewis",
         "worksFor": "Google",
@@ -1663,7 +1919,7 @@
         "email": "IanMLewis@gmail.com",
         "orgnization": "Google"
     },
-    "Ian Miell <ian.miell@gmail.com>": {
+    "ian.miell@gmail.com": {
         "name": "Ian Miell",
         "additionalName": "ianmiell",
         "worksFor": "ShutIt",
@@ -1671,7 +1927,7 @@
         "email": "ian.miell@gmail.com",
         "orgnization": "ShutIt"
     },
-    "Ido Shamun <idoesh1@gmail.com>": {
+    "idoesh1@gmail.com": {
         "name": "Ido Shamun",
         "additionalName": "idosh",
         "worksFor": "",
@@ -1679,7 +1935,7 @@
         "email": "idoesh1@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Ilya Dmitrichenko <errordeveloper@gmail.com>": {
+    "errordeveloper@gmail.com": {
         "name": "Ilya Dmitrichenko",
         "additionalName": "errordeveloper",
         "worksFor": "weave.works",
@@ -1687,7 +1943,7 @@
         "email": "errordeveloper@gmail.com",
         "orgnization": "weave.works"
     },
-    "Ilya Yakovlev <iHile@users.noreply.github.com>": {
+    "iHile@users.noreply.github.com": {
         "name": "Ilya Yakovlev",
         "additionalName": "iHile",
         "worksFor": "",
@@ -1695,7 +1951,7 @@
         "email": "iHile@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "Imesh Guaratne <imesh@apache.org>": {
+    "imesh@apache.org": {
         "name": "Imesh Guaratne",
         "additionalName": "imesh",
         "worksFor": "",
@@ -1703,7 +1959,7 @@
         "email": "imesh@apache.org",
         "orgnization": "apache.org"
     },
-    "Ingo Gottwald <in.gottwald@gmail.com>": {
+    "in.gottwald@gmail.com": {
         "name": "Ingo Gottwald",
         "additionalName": "gottwald",
         "worksFor": "",
@@ -1711,7 +1967,7 @@
         "email": "in.gottwald@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Gaojin CAO <caogaojin.nk@gmail.com>": {
+    "caogaojin.nk@gmail.com": {
         "name": "Gaojin CAO",
         "additionalName": "invenfantasy",
         "worksFor": "CMCC",
@@ -1719,7 +1975,7 @@
         "email": "caogaojin.nk@gmail.com",
         "orgnization": "CMCC"
     },
-    "Isaac Hollander McCreery <ihmccreery@google.com>": {
+    "ihmccreery@google.com": {
         "name": "Isaac Hollander McCreery",
         "additionalName": "ihmccreery",
         "worksFor": "Oberlin College",
@@ -1727,7 +1983,7 @@
         "email": "ihmccreery@google.com",
         "orgnization": "Oberlin College"
     },
-    "Jack Greenfield <jackgr@google.com>": {
+    "jackgr@google.com": {
         "name": "Jack Greenfield",
         "additionalName": "jackgr",
         "worksFor": "Google, Inc.",
@@ -1735,7 +1991,15 @@
         "email": "jackgr@google.com",
         "orgnization": "Google, Inc."
     },
-    "Jakub Hadvig <jhadvig@redhat.com>": {
+    "jacob.tomlinson@informaticslab.co.uk": {
+        "name": "Jacob Tomlinson",
+        "additionalName": "jacobtomlinson",
+        "worksFor": "",
+        "homeLocation": "Exeter, UK",
+        "email": "jacob.tomlinson@informaticslab.co.uk",
+        "orgnization": "informaticslab.co.uk"
+    },
+    "jhadvig@redhat.com": {
         "name": "Jakub Hadvig",
         "additionalName": "jhadvig",
         "worksFor": "Red Hat",
@@ -1743,7 +2007,7 @@
         "email": "jhadvig@redhat.com",
         "orgnization": "Red Hat"
     },
-    "James Davies <jdavies@skedulo.com>": {
+    "jdavies@skedulo.com": {
         "name": "James Davies",
         "additionalName": "James Davies",
         "worksFor": "",
@@ -1751,7 +2015,7 @@
         "email": "jdavies@skedulo.com",
         "orgnization": "skedulo.com"
     },
-    "James DeFelice <james.defelice@gmail.com>": {
+    "james.defelice@gmail.com": {
         "name": "James DeFelice",
         "additionalName": "jdef",
         "worksFor": "Mesosphere",
@@ -1759,7 +2023,7 @@
         "email": "james.defelice@gmail.com",
         "orgnization": "Mesosphere"
     },
-    "James DeFelice <james.defelice@ishisystems.com>": {
+    "james.defelice@ishisystems.com": {
         "name": "James DeFelice",
         "additionalName": "jdef",
         "worksFor": "Mesosphere",
@@ -1767,7 +2031,7 @@
         "email": "james.defelice@ishisystems.com",
         "orgnization": "Mesosphere"
     },
-    "James DeFelice <james@mesosphere.io>": {
+    "james@mesosphere.io": {
         "name": "James DeFelice",
         "additionalName": "jdef",
         "worksFor": "Mesosphere",
@@ -1775,7 +2039,7 @@
         "email": "james@mesosphere.io",
         "orgnization": "Mesosphere"
     },
-    "James Kyle <james@jameskyle.org>": {
+    "james@jameskyle.org": {
         "name": "James Kyle",
         "additionalName": "jameskyle",
         "worksFor": "AT&T Foundry",
@@ -1783,7 +2047,7 @@
         "email": "james@jameskyle.org",
         "orgnization": "AT&T Foundry"
     },
-    "Jan Chaloupka <jchaloup@redhat.com>": {
+    "jchaloup@redhat.com": {
         "name": "Jan Chaloupka",
         "additionalName": "ingvagabund",
         "worksFor": "Red Hat",
@@ -1791,7 +2055,7 @@
         "email": "jchaloup@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Jan Dolecek <juzna.cz@gmail.com>": {
+    "juzna.cz@gmail.com": {
         "name": "Jan Dolecek",
         "additionalName": "juzna",
         "worksFor": "Google",
@@ -1799,7 +2063,7 @@
         "email": "juzna.cz@gmail.com",
         "orgnization": "Google"
     },
-    "Janet Kuo <chiachenk@google.com>": {
+    "chiachenk@google.com": {
         "name": "Janet Kuo",
         "additionalName": "JanetKuo",
         "worksFor": "Google",
@@ -1807,7 +2071,7 @@
         "email": "chiachenk@google.com",
         "orgnization": "Google"
     },
-    "Janet Kuo <JanetKuo@users.noreply.github.com>": {
+    "JanetKuo@users.noreply.github.com": {
         "name": "Janet Kuo",
         "additionalName": "JanetKuo",
         "worksFor": "Google",
@@ -1815,7 +2079,7 @@
         "email": "JanetKuo@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "Jan Šafránek <jsafrane@redhat.com>": {
+    "jsafrane@redhat.com": {
         "name": "Jan Šafránek",
         "additionalName": "jsafrane",
         "worksFor": "Red Hat Inc.",
@@ -1823,7 +2087,7 @@
         "email": "jsafrane@redhat.com",
         "orgnization": "Red Hat Inc."
     },
-    "Jason Giedymin <jasong@apache.org>": {
+    "jasong@apache.org": {
         "name": "Jason Giedymin",
         "additionalName": "JasonGiedymin",
         "worksFor": "",
@@ -1831,7 +2095,7 @@
         "email": "jasong@apache.org",
         "orgnization": "apache.org"
     },
-    "Jason Hunter <jthunter@google.com>": {
+    "jthunter@google.com": {
         "name": "Jason Hunter",
         "additionalName": "invino4",
         "worksFor": "Google",
@@ -1839,7 +2103,7 @@
         "email": "jthunter@google.com",
         "orgnization": "Google"
     },
-    "Jason Rose-Kuhrt <jasonkuhrt@me.com>": {
+    "jasonkuhrt@me.com": {
         "name": "Jason Rose-Kuhrt",
         "additionalName": "jasonkuhrt",
         "worksFor": "littleBits",
@@ -1847,7 +2111,7 @@
         "email": "jasonkuhrt@me.com",
         "orgnization": "littleBits"
     },
-    "Jason Riddle <jason-riddle@users.noreply.github.com>": {
+    "jason-riddle@users.noreply.github.com": {
         "name": "Jason Riddle",
         "additionalName": "jason-riddle",
         "worksFor": "",
@@ -1855,7 +2119,7 @@
         "email": "jason-riddle@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "Jason Riddle <jr1285@vt.edu>": {
+    "jr1285@vt.edu": {
         "name": "Jason Riddle",
         "additionalName": "jason-riddle",
         "worksFor": "",
@@ -1863,7 +2127,7 @@
         "email": "jr1285@vt.edu",
         "orgnization": "vt.edu"
     },
-    "jsdir <jsdirv@gmail.com>": {
+    "jsdirv@gmail.com": {
         "name": "jsdir",
         "additionalName": "jsdir",
         "worksFor": "",
@@ -1871,7 +2135,7 @@
         "email": "jsdirv@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Guangya Liu <liugya@cn.ibm.com>": {
+    "liugya@cn.ibm.com": {
         "name": "Guangya Liu",
         "additionalName": "jay-lau",
         "worksFor": "IBM",
@@ -1879,7 +2143,7 @@
         "email": "liugya@cn.ibm.com",
         "orgnization": "IBM"
     },
-    "Jay Pipes <jaypipes@gmail.com>": {
+    "jaypipes@gmail.com": {
         "name": "Jay Pipes",
         "additionalName": "jaypipes",
         "worksFor": "Mirantis, Inc.",
@@ -1887,7 +2151,7 @@
         "email": "jaypipes@gmail.com",
         "orgnization": "Mirantis, Inc."
     },
-    "Jayson Raymond <jraymond@accelerantmobile.com>": {
+    "jraymond@accelerantmobile.com": {
         "name": "Jayson Raymond",
         "additionalName": "JaysonRaymond",
         "worksFor": "Accelerant Mobile Corp.",
@@ -1895,7 +2159,7 @@
         "email": "jraymond@accelerantmobile.com",
         "orgnization": "Accelerant Mobile Corp."
     },
-    "jay vyas <jay@apache.org>": {
+    "jay@apache.org": {
         "name": "jay vyas",
         "additionalName": "jayunit100",
         "worksFor": "Red Hat Inc.",
@@ -1903,7 +2167,7 @@
         "email": "jay@apache.org",
         "orgnization": "Red Hat Inc."
     },
-    "jay vyas <jayunit100@gmail.com>": {
+    "jayunit100@gmail.com": {
         "name": "jay vyas",
         "additionalName": "jayunit100",
         "worksFor": "Red Hat Inc.",
@@ -1911,15 +2175,15 @@
         "email": "jayunit100@gmail.com",
         "orgnization": "Red Hat Inc."
     },
-    "Jean-Baptiste Dalido <jbdalido@gmail.com>": {
+    "jbdalido@gmail.com": {
         "name": "Jean-Baptiste Dalido",
         "additionalName": "jbdalido",
-        "worksFor": "Batch",
+        "worksFor": "",
         "homeLocation": "Paris, France",
         "email": "jbdalido@gmail.com",
-        "orgnization": "Batch"
+        "orgnization": "gmail.com"
     },
-    "Jean-Francois Chevrette <jf.cron0@gmail.com>": {
+    "jf.cron0@gmail.com": {
         "name": "Jean-Francois Chevrette",
         "additionalName": "jfchevrette",
         "worksFor": "",
@@ -1927,7 +2191,7 @@
         "email": "jf.cron0@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Jeffrey Bean <jeff.bean@hds.com>": {
+    "jeff.bean@hds.com": {
         "name": "Jeffrey Bean",
         "additionalName": "jeffbean",
         "worksFor": "",
@@ -1935,7 +2199,7 @@
         "email": "jeff.bean@hds.com",
         "orgnization": "hds.com"
     },
-    "Jeffrey Bean <jeffreyrobertbean@gmail.com>": {
+    "jeffreyrobertbean@gmail.com": {
         "name": "Jeffrey Bean",
         "additionalName": "jeffbean",
         "worksFor": "",
@@ -1943,7 +2207,7 @@
         "email": "jeffreyrobertbean@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Jeff Grafton <ixdy@users.noreply.github.com>": {
+    "ixdy@users.noreply.github.com": {
         "name": "Jeff Grafton",
         "additionalName": "ixdy",
         "worksFor": "Google",
@@ -1951,7 +2215,7 @@
         "email": "ixdy@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "Jeff Grafton <jgrafton@google.com>": {
+    "jgrafton@google.com": {
         "name": "Jeff Grafton",
         "additionalName": "ixdy",
         "worksFor": "Google",
@@ -1959,7 +2223,7 @@
         "email": "jgrafton@google.com",
         "orgnization": "Google"
     },
-    "Jeff Lowdermilk <jeffml@google.com>": {
+    "jeffml@google.com": {
         "name": "Jeff Lowdermilk",
         "additionalName": "jlowdermilk",
         "worksFor": "",
@@ -1967,7 +2231,7 @@
         "email": "jeffml@google.com",
         "orgnization": "google.com"
     },
-    "Jeff Lowdermilk <tiro.jeff.ml@gmail.com>": {
+    "tiro.jeff.ml@gmail.com": {
         "name": "Jeff Lowdermilk",
         "additionalName": "jlowdermilk",
         "worksFor": "",
@@ -1975,7 +2239,7 @@
         "email": "tiro.jeff.ml@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Jeff Mendoza <jeffmendoza@google.com>": {
+    "jeffmendoza@google.com": {
         "name": "Jeff Mendoza",
         "additionalName": "jeffmendoza",
         "worksFor": "",
@@ -1983,7 +2247,7 @@
         "email": "jeffmendoza@google.com",
         "orgnization": "google.com"
     },
-    "Jeff Mendoza <jeffmendoza@live.com>": {
+    "jeffmendoza@live.com": {
         "name": "Jeff Mendoza",
         "additionalName": "jeffmendoza",
         "worksFor": "",
@@ -1991,7 +2255,7 @@
         "email": "jeffmendoza@live.com",
         "orgnization": "live.com"
     },
-    "Jeff Paine <freighttrain@google.com>": {
+    "freighttrain@google.com": {
         "name": "Jeff Paine",
         "additionalName": "JeffPaine",
         "worksFor": "",
@@ -1999,7 +2263,7 @@
         "email": "freighttrain@google.com",
         "orgnization": "google.com"
     },
-    "Jeffrey Sica <jeef111x@gmail.com>": {
+    "jeef111x@gmail.com": {
         "name": "Jeffrey Sica",
         "additionalName": "jeefy",
         "worksFor": "University of Michigan",
@@ -2007,7 +2271,7 @@
         "email": "jeef111x@gmail.com",
         "orgnization": "University of Michigan"
     },
-    "Jernej Kos <jernej@kos.mx>": {
+    "jernej@kos.mx": {
         "name": "Jernej Kos",
         "additionalName": "kostko",
         "worksFor": "",
@@ -2015,7 +2279,7 @@
         "email": "jernej@kos.mx",
         "orgnization": "kos.mx"
     },
-    "Jeromy Carriere <jcarriere@google.com>": {
+    "jcarriere@google.com": {
         "name": "Jeromy Carriere",
         "additionalName": "Jeromy Carriere",
         "worksFor": "",
@@ -2023,7 +2287,7 @@
         "email": "jcarriere@google.com",
         "orgnization": "google.com"
     },
-    "Jerzy Szczepkowski <jsz@google.com>": {
+    "jsz@google.com": {
         "name": "Jerzy Szczepkowski",
         "additionalName": "jszczepkowski",
         "worksFor": "Google",
@@ -2031,7 +2295,7 @@
         "email": "jsz@google.com",
         "orgnization": "Google"
     },
-    "Jessica Forrester <jforrest@redhat.com>": {
+    "jforrest@redhat.com": {
         "name": "Jessica Forrester",
         "additionalName": "jwforres",
         "worksFor": "Red Hat",
@@ -2039,7 +2303,7 @@
         "email": "jforrest@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Jakub Hadvig <j.hadvig@gmail.com>": {
+    "j.hadvig@gmail.com": {
         "name": "Jakub Hadvig",
         "additionalName": "jhadvig",
         "worksFor": "Red Hat",
@@ -2047,15 +2311,15 @@
         "email": "j.hadvig@gmail.com",
         "orgnization": "Red Hat"
     },
-    "yaoguo <jiangyaoguo@gmail.com>": {
-        "name": "yaoguo",
+    "jiangyaoguo@gmail.com": {
+        "name": "jiangyaoguo",
         "additionalName": "jiangyaoguo",
         "worksFor": "",
         "homeLocation": "",
         "email": "jiangyaoguo@gmail.com",
         "orgnization": "Huawei"
     },
-    "Jian Huang <alfred.huangjian@huawei.com>": {
+    "alfred.huangjian@huawei.com": {
         "name": "Jian Huang",
         "additionalName": "alfred-huangjian",
         "worksFor": "Huawei",
@@ -2063,7 +2327,15 @@
         "email": "alfred.huangjian@huawei.com",
         "orgnization": "Huawei"
     },
-    "Jimmi Dyson <jimmidyson@gmail.com>": {
+    "j.c@navercorp.com": {
+        "name": "Jihoon Chung",
+        "additionalName": "difro",
+        "worksFor": "Naver Corp.",
+        "homeLocation": "Seoul",
+        "email": "j.c@navercorp.com",
+        "orgnization": "Naver Corp."
+    },
+    "jimmidyson@gmail.com": {
         "name": "Jimmi Dyson",
         "additionalName": "jimmidyson",
         "worksFor": "Red Hat",
@@ -2071,15 +2343,15 @@
         "email": "jimmidyson@gmail.com",
         "orgnization": "Red Hat"
     },
-    "jjy <jjyruby@gmail.com>": {
-        "name": "jjy",
+    "jjyruby@gmail.com": {
+        "name": "Hari Jiang",
         "additionalName": "jjyr",
         "worksFor": "",
         "homeLocation": "Shanghai, China",
         "email": "jjyruby@gmail.com",
         "orgnization": "gmail.com"
     },
-    "jkaplowitz <jkaplowitz@users.noreply.github.com>": {
+    "jkaplowitz@users.noreply.github.com": {
         "name": "jkaplowitz",
         "additionalName": "jkaplowitz",
         "worksFor": "",
@@ -2087,31 +2359,31 @@
         "email": "jkaplowitz@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "Joakim Gustin <jocke.gustin@gmail.com>": {
+    "jocke.gustin@gmail.com": {
         "name": "Joakim Gustin",
         "additionalName": "gust1n",
-        "worksFor": "Dynamic Design",
+        "worksFor": "Layer 10",
         "homeLocation": "Göteborg, Sweden",
         "email": "jocke.gustin@gmail.com",
-        "orgnization": "Dynamic Design"
+        "orgnization": "Layer 10"
     },
-    "Joe Beda <joe@bedafamily.com>": {
+    "joe@bedafamily.com": {
         "name": "Joe Beda",
         "additionalName": "jbeda",
         "worksFor": "0xBEDA, LLC",
         "homeLocation": "Seattle, WA",
         "email": "joe@bedafamily.com",
-        "orgnization": "0xBEDA, LLC"
+        "orgnization": "Google"
     },
-    "Joe Beda <joe.github@bedafamily.com>": {
+    "joe.github@bedafamily.com": {
         "name": "Joe Beda",
         "additionalName": "jbeda",
         "worksFor": "0xBEDA, LLC",
         "homeLocation": "Seattle, WA",
         "email": "joe.github@bedafamily.com",
-        "orgnization": "0xBEDA, LLC"
+        "orgnization": "Google"
     },
-    "Joel Sutherland <jdsutherland3@gmail.com>": {
+    "jdsutherland3@gmail.com": {
         "name": "Joel Sutherland",
         "additionalName": "robamaton",
         "worksFor": "Smart Scheduling",
@@ -2119,7 +2391,7 @@
         "email": "jdsutherland3@gmail.com",
         "orgnization": "Smart Scheduling"
     },
-    "Joerg Schad <joerg@mesosphere.io>": {
+    "joerg@mesosphere.io": {
         "name": "Joerg Schad",
         "additionalName": "joerg84",
         "worksFor": "Mesosphere",
@@ -2127,7 +2399,7 @@
         "email": "joerg@mesosphere.io",
         "orgnization": "Mesosphere"
     },
-    "Johan Euphrosine <proppy@google.com>": {
+    "proppy@google.com": {
         "name": "Johan Euphrosine",
         "additionalName": "proppy",
         "worksFor": "Google",
@@ -2135,7 +2407,7 @@
         "email": "proppy@google.com",
         "orgnization": "Google"
     },
-    "Johannes 'fish' Ziemke <github@freigeist.org>": {
+    "github@freigeist.org": {
         "name": "Johannes 'fish' Ziemke",
         "additionalName": "discordianfish",
         "worksFor": "Mesosphere",
@@ -2143,7 +2415,7 @@
         "email": "github@freigeist.org",
         "orgnization": "Mesosphere"
     },
-    "John Asmuth <jasmuth@gmail.com>": {
+    "jasmuth@gmail.com": {
         "name": "John Asmuth",
         "additionalName": "skelterjohn",
         "worksFor": "Google",
@@ -2151,7 +2423,7 @@
         "email": "jasmuth@gmail.com",
         "orgnization": "Google"
     },
-    "john wilkes <johnwilkes@google.com>": {
+    "johnwilkes@google.com": {
         "name": "john wilkes",
         "additionalName": "johnwilkes",
         "worksFor": "",
@@ -2159,7 +2431,7 @@
         "email": "johnwilkes@google.com",
         "orgnization": "google.com"
     },
-    "Jonathan Boulle <jonathan.boulle@coreos.com>": {
+    "jonathan.boulle@coreos.com": {
         "name": "Jonathan Boulle",
         "additionalName": "jonboulle",
         "worksFor": "CoreOS, Inc.",
@@ -2167,7 +2439,7 @@
         "email": "jonathan.boulle@coreos.com",
         "orgnization": "CoreOS, Inc."
     },
-    "Jonathan Wills <runningwild@gmail.com>": {
+    "runningwild@gmail.com": {
         "name": "Jonathan Wills",
         "additionalName": "runningwild",
         "worksFor": "",
@@ -2175,7 +2447,7 @@
         "email": "runningwild@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Jon Langemak <jon@interubernet.com>": {
+    "jon@interubernet.com": {
         "name": "Jon Langemak",
         "additionalName": "jonlangemak",
         "worksFor": "N/A",
@@ -2183,7 +2455,7 @@
         "email": "jon@interubernet.com",
         "orgnization": "N/A"
     },
-    "Junseong Lee <joonsung@devsisters.com>": {
+    "joonsung@devsisters.com": {
         "name": "Junseong Lee",
         "additionalName": "hodduc",
         "worksFor": "SPARCS, KAIST",
@@ -2191,7 +2463,7 @@
         "email": "joonsung@devsisters.com",
         "orgnization": "SPARCS, KAIST"
     },
-    "Jordan Liggitt <jliggitt@redhat.com>": {
+    "jliggitt@redhat.com": {
         "name": "Jordan Liggitt",
         "additionalName": "liggitt",
         "worksFor": "Red Hat",
@@ -2199,7 +2471,15 @@
         "email": "jliggitt@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Joseph Anthony Pasquale Holsten <joseph@josephholsten.com>": {
+    "jg@appeartv.com": {
+        "name": "Jørgen Grøndal",
+        "additionalName": "JorgenG",
+        "worksFor": "",
+        "homeLocation": "Drammen, Norway",
+        "email": "jg@appeartv.com",
+        "orgnization": "appeartv.com"
+    },
+    "joseph@josephholsten.com": {
         "name": "Joseph Anthony Pasquale Holsten",
         "additionalName": "josephholsten",
         "worksFor": "",
@@ -2207,7 +2487,15 @@
         "email": "joseph@josephholsten.com",
         "orgnization": "josephholsten.com"
     },
-    "Julia Ferraioli <julia.ferraioli@gmail.com>": {
+    "jgriffiths.1993@gmail.com": {
+        "name": "Joshua Griffiths",
+        "additionalName": "jgriffiths1993",
+        "worksFor": "Opsview Ltd",
+        "homeLocation": "London",
+        "email": "jgriffiths.1993@gmail.com",
+        "orgnization": "Opsview Ltd"
+    },
+    "julia.ferraioli@gmail.com": {
         "name": "Julia Ferraioli",
         "additionalName": "juliaferraioli",
         "worksFor": "",
@@ -2215,7 +2503,7 @@
         "email": "julia.ferraioli@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Julius Volz <julius.volz@gmail.com>": {
+    "julius.volz@gmail.com": {
         "name": "Julius Volz",
         "additionalName": "juliusv",
         "worksFor": "SoundCloud Ltd.",
@@ -2223,7 +2511,7 @@
         "email": "julius.volz@gmail.com",
         "orgnization": "SoundCloud Ltd."
     },
-    "jumpkick <ironstorm@gmail.com>": {
+    "ironstorm@gmail.com": {
         "name": "jumpkick",
         "additionalName": "jumpkick",
         "worksFor": "",
@@ -2231,7 +2519,7 @@
         "email": "ironstorm@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Junseong Lee <hodduc@hodduc.net>": {
+    "hodduc@hodduc.net": {
         "name": "Junseong Lee",
         "additionalName": "hodduc",
         "worksFor": "SPARCS, KAIST",
@@ -2239,7 +2527,7 @@
         "email": "hodduc@hodduc.net",
         "orgnization": "SPARCS, KAIST"
     },
-    "Justin Huff <jjhuff@mspin.net>": {
+    "jjhuff@mspin.net": {
         "name": "Justin Huff",
         "additionalName": "jjhuff",
         "worksFor": "",
@@ -2247,7 +2535,7 @@
         "email": "jjhuff@mspin.net",
         "orgnization": "mspin.net"
     },
-    "Justin Lindh <justinlindh@gmail.com>": {
+    "justinlindh@gmail.com": {
         "name": "Justin Lindh",
         "additionalName": "justinlindh",
         "worksFor": "Workiva",
@@ -2255,7 +2543,7 @@
         "email": "justinlindh@gmail.com",
         "orgnization": "Workiva"
     },
-    "Justin Lindh <justin.lindh@webfilings.com>": {
+    "justin.lindh@webfilings.com": {
         "name": "Justin Lindh",
         "additionalName": "justinlindh-wf",
         "worksFor": "Workiva",
@@ -2263,15 +2551,23 @@
         "email": "justin.lindh@webfilings.com",
         "orgnization": "Workiva"
     },
-    "Justin Santa Barbara <justin@fathomdb.com>": {
+    "justin@fathomdb.com": {
         "name": "Justin Santa Barbara",
         "additionalName": "justinsb",
         "worksFor": "Meteor",
         "homeLocation": "San Francisco",
         "email": "justin@fathomdb.com",
-        "orgnization": "Meteor"
+        "orgnization": "FathomDB"
     },
-    "Kai Zhang <zakir.exe@gmail.com>": {
+    "k8s.production.user@gmail.com": {
+        "name": "k8s-merge-robot",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "k8s.production.user@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "zakir.exe@gmail.com": {
         "name": "Kai Zhang",
         "additionalName": "kazhang",
         "worksFor": "",
@@ -2279,7 +2575,7 @@
         "email": "zakir.exe@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Kamal Marhubi <kamal@marhubi.com>": {
+    "kamal@marhubi.com": {
         "name": "Kamal Marhubi",
         "additionalName": "kamalmarhubi",
         "worksFor": "",
@@ -2287,7 +2583,7 @@
         "email": "kamal@marhubi.com",
         "orgnization": "marhubi.com"
     },
-    "Michail Kargakis <kargakis@users.noreply.github.com>": {
+    "kargakis@users.noreply.github.com": {
         "name": "Michail Kargakis",
         "additionalName": "kargakis",
         "worksFor": "Red Hat",
@@ -2295,7 +2591,7 @@
         "email": "kargakis@users.noreply.github.com",
         "orgnization": "Red Hat"
     },
-    "Michail Kargakis <michaliskargakis@gmail.com>": {
+    "michaliskargakis@gmail.com": {
         "name": "Michail Kargakis",
         "additionalName": "kargakis",
         "worksFor": "Red Hat",
@@ -2303,7 +2599,15 @@
         "email": "michaliskargakis@gmail.com",
         "orgnization": "Red Hat"
     },
-    "Karl Beecher <karl@endocode.com>": {
+    "mkargaki@redhat.com": {
+        "name": "Michail Kargakis",
+        "additionalName": "kargakis",
+        "worksFor": "Red Hat",
+        "homeLocation": "",
+        "email": "mkargaki@redhat.com",
+        "orgnization": "Red Hat"
+    },
+    "karl@endocode.com": {
         "name": "Karl Beecher",
         "additionalName": "kbeecher",
         "worksFor": "",
@@ -2311,7 +2615,7 @@
         "email": "karl@endocode.com",
         "orgnization": "endocode.com"
     },
-    "Karl Isenberg <karl@mesosphere.io>": {
+    "karl@mesosphere.io": {
         "name": "Karl Isenberg",
         "additionalName": "karlkfi",
         "worksFor": "Mesoshpere, Inc.",
@@ -2319,23 +2623,23 @@
         "email": "karl@mesosphere.io",
         "orgnization": "Mesoshpere, Inc."
     },
-    "Kathrin Probst <kprobst@google.com>": {
+    "kprobst@google.com": {
         "name": "Kathrin Probst",
         "additionalName": "Kathrin Probst",
         "worksFor": "",
         "homeLocation": "",
         "email": "kprobst@google.com",
-        "orgnization": "google.com"
+        "orgnization": "Google"
     },
-    "Kathrin Probst <kprobst@kprobst-macbookair2.roam.corp.google.com>": {
+    "kprobst@kprobst-macbookair2.roam.corp.google.com": {
         "name": "Kathrin Probst",
         "additionalName": "Kathrin Probst",
         "worksFor": "",
         "homeLocation": "",
         "email": "kprobst@kprobst-macbookair2.roam.corp.google.com",
-        "orgnization": "kprobst-macbookair2.roam.corp.google.com"
+        "orgnization": "Google"
     },
-    "Kazuki Suda <kazuki.suda@gmail.com>": {
+    "kazuki.suda@gmail.com": {
         "name": "Kazuki Suda",
         "additionalName": "superbrothers",
         "worksFor": "Yahoo Japan Corporation",
@@ -2343,7 +2647,7 @@
         "email": "kazuki.suda@gmail.com",
         "orgnization": "Yahoo Japan Corporation"
     },
-    "Keisuke Oohashi <keisuke.oohashi@gmail.com>": {
+    "keisuke.oohashi@gmail.com": {
         "name": "Keisuke Oohashi",
         "additionalName": "soundTricker",
         "worksFor": "",
@@ -2351,7 +2655,7 @@
         "email": "keisuke.oohashi@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Kel Cecil <kelcecil@praisechaos.com>": {
+    "kelcecil@praisechaos.com": {
         "name": "Kel Cecil",
         "additionalName": "kelcecil",
         "worksFor": "",
@@ -2359,7 +2663,7 @@
         "email": "kelcecil@praisechaos.com",
         "orgnization": "praisechaos.com"
     },
-    "Kelsey Hightower <kelsey.hightower@gmail.com>": {
+    "kelsey.hightower@gmail.com": {
         "name": "Kelsey Hightower",
         "additionalName": "kelseyhightower",
         "worksFor": "CoreOS, Inc",
@@ -2367,7 +2671,7 @@
         "email": "kelsey.hightower@gmail.com",
         "orgnization": "CoreOS, Inc"
     },
-    "Kenjiro Nakayama <nakayamakenjiro@gmail.com>": {
+    "nakayamakenjiro@gmail.com": {
         "name": "Kenjiro Nakayama",
         "additionalName": "nak3",
         "worksFor": "Red Hat Japan",
@@ -2375,7 +2679,7 @@
         "email": "nakayamakenjiro@gmail.com",
         "orgnization": "Red Hat Japan"
     },
-    "Kai Qiang Wu <wkq5325@gmail.com>": {
+    "wkq5325@gmail.com": {
         "name": "Kai Qiang Wu",
         "additionalName": "HackToday",
         "worksFor": "IBM",
@@ -2383,7 +2687,15 @@
         "email": "wkq5325@gmail.com",
         "orgnization": "IBM"
     },
-    "Kevin Lyda <kevin@ie.suberic.net>": {
+    "rimey@google.com": {
+        "name": "Ken Rimey",
+        "additionalName": "rimey",
+        "worksFor": "Google",
+        "homeLocation": "",
+        "email": "rimey@google.com",
+        "orgnization": "Google"
+    },
+    "kevin@ie.suberic.net": {
         "name": "Kevin Lyda",
         "additionalName": "lyda",
         "worksFor": "",
@@ -2391,7 +2703,15 @@
         "email": "kevin@ie.suberic.net",
         "orgnization": "ie.suberic.net"
     },
-    "Kieran O'Mahony <kieranom@gmail.com>": {
+    "wangzefeng@huawei.com": {
+        "name": "Kevin",
+        "additionalName": "kevin-wangzefeng",
+        "worksFor": "Huawei Technologies",
+        "homeLocation": "Hangzhou,China",
+        "email": "wangzefeng@huawei.com",
+        "orgnization": "Huawei Technologies"
+    },
+    "kieranom@gmail.com": {
         "name": "Kieran O'Mahony",
         "additionalName": "Komnomnomnom",
         "worksFor": "",
@@ -2399,15 +2719,15 @@
         "email": "kieranom@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Alex Mohr <kitm@google.com>": {
-        "name": "Alex Mohr",
-        "additionalName": "alex-mohr",
-        "worksFor": "Google",
-        "homeLocation": "Seattle",
+    "kitm@google.com": {
+        "name": "Kit Merker",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "kitm@google.com",
-        "orgnization": "Google"
+        "orgnization": "google.com"
     },
-    "KORNISTE <Korniste@Kornisteui-MacBook-Pro.local>": {
+    "Korniste@Kornisteui-MacBook-Pro.local": {
         "name": "KORNISTE",
         "additionalName": "KORNISTE",
         "worksFor": "",
@@ -2415,7 +2735,7 @@
         "email": "Korniste@Kornisteui-MacBook-Pro.local",
         "orgnization": "Kornisteui-MacBook-Pro.local"
     },
-    "Kouhei Ueno <kouhei@google.com>": {
+    "kouhei@google.com": {
         "name": "Kouhei Ueno",
         "additionalName": "nyaxt",
         "worksFor": "Google Japan, Inc.",
@@ -2423,15 +2743,7 @@
         "email": "kouhei@google.com",
         "orgnization": "Google Japan, Inc."
     },
-    "Kris <krousey@google.com>": {
-        "name": "Kris",
-        "additionalName": "krousey",
-        "worksFor": "Google",
-        "homeLocation": "",
-        "email": "krousey@google.com",
-        "orgnization": "Google"
-    },
-    "Kris Rousey <krousey@google.com>": {
+    "krousey@google.com": {
         "name": "Kris Rousey",
         "additionalName": "krousey",
         "worksFor": "Google",
@@ -2439,7 +2751,7 @@
         "email": "krousey@google.com",
         "orgnization": "Google"
     },
-    "krousey <krousey@users.noreply.github.com>": {
+    "krousey@users.noreply.github.com": {
         "name": "krousey",
         "additionalName": "krousey",
         "worksFor": "Google",
@@ -2447,7 +2759,7 @@
         "email": "krousey@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "Kyle Mathews <mathews.kyle@gmail.com>": {
+    "mathews.kyle@gmail.com": {
         "name": "Kyle Mathews",
         "additionalName": "KyleAMathews",
         "worksFor": "RelateRocket",
@@ -2455,7 +2767,7 @@
         "email": "mathews.kyle@gmail.com",
         "orgnization": "RelateRocket"
     },
-    "Lénaïc Huard <lhuard@amadeus.com>": {
+    "lhuard@amadeus.com": {
         "name": "Lénaïc Huard",
         "additionalName": "lhuard1A",
         "worksFor": "Amadeus SAS",
@@ -2463,7 +2775,7 @@
         "email": "lhuard@amadeus.com",
         "orgnization": "Amadeus SAS"
     },
-    "Liang-Chi Hsieh <viirya@gmail.com>": {
+    "viirya@gmail.com": {
         "name": "Liang-Chi Hsieh",
         "additionalName": "viirya",
         "worksFor": "Appier",
@@ -2471,7 +2783,15 @@
         "email": "viirya@gmail.com",
         "orgnization": "Appier"
     },
-    "Li Tian <tianli8954@gmail.com>": {
+    "liguangbo@huawei.com": {
+        "name": "liguangbo",
+        "additionalName": "liguangbo",
+        "worksFor": "Huawei",
+        "homeLocation": "Hangzhou,China",
+        "email": "liguangbo@huawei.com",
+        "orgnization": "Huawei"
+    },
+    "tianli8954@gmail.com": {
         "name": "Li Tian",
         "additionalName": "litian54",
         "worksFor": "",
@@ -2479,7 +2799,7 @@
         "email": "tianli8954@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Luke Benson <luke.benson@emergingstack.com>": {
+    "luke.benson@emergingstack.com": {
         "name": "Luke Benson",
         "additionalName": "Luke Benson",
         "worksFor": "",
@@ -2487,15 +2807,23 @@
         "email": "luke.benson@emergingstack.com",
         "orgnization": "emergingstack.com"
     },
-    "Lv Lv <github@lvlv.email>": {
+    "github@lvlv.email": {
         "name": "Lv Lv",
         "additionalName": "lvlv",
-        "worksFor": "",
+        "worksFor": "Transwarp",
         "homeLocation": "",
         "email": "github@lvlv.email",
-        "orgnization": "lvlv.email"
+        "orgnization": "Transwarp"
     },
-    "Maciej Chmielarski <m.chmielarski@gmail.com>": {
+    "linzichang@huawei.com": {
+        "name": "Zichang Lin",
+        "additionalName": "linzichang",
+        "worksFor": "Huawei",
+        "homeLocation": "",
+        "email": "linzichang@huawei.com",
+        "orgnization": "Huawei"
+    },
+    "m.chmielarski@gmail.com": {
         "name": "Maciej Chmielarski",
         "additionalName": "mchmielarski",
         "worksFor": "",
@@ -2503,15 +2831,15 @@
         "email": "m.chmielarski@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Maciej Szulik <maszulik@redhat.com>": {
+    "maszulik@redhat.com": {
         "name": "Maciej Szulik",
         "additionalName": "soltysh",
         "worksFor": "Red Hat, Inc.",
-        "homeLocation": "",
+        "homeLocation": "Poland",
         "email": "maszulik@redhat.com",
         "orgnization": "Red Hat, Inc."
     },
-    "Madis Nõmme <madis.nomme@gmail.com>": {
+    "madis.nomme@gmail.com": {
         "name": "Madis Nõmme",
         "additionalName": "madis",
         "worksFor": "",
@@ -2519,7 +2847,7 @@
         "email": "madis.nomme@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Manan Saraf <saraf3@illinois.edu>": {
+    "saraf3@illinois.edu": {
         "name": "Manan Saraf",
         "additionalName": "manansaraf",
         "worksFor": "Box",
@@ -2527,7 +2855,7 @@
         "email": "saraf3@illinois.edu",
         "orgnization": "Box"
     },
-    "Manfred Geiler <manfred.geiler@irian.at>": {
+    "manfred.geiler@irian.at": {
         "name": "Manfred Geiler",
         "additionalName": "manolitto",
         "worksFor": "Irian Solutions",
@@ -2535,7 +2863,7 @@
         "email": "manfred.geiler@irian.at",
         "orgnization": "Irian Solutions"
     },
-    "Manuel Amador (Rudd-O) <rudd-o@rudd-o.com>": {
+    "rudd-o@rudd-o.com": {
         "name": "Manuel Amador (Rudd-O)",
         "additionalName": "Rudd-O",
         "worksFor": "",
@@ -2543,7 +2871,7 @@
         "email": "rudd-o@rudd-o.com",
         "orgnization": "rudd-o.com"
     },
-    "Marc Cyprien <marc.cyprien@esigetel.net>": {
+    "marc.cyprien@esigetel.net": {
         "name": "Marc Cyprien",
         "additionalName": "Marc Cyprien",
         "worksFor": "",
@@ -2551,7 +2879,7 @@
         "email": "marc.cyprien@esigetel.net",
         "orgnization": "esigetel.net"
     },
-    "Marcel Hauf <mail@marcelhauf.name>": {
+    "mail@marcelhauf.name": {
         "name": "Marcel Hauf",
         "additionalName": "marshauf",
         "worksFor": "",
@@ -2559,7 +2887,7 @@
         "email": "mail@marcelhauf.name",
         "orgnization": "marcelhauf.name"
     },
-    "Marcin Wielgus <mwielgus@google.com>": {
+    "mwielgus@google.com": {
         "name": "Marcin Wielgus",
         "additionalName": "mwielgus",
         "worksFor": "Google",
@@ -2567,7 +2895,7 @@
         "email": "mwielgus@google.com",
         "orgnization": "Google"
     },
-    "Marc Tamsky <tamsky@users.noreply.github.com>": {
+    "tamsky@users.noreply.github.com": {
         "name": "Marc Tamsky",
         "additionalName": "tamsky",
         "worksFor": "",
@@ -2575,7 +2903,7 @@
         "email": "tamsky@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "Marc Tremblay <marcandre.tr@gmail.com>": {
+    "marcandre.tr@gmail.com": {
         "name": "Marc Tremblay",
         "additionalName": "marctrem",
         "worksFor": "CS Student @ UQÀM",
@@ -2583,7 +2911,7 @@
         "email": "marcandre.tr@gmail.com",
         "orgnization": "CS Student @ UQÀM"
     },
-    "Marek Biskup <biskup@google.com>": {
+    "biskup@google.com": {
         "name": "Marek Biskup",
         "additionalName": "marekbiskup",
         "worksFor": "Google",
@@ -2591,7 +2919,7 @@
         "email": "biskup@google.com",
         "orgnization": "Google"
     },
-    "Marek Biskup <marekbiskup@users.noreply.github.com>": {
+    "marekbiskup@users.noreply.github.com": {
         "name": "Marek Biskup",
         "additionalName": "marekbiskup",
         "worksFor": "Google",
@@ -2599,7 +2927,7 @@
         "email": "marekbiskup@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "Marek Grabowski <grmarek@gmail.com>": {
+    "grmarek@gmail.com": {
         "name": "Marek Grabowski",
         "additionalName": "gmarek",
         "worksFor": "Google Inc.",
@@ -2607,7 +2935,7 @@
         "email": "grmarek@gmail.com",
         "orgnization": "Google Inc."
     },
-    "Maria Niță <maria.nita.dn@gmail.com>": {
+    "maria.nita.dn@gmail.com": {
         "name": "Maria Niță",
         "additionalName": "maria",
         "worksFor": "Kalon",
@@ -2615,7 +2943,7 @@
         "email": "maria.nita.dn@gmail.com",
         "orgnization": "Kalon"
     },
-    "Mark deVilliers <markdevilliers@gmail.com>": {
+    "markdevilliers@gmail.com": {
         "name": "Mark deVilliers",
         "additionalName": "mdevilliers",
         "worksFor": "",
@@ -2623,7 +2951,7 @@
         "email": "markdevilliers@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Mark Lamourine <markllama@gmail.com>": {
+    "markllama@gmail.com": {
         "name": "Mark Lamourine",
         "additionalName": "markllama",
         "worksFor": "Red Hat",
@@ -2631,7 +2959,7 @@
         "email": "markllama@gmail.com",
         "orgnization": "Red Hat"
     },
-    "Mark Maglana <mmaglana@gmail.com>": {
+    "mmaglana@gmail.com": {
         "name": "Mark Maglana",
         "additionalName": "relaxdiego",
         "worksFor": "",
@@ -2639,7 +2967,7 @@
         "email": "mmaglana@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Marko Lukša <marko.luksa@gmail.com>": {
+    "marko.luksa@gmail.com": {
         "name": "Marko Lukša",
         "additionalName": "luksa",
         "worksFor": "Red Hat",
@@ -2647,7 +2975,15 @@
         "email": "marko.luksa@gmail.com",
         "orgnization": "Red Hat"
     },
-    "Mark Petrovic <mspetrovic@gmail.com>": {
+    "mark.petrovic@xoom.com": {
+        "name": "Mark Petrovic",
+        "additionalName": "ae6rt",
+        "worksFor": "",
+        "homeLocation": "Petaluma, CA",
+        "email": "mark.petrovic@xoom.com",
+        "orgnization": "xoom.com"
+    },
+    "mspetrovic@gmail.com": {
         "name": "Mark Petrovic",
         "additionalName": "ae6rt",
         "worksFor": "",
@@ -2655,7 +2991,7 @@
         "email": "mspetrovic@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Mark Turansky <mturansk@redhat.com>": {
+    "mturansk@redhat.com": {
         "name": "Mark Turansky",
         "additionalName": "markturansky",
         "worksFor": "Red Hat, Inc.",
@@ -2663,7 +2999,7 @@
         "email": "mturansk@redhat.com",
         "orgnization": "Red Hat, Inc."
     },
-    "Martin Gannholm <martin@way2clever.com>": {
+    "martin@way2clever.com": {
         "name": "Martin Gannholm",
         "additionalName": "mgannholm",
         "worksFor": "",
@@ -2671,7 +3007,7 @@
         "email": "martin@way2clever.com",
         "orgnization": "way2clever.com"
     },
-    "Martin Nagy <nagy.martin@gmail.com>": {
+    "nagy.martin@gmail.com": {
         "name": "Martin Nagy",
         "additionalName": "mnagy",
         "worksFor": "Red Hat",
@@ -2679,7 +3015,7 @@
         "email": "nagy.martin@gmail.com",
         "orgnization": "Red Hat"
     },
-    "Maru Newby <marun@redhat.com>": {
+    "marun@redhat.com": {
         "name": "Maru Newby",
         "additionalName": "marun",
         "worksFor": "Red Hat",
@@ -2687,7 +3023,7 @@
         "email": "marun@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Masahiro Sano <sabo.ttenda@gmail.com>": {
+    "sabo.ttenda@gmail.com": {
         "name": "Masahiro Sano",
         "additionalName": "kazegusuri",
         "worksFor": "",
@@ -2695,15 +3031,23 @@
         "email": "sabo.ttenda@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Mat Schaffer <mat@schaffer.me>": {
+    "matmaul@gmail.com": {
+        "name": "Mathieu Velten",
+        "additionalName": "MatMaul",
+        "worksFor": "Atos",
+        "homeLocation": "Toulouse",
+        "email": "matmaul@gmail.com",
+        "orgnization": "Atos"
+    },
+    "mat@schaffer.me": {
         "name": "Mat Schaffer",
         "additionalName": "matschaffer",
-        "worksFor": "Stellar Development Foundation",
+        "worksFor": "",
         "homeLocation": "Gifu, Japan",
         "email": "mat@schaffer.me",
-        "orgnization": "Stellar Development Foundation"
+        "orgnization": "schaffer.me"
     },
-    "Matt Bogosian (formerly @mbogosian) <mtb19@columbia.edu>": {
+    "mtb19@columbia.edu": {
         "name": "Matt Bogosian (formerly @mbogosian)",
         "additionalName": "posita",
         "worksFor": "Veritaseum, Inc.",
@@ -2711,7 +3055,7 @@
         "email": "mtb19@columbia.edu",
         "orgnization": "Veritaseum, Inc."
     },
-    "Matt Bruzek <matthew.bruzek@canonical.com>": {
+    "matthew.bruzek@canonical.com": {
         "name": "Matt Bruzek",
         "additionalName": "mbruzek",
         "worksFor": "",
@@ -2719,7 +3063,7 @@
         "email": "matthew.bruzek@canonical.com",
         "orgnization": "canonical.com"
     },
-    "Matt Bruzek <mbruzek@gmail.com>": {
+    "mbruzek@gmail.com": {
         "name": "Matt Bruzek",
         "additionalName": "mbruzek",
         "worksFor": "",
@@ -2727,7 +3071,7 @@
         "email": "mbruzek@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Matthew Farrellee <matt@redhat.com>": {
+    "matt@redhat.com": {
         "name": "Matthew Farrellee",
         "additionalName": "mattf",
         "worksFor": "",
@@ -2735,7 +3079,23 @@
         "email": "matt@redhat.com",
         "orgnization": "redhat.com"
     },
-    "Matt Moore <mattmoor@google.com>": {
+    "matt.jibson@gmail.com": {
+        "name": "Matt Jibson",
+        "additionalName": "mjibson",
+        "worksFor": "CoreOS",
+        "homeLocation": "New York, NY",
+        "email": "matt.jibson@gmail.com",
+        "orgnization": "CoreOS"
+    },
+    "mattnenterprise@yahoo.com": {
+        "name": "Matt McCoy",
+        "additionalName": "mattnenterprise",
+        "worksFor": "Listhub",
+        "homeLocation": "Morgantown, WV",
+        "email": "mattnenterprise@yahoo.com",
+        "orgnization": "Listhub"
+    },
+    "mattmoor@google.com": {
         "name": "Matt Moore",
         "additionalName": "mattmoor",
         "worksFor": "",
@@ -2743,7 +3103,7 @@
         "email": "mattmoor@google.com",
         "orgnization": "google.com"
     },
-    "Matt T. Proud <matt.proud@gmail.com>": {
+    "matt.proud@gmail.com": {
         "name": "Matt T. Proud",
         "additionalName": "matttproud",
         "worksFor": "",
@@ -2751,7 +3111,7 @@
         "email": "matt.proud@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Maxwell Forbes <maxforbes@google.com>": {
+    "maxforbes@google.com": {
         "name": "Maxwell Forbes",
         "additionalName": "mbforbes",
         "worksFor": "Google",
@@ -2759,7 +3119,7 @@
         "email": "maxforbes@google.com",
         "orgnization": "Google"
     },
-    "Maxwell Forbes <mbforbes@users.noreply.github.com>": {
+    "mbforbes@users.noreply.github.com": {
         "name": "Maxwell Forbes",
         "additionalName": "mbforbes",
         "worksFor": "Google",
@@ -2767,7 +3127,7 @@
         "email": "mbforbes@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "mazswojejzony <mazswojejzony@users.noreply.github.com>": {
+    "mazswojejzony@users.noreply.github.com": {
         "name": "mazswojejzony",
         "additionalName": "mazswojejzony",
         "worksFor": "",
@@ -2775,7 +3135,7 @@
         "email": "mazswojejzony@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "Meir Fischer <meirfischer@gmail.com>": {
+    "meirfischer@gmail.com": {
         "name": "Meir Fischer",
         "additionalName": "meirf",
         "worksFor": "",
@@ -2783,7 +3143,7 @@
         "email": "meirfischer@gmail.com",
         "orgnization": "gmail.com"
     },
-    "mgannholm <mgannholm@users.noreply.github.com>": {
+    "mgannholm@users.noreply.github.com": {
         "name": "mgannholm",
         "additionalName": "mgannholm",
         "worksFor": "",
@@ -2791,7 +3151,15 @@
         "email": "mgannholm@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "Michael Bessolov <mbessolov@users.noreply.github.com>": {
+    "mbabker@flbab.com": {
+        "name": "Michael Babker",
+        "additionalName": "mbabker",
+        "worksFor": "WebSpark, Inc.",
+        "homeLocation": "Burlington, NC, USA",
+        "email": "mbabker@flbab.com",
+        "orgnization": "WebSpark, Inc."
+    },
+    "mbessolov@users.noreply.github.com": {
         "name": "Michael Bessolov",
         "additionalName": "mbessolov",
         "worksFor": "",
@@ -2799,7 +3167,7 @@
         "email": "mbessolov@users.noreply.github.com",
         "orgnization": "users.noreply.github.com"
     },
-    "Mike Danese <mikedanese@google.com>": {
+    "mikedanese@google.com": {
         "name": "Mike Danese",
         "additionalName": "mikedanese",
         "worksFor": "Google",
@@ -2807,15 +3175,15 @@
         "email": "mikedanese@google.com",
         "orgnization": "Google"
     },
-    "Michael Jeffrey <mjeffrey@mjeffrey-macpro.kir.corp.google.com>": {
+    "mjeffrey@mjeffrey-macpro.kir.corp.google.com": {
         "name": "Michael Jeffrey",
         "additionalName": "Michael Jeffrey",
         "worksFor": "",
         "homeLocation": "",
         "email": "mjeffrey@mjeffrey-macpro.kir.corp.google.com",
-        "orgnization": "mjeffrey-macpro.kir.corp.google.com"
+        "orgnization": "Google"
     },
-    "Michal Fojtik <mfojtik@redhat.com>": {
+    "mfojtik@redhat.com": {
         "name": "Michal Fojtik",
         "additionalName": "mfojtik",
         "worksFor": "Red Hat, Inc",
@@ -2823,7 +3191,15 @@
         "email": "mfojtik@redhat.com",
         "orgnization": "Red Hat, Inc"
     },
-    "Miguel Perez <mperez@mediamath.com>": {
+    "miciah.masters@gmail.com": {
+        "name": "Miciah Dashiel Butler Masters",
+        "additionalName": "Miciah",
+        "worksFor": "Red Hat, Inc.",
+        "homeLocation": "Raleigh, North Carolina",
+        "email": "miciah.masters@gmail.com",
+        "orgnization": "Red Hat, Inc."
+    },
+    "mperez@mediamath.com": {
         "name": "Miguel Perez",
         "additionalName": "miguel250",
         "worksFor": "MediaMath",
@@ -2831,7 +3207,7 @@
         "email": "mperez@mediamath.com",
         "orgnization": "MediaMath"
     },
-    "Mikaël Cluseau <mikael.cluseau@gmail.com>": {
+    "mikael.cluseau@gmail.com": {
         "name": "Mikaël Cluseau",
         "additionalName": "Mikaël Cluseau",
         "worksFor": "",
@@ -2839,7 +3215,7 @@
         "email": "mikael.cluseau@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Mike Danese <mikedanese@gmail.com>": {
+    "mikedanese@gmail.com": {
         "name": "Mike Danese",
         "additionalName": "mikedanese",
         "worksFor": "Google",
@@ -2847,7 +3223,7 @@
         "email": "mikedanese@gmail.com",
         "orgnization": "Google"
     },
-    "Mike Foley <mfoley@manh.com>": {
+    "mfoley@manh.com": {
         "name": "Mike Foley",
         "additionalName": "Mike Foley",
         "worksFor": "",
@@ -2855,7 +3231,7 @@
         "email": "mfoley@manh.com",
         "orgnization": "manh.com"
     },
-    "MikeJeffrey <mike.jeffrey@gmail.com>": {
+    "mike.jeffrey@gmail.com": {
         "name": "MikeJeffrey",
         "additionalName": "MikeJeffrey",
         "worksFor": "Google",
@@ -2863,7 +3239,7 @@
         "email": "mike.jeffrey@gmail.com",
         "orgnization": "Google"
     },
-    "MikeJeffrey <MikeJeffrey@users.noreply.github.com>": {
+    "MikeJeffrey@users.noreply.github.com": {
         "name": "MikeJeffrey",
         "additionalName": "MikeJeffrey",
         "worksFor": "Google",
@@ -2871,7 +3247,7 @@
         "email": "MikeJeffrey@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "Mikel Nelson <github@mikelnelson.net>": {
+    "github@mikelnelson.net": {
         "name": "Mikel Nelson",
         "additionalName": "mikeln",
         "worksFor": "Samsung SDS America",
@@ -2879,7 +3255,7 @@
         "email": "github@mikelnelson.net",
         "orgnization": "Samsung SDS America"
     },
-    "Mike Schiller <mdschiller@gmail.com>": {
+    "mdschiller@gmail.com": {
         "name": "Mike Schiller",
         "additionalName": "mike-schiller",
         "worksFor": "",
@@ -2887,7 +3263,7 @@
         "email": "mdschiller@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Matthew Riley <mdriley@gmail.com>": {
+    "mdriley@gmail.com": {
         "name": "Matthew Riley",
         "additionalName": "mmdriley",
         "worksFor": "Google",
@@ -2895,7 +3271,15 @@
         "email": "mdriley@gmail.com",
         "orgnization": "Google"
     },
-    "Morten Andersen <m@qse.no>": {
+    "morten@vianett.no": {
+        "name": "Morten Andersen",
+        "additionalName": "moander",
+        "worksFor": "",
+        "homeLocation": "Norway",
+        "email": "morten@vianett.no",
+        "orgnization": "vianett.no"
+    },
+    "m@qse.no": {
         "name": "Morten Andersen",
         "additionalName": "moander",
         "worksFor": "",
@@ -2903,7 +3287,7 @@
         "email": "m@qse.no",
         "orgnization": "qse.no"
     },
-    "Mrunal Patel <mrunalp@gmail.com>": {
+    "mrunalp@gmail.com": {
         "name": "Mrunal Patel",
         "additionalName": "mrunalp",
         "worksFor": "",
@@ -2911,7 +3295,7 @@
         "email": "mrunalp@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Michael Scherer <misc@zarb.org>": {
+    "misc@zarb.org": {
         "name": "Michael Scherer",
         "additionalName": "mscherer",
         "worksFor": "",
@@ -2919,15 +3303,23 @@
         "email": "misc@zarb.org",
         "orgnization": "zarb.org"
     },
-    "Muhammed Uluyol <uluyol@google.com>": {
+    "uluyol0@gmail.com": {
         "name": "Muhammed Uluyol",
         "additionalName": "uluyol",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "uluyol0@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "uluyol@google.com": {
+        "name": "Muhammed Uluyol",
+        "additionalName": "Muhammed Uluyol",
         "worksFor": "",
         "homeLocation": "",
         "email": "uluyol@google.com",
         "orgnization": "google.com"
     },
-    "Nalin Dahyabhai <nalin@redhat.com>": {
+    "nalin@redhat.com": {
         "name": "Nalin Dahyabhai",
         "additionalName": "nalind",
         "worksFor": "Red Hat",
@@ -2935,7 +3327,7 @@
         "email": "nalin@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Nan Deng <dengnan@google.com>": {
+    "dengnan@google.com": {
         "name": "Nan Deng",
         "additionalName": "monnand",
         "worksFor": "",
@@ -2943,7 +3335,7 @@
         "email": "dengnan@google.com",
         "orgnization": "google.com"
     },
-    "Nan Monnand Deng <monnand@gmail.com>": {
+    "monnand@gmail.com": {
         "name": "Nan Monnand Deng",
         "additionalName": "monnand",
         "worksFor": "",
@@ -2951,7 +3343,7 @@
         "email": "monnand@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Naoki Ainoya <ainonic@gmail.com>": {
+    "ainonic@gmail.com": {
         "name": "Naoki Ainoya",
         "additionalName": "ainoya",
         "worksFor": " Recruit Marketing Partners Co.,Ltd.",
@@ -2959,7 +3351,7 @@
         "email": "ainonic@gmail.com",
         "orgnization": " Recruit Marketing Partners Co.,Ltd."
     },
-    "Nataliia Uvarova <grafinya.uvarova@gmail.com>": {
+    "grafinya.uvarova@gmail.com": {
         "name": "Nataliia Uvarova",
         "additionalName": "AAzza",
         "worksFor": "",
@@ -2967,7 +3359,7 @@
         "email": "grafinya.uvarova@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Nghia Tran <nghia@google.com>": {
+    "nghia@google.com": {
         "name": "Nghia Tran",
         "additionalName": "tcnghia",
         "worksFor": "",
@@ -2975,7 +3367,7 @@
         "email": "nghia@google.com",
         "orgnization": "google.com"
     },
-    "Nigel Charman <nigel.charman.nz@gmail.com>": {
+    "nigel.charman.nz@gmail.com": {
         "name": "Nigel Charman",
         "additionalName": "nigelcharman",
         "worksFor": "Assurity Consulting Limited",
@@ -2983,7 +3375,7 @@
         "email": "nigel.charman.nz@gmail.com",
         "orgnization": "Assurity Consulting Limited"
     },
-    "Nikhil Jindal <nikhiljindal18@gmail.com>": {
+    "nikhiljindal18@gmail.com": {
         "name": "Nikhil Jindal",
         "additionalName": "nikhiljindal",
         "worksFor": "",
@@ -2991,7 +3383,7 @@
         "email": "nikhiljindal18@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Nikhil Jindal <nikhiljindal@google.com>": {
+    "nikhiljindal@google.com": {
         "name": "Nikhil Jindal",
         "additionalName": "nikhiljindal",
         "worksFor": "",
@@ -2999,7 +3391,7 @@
         "email": "nikhiljindal@google.com",
         "orgnization": "google.com"
     },
-    "Nikolai Prokoschenko <nikolai@prokoschenko.de>": {
+    "nikolai@prokoschenko.de": {
         "name": "Nikolai Prokoschenko",
         "additionalName": "rassie",
         "worksFor": "",
@@ -3007,7 +3399,15 @@
         "email": "nikolai@prokoschenko.de",
         "orgnization": "prokoschenko.de"
     },
-    "orangain <orangain@gmail.com>": {
+    "o.lemasle@gmail.com": {
+        "name": "Olivier Lemasle",
+        "additionalName": "olivierlemasle",
+        "worksFor": "Amysta",
+        "homeLocation": "France",
+        "email": "o.lemasle@gmail.com",
+        "orgnization": "Amysta"
+    },
+    "orangain@gmail.com": {
         "name": "orangain",
         "additionalName": "orangain",
         "worksFor": "",
@@ -3015,7 +3415,7 @@
         "email": "orangain@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Parth Oberoi <parthoberoi@hotmail.com>": {
+    "parthoberoi@hotmail.com": {
         "name": "Parth Oberoi",
         "additionalName": "hTrap",
         "worksFor": "-",
@@ -3023,7 +3423,15 @@
         "email": "parthoberoi@hotmail.com",
         "orgnization": "-"
     },
-    "Patrick Reilly <preilly@php.net>": {
+    "git.push.origin@gmail.com": {
+        "name": "Patrick Flor",
+        "additionalName": "senorflor",
+        "worksFor": "Google",
+        "homeLocation": "",
+        "email": "git.push.origin@gmail.com",
+        "orgnization": "Google"
+    },
+    "preilly@php.net": {
         "name": "Patrick Reilly",
         "additionalName": "preillyme",
         "worksFor": "Kismatic, Inc.",
@@ -3031,7 +3439,7 @@
         "email": "preilly@php.net",
         "orgnization": "Kismatic, Inc."
     },
-    "Patrick Reilly <patrick@kismatic.io>": {
+    "patrick@kismatic.io": {
         "name": "Patrick Reilly",
         "additionalName": "preillyme",
         "worksFor": "Kismatic, Inc.",
@@ -3039,7 +3447,7 @@
         "email": "patrick@kismatic.io",
         "orgnization": "Kismatic, Inc."
     },
-    "Patrick Tescher <pat2man@gmail.com>": {
+    "pat2man@gmail.com": {
         "name": "Patrick Tescher",
         "additionalName": "pat2man",
         "worksFor": "WillCall",
@@ -3047,7 +3455,7 @@
         "email": "pat2man@gmail.com",
         "orgnization": "WillCall"
     },
-    "Patryk Duński <patryk.dunski@kende.pl>": {
+    "patryk.dunski@kende.pl": {
         "name": "Patryk Duński",
         "additionalName": "mrdunski",
         "worksFor": "Kende",
@@ -3055,7 +3463,7 @@
         "email": "patryk.dunski@kende.pl",
         "orgnization": "Kende"
     },
-    "Paul Morie <pmorie@gmail.com>": {
+    "pmorie@gmail.com": {
         "name": "Paul Morie",
         "additionalName": "pmorie",
         "worksFor": "Red Hat",
@@ -3063,7 +3471,7 @@
         "email": "pmorie@gmail.com",
         "orgnization": "Red Hat"
     },
-    "Paul Morie <pmorie@redhat.com>": {
+    "pmorie@redhat.com": {
         "name": "Paul Morie",
         "additionalName": "pmorie",
         "worksFor": "Red Hat",
@@ -3071,7 +3479,7 @@
         "email": "pmorie@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Paulo Pires <pjpires@gmail.com>": {
+    "pjpires@gmail.com": {
         "name": "Paulo Pires",
         "additionalName": "pires",
         "worksFor": "",
@@ -3079,7 +3487,7 @@
         "email": "pjpires@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Paul Weil <pweil@redhat.com>": {
+    "pweil@redhat.com": {
         "name": "Paul Weil",
         "additionalName": "pweil-",
         "worksFor": "Red Hat",
@@ -3087,7 +3495,7 @@
         "email": "pweil@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Pedro Marques <pedro.r.marques@gmail.com>": {
+    "pedro.r.marques@gmail.com": {
         "name": "Pedro Marques",
         "additionalName": "pedro-r-marques",
         "worksFor": "",
@@ -3095,15 +3503,39 @@
         "email": "pedro.r.marques@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Peter Lamar <peterrlamar@gmail.com>": {
+    "roque@juniper.net": {
+        "name": "Pedro Marques",
+        "additionalName": "pedro-r-marques",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "roque@juniper.net",
+        "orgnization": "juniper.net"
+    },
+    "peeyushagarwal1994@gmail.com": {
+        "name": "Peeyush Agarwal",
+        "additionalName": "apeeyush",
+        "worksFor": "IIT Kanpur",
+        "homeLocation": "India",
+        "email": "peeyushagarwal1994@gmail.com",
+        "orgnization": "IIT Kanpur"
+    },
+    "peter.edge@gmail.com": {
+        "name": "Peter Edge",
+        "additionalName": "peter-edge",
+        "worksFor": "Pachyderm, Inc.",
+        "homeLocation": "Vienna, Austria",
+        "email": "peter.edge@gmail.com",
+        "orgnization": "Pachyderm, Inc."
+    },
+    "peterrlamar@gmail.com": {
         "name": "Peter Lamar",
         "additionalName": "PeterLamar",
         "worksFor": "",
-        "homeLocation": "San Jose, Ca",
+        "homeLocation": "Raleigh, NC",
         "email": "peterrlamar@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Peter Novotnak <peter@cyrusbio.com>": {
+    "peter@cyrusbio.com": {
         "name": "Peter Novotnak",
         "additionalName": "pnovotnak",
         "worksFor": "Cyrus Biotechnology",
@@ -3111,7 +3543,7 @@
         "email": "peter@cyrusbio.com",
         "orgnization": "Cyrus Biotechnology"
     },
-    "Phaneendra Chiruvella <hi@pcx.io>": {
+    "hi@pcx.io": {
         "name": "Phaneendra Chiruvella",
         "additionalName": "pcx",
         "worksFor": "",
@@ -3119,7 +3551,15 @@
         "email": "hi@pcx.io",
         "orgnization": "pcx.io"
     },
-    "PhilippeDupont <pdupont@teads.tv>": {
+    "philibert.dugas@gmail.com": {
+        "name": "Philibert Dugas",
+        "additionalName": "PhilibertDugas",
+        "worksFor": "Ericsson",
+        "homeLocation": "Montreal, Canada",
+        "email": "philibert.dugas@gmail.com",
+        "orgnization": "Ericsson"
+    },
+    "pdupont@teads.tv": {
         "name": "PhilippeDupont",
         "additionalName": "PhilippeDupont",
         "worksFor": "Teads Technology",
@@ -3127,7 +3567,7 @@
         "email": "pdupont@teads.tv",
         "orgnization": "Teads Technology"
     },
-    "Philipp Kern <pkern@google.com>": {
+    "pkern@google.com": {
         "name": "Philipp Kern",
         "additionalName": "pkern",
         "worksFor": "",
@@ -3135,7 +3575,15 @@
         "email": "pkern@google.com",
         "orgnization": "google.com"
     },
-    "Pierre du Plessis <pierre@pcservice.co.za>": {
+    "pwittroc@google.com": {
+        "name": "Phillip Wittrock",
+        "additionalName": "pwittrock",
+        "worksFor": "Google",
+        "homeLocation": "Mountain View",
+        "email": "pwittroc@google.com",
+        "orgnization": "Google"
+    },
+    "pierre@pcservice.co.za": {
         "name": "Pierre du Plessis",
         "additionalName": "pierredup",
         "worksFor": "",
@@ -3143,7 +3591,7 @@
         "email": "pierre@pcservice.co.za",
         "orgnization": "pcservice.co.za"
     },
-    "Pieter Noordhuis <pnoordhuis@vmware.com>": {
+    "pnoordhuis@vmware.com": {
         "name": "Pieter Noordhuis",
         "additionalName": "pietern",
         "worksFor": "",
@@ -3151,7 +3599,7 @@
         "email": "pnoordhuis@vmware.com",
         "orgnization": "vmware.com"
     },
-    "Piotr Komborski <piotr.komborski@gmail.com>": {
+    "piotr.komborski@gmail.com": {
         "name": "Piotr Komborski",
         "additionalName": "combor",
         "worksFor": "",
@@ -3159,7 +3607,7 @@
         "email": "piotr.komborski@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Piotr Komborski <piotr.komborski@springer.com>": {
+    "piotr.komborski@springer.com": {
         "name": "Piotr Komborski",
         "additionalName": "combor",
         "worksFor": "",
@@ -3167,7 +3615,7 @@
         "email": "piotr.komborski@springer.com",
         "orgnization": "springer.com"
     },
-    "Piotr Szczesniak <pszczesniak@google.com>": {
+    "pszczesniak@google.com": {
         "name": "Piotr Szczesniak",
         "additionalName": "piosz",
         "worksFor": "Google",
@@ -3175,7 +3623,7 @@
         "email": "pszczesniak@google.com",
         "orgnization": "Google"
     },
-    "Prashanth B <beeps@google.com>": {
+    "beeps@google.com": {
         "name": "Prashanth B",
         "additionalName": "bprashanth",
         "worksFor": "",
@@ -3183,7 +3631,7 @@
         "email": "beeps@google.com",
         "orgnization": "google.com"
     },
-    "Przemo Nowaczyk <pnowaczyk.mail@gmail.com>": {
+    "pnowaczyk.mail@gmail.com": {
         "name": "Przemo Nowaczyk",
         "additionalName": "pnowaczyk",
         "worksFor": "",
@@ -3191,7 +3639,7 @@
         "email": "pnowaczyk.mail@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Qiu Yu <unicell@gmail.com>": {
+    "unicell@gmail.com": {
         "name": "Qiu Yu",
         "additionalName": "unicell",
         "worksFor": "",
@@ -3199,7 +3647,7 @@
         "email": "unicell@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Quinton Hoole <quinton@google.com>": {
+    "quinton@google.com": {
         "name": "Quinton Hoole",
         "additionalName": "quinton-hoole",
         "worksFor": "Google, Inc",
@@ -3207,7 +3655,7 @@
         "email": "quinton@google.com",
         "orgnization": "Google, Inc"
     },
-    "Quinton Hoole <quinton@quinton-macbookpro.roam.corp.google.com>": {
+    "quinton@quinton-macbookpro.roam.corp.google.com": {
         "name": "Quinton Hoole",
         "additionalName": "quinton-hoole",
         "worksFor": "Google, Inc",
@@ -3215,7 +3663,7 @@
         "email": "quinton@quinton-macbookpro.roam.corp.google.com",
         "orgnization": "Google, Inc"
     },
-    "Rabi Mishra <ramishra@redhat.com>": {
+    "ramishra@redhat.com": {
         "name": "Rabi Mishra",
         "additionalName": "rabi",
         "worksFor": "red hat",
@@ -3223,7 +3671,7 @@
         "email": "ramishra@redhat.com",
         "orgnization": "red hat"
     },
-    "Radek Simko <radek.simko@gmail.com>": {
+    "radek.simko@gmail.com": {
         "name": "Radek Simko",
         "additionalName": "radeksimko",
         "worksFor": "Time Inc. UK",
@@ -3231,7 +3679,7 @@
         "email": "radek.simko@gmail.com",
         "orgnization": "Time Inc. UK"
     },
-    "Rafael Chacon <rafaelchacon@gmail.com>": {
+    "rafaelchacon@gmail.com": {
         "name": "Rafael Chacon",
         "additionalName": "rafael",
         "worksFor": "",
@@ -3239,7 +3687,7 @@
         "email": "rafaelchacon@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Rafał Gajdulewicz <r.gajdulewicz@gmail.com>": {
+    "r.gajdulewicz@gmail.com": {
         "name": "Rafał Gajdulewicz",
         "additionalName": "rafax",
         "worksFor": "",
@@ -3247,7 +3695,7 @@
         "email": "r.gajdulewicz@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Rafał Sokołowski <rsokolowski@google.com>": {
+    "rsokolowski@google.com": {
         "name": "Rafał Sokołowski",
         "additionalName": "rsokolowski",
         "worksFor": "Google",
@@ -3255,7 +3703,7 @@
         "email": "rsokolowski@google.com",
         "orgnization": "Google"
     },
-    "Raffaele Di Fazio <raffo_uppuiu@yahoo.it>": {
+    "raffo_uppuiu@yahoo.it": {
         "name": "Raffaele Di Fazio",
         "additionalName": "Raffo",
         "worksFor": "Zalando",
@@ -3263,7 +3711,7 @@
         "email": "raffo_uppuiu@yahoo.it",
         "orgnization": "Zalando"
     },
-    "Ragnar Dahlén <r.dahlen@gmail.com>": {
+    "r.dahlen@gmail.com": {
         "name": "Ragnar Dahlén",
         "additionalName": "ragnard",
         "worksFor": "uSwitch",
@@ -3271,7 +3719,7 @@
         "email": "r.dahlen@gmail.com",
         "orgnization": "uSwitch"
     },
-    "Rahul <rchoudhury@gmail.com>": {
+    "rchoudhury@gmail.com": {
         "name": "Rahul",
         "additionalName": "Primigenus",
         "worksFor": "Q42",
@@ -3279,7 +3727,7 @@
         "email": "rchoudhury@gmail.com",
         "orgnization": "Q42"
     },
-    "Rajat Chopra <rchopra@redhat.com>": {
+    "rchopra@redhat.com": {
         "name": "Rajat Chopra",
         "additionalName": "rajatchopra",
         "worksFor": "Red Hat Inc.",
@@ -3287,15 +3735,15 @@
         "email": "rchopra@redhat.com",
         "orgnization": "Red Hat Inc."
     },
-    "Rajdeep Dua <dua_rajdeep@yahoo.com>": {
+    "dua_rajdeep@yahoo.com": {
         "name": "Rajdeep Dua",
         "additionalName": "rajdeepd",
         "worksFor": "",
         "homeLocation": "",
         "email": "dua_rajdeep@yahoo.com",
-        "orgnization": "yahoo.com"
+        "orgnization": "VMware"
     },
-    "Raphaël Simon <raphael@rightscale.com>": {
+    "raphael@rightscale.com": {
         "name": "Raphaël Simon",
         "additionalName": "raphael",
         "worksFor": "RightScale",
@@ -3303,7 +3751,7 @@
         "email": "raphael@rightscale.com",
         "orgnization": "RightScale"
     },
-    "Ravi Gadde <ravi@datawisesystems.com>": {
+    "ravi@datawisesystems.com": {
         "name": "Ravi Gadde",
         "additionalName": "ravigadde",
         "worksFor": "",
@@ -3311,7 +3759,7 @@
         "email": "ravi@datawisesystems.com",
         "orgnization": "datawisesystems.com"
     },
-    "Ravi Sankar Penta <rpenta@redhat.com>": {
+    "rpenta@redhat.com": {
         "name": "Ravi Sankar Penta",
         "additionalName": "pravisankar",
         "worksFor": "Red Hat",
@@ -3319,7 +3767,7 @@
         "email": "rpenta@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Remco Verhoef <remco@dutchcoders.io>": {
+    "remco@dutchcoders.io": {
         "name": "Remco Verhoef",
         "additionalName": "nl5887",
         "worksFor": "Dutchcoders",
@@ -3327,7 +3775,7 @@
         "email": "remco@dutchcoders.io",
         "orgnization": "Dutchcoders"
     },
-    "Harry Zhang <resouer@163.com>": {
+    "resouer@163.com": {
         "name": "Harry Zhang",
         "additionalName": "resouer",
         "worksFor": "ZheJiang University",
@@ -3335,7 +3783,7 @@
         "email": "resouer@163.com",
         "orgnization": "ZheJiang University"
     },
-    "Richard Gooch <rgooch@google.com>": {
+    "rgooch@google.com": {
         "name": "Richard Gooch",
         "additionalName": "rgooch",
         "worksFor": "Symantec",
@@ -3343,7 +3791,7 @@
         "email": "rgooch@google.com",
         "orgnization": "Symantec"
     },
-    "Richard Larocque <rlarocque@google.com>": {
+    "rlarocque@google.com": {
         "name": "Richard Larocque",
         "additionalName": "rlarocque2",
         "worksFor": "",
@@ -3351,7 +3799,7 @@
         "email": "rlarocque@google.com",
         "orgnization": "google.com"
     },
-    "RichieEscarez <rescarez@google.com>": {
+    "rescarez@google.com": {
         "name": "RichieEscarez",
         "additionalName": "RichieEscarez",
         "worksFor": "Google",
@@ -3359,7 +3807,7 @@
         "email": "rescarez@google.com",
         "orgnization": "Google"
     },
-    "Rimas Mocevicius <rmocius@gmail.com>": {
+    "rmocius@gmail.com": {
         "name": "Rimas Mocevicius",
         "additionalName": "rimusz",
         "worksFor": "",
@@ -3367,7 +3815,7 @@
         "email": "rmocius@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Robert Bailey <robertbailey@google.com>": {
+    "robertbailey@google.com": {
         "name": "Robert Bailey",
         "additionalName": "roberthbailey",
         "worksFor": "Google, Inc.",
@@ -3375,7 +3823,7 @@
         "email": "robertbailey@google.com",
         "orgnization": "Google, Inc."
     },
-    "Robert Bailey <roberthbailey@users.noreply.github.com>": {
+    "roberthbailey@users.noreply.github.com": {
         "name": "Robert Bailey",
         "additionalName": "roberthbailey",
         "worksFor": "Google, Inc.",
@@ -3383,7 +3831,7 @@
         "email": "roberthbailey@users.noreply.github.com",
         "orgnization": "Google, Inc."
     },
-    "Robert Rati <rrati@redhat.com>": {
+    "rrati@redhat.com": {
         "name": "Robert Rati",
         "additionalName": "rrati",
         "worksFor": "",
@@ -3391,7 +3839,7 @@
         "email": "rrati@redhat.com",
         "orgnization": "redhat.com"
     },
-    "Robert Wilson <robert.wilson1717@gmail.com>": {
+    "robert.wilson1717@gmail.com": {
         "name": "Robert Wilson",
         "additionalName": "Rob4001",
         "worksFor": "",
@@ -3399,7 +3847,7 @@
         "email": "robert.wilson1717@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Rob Landers <landers.robert@gmail.com>": {
+    "landers.robert@gmail.com": {
         "name": "Rob Landers",
         "additionalName": "withinboredom",
         "worksFor": "BoomTown!",
@@ -3407,7 +3855,7 @@
         "email": "landers.robert@gmail.com",
         "orgnization": "BoomTown!"
     },
-    "Rodolfo Carvalho <rcarvalh@redhat.com>": {
+    "rcarvalh@redhat.com": {
         "name": "Rodolfo Carvalho",
         "additionalName": "rhcarvalho",
         "worksFor": "Red Hat",
@@ -3415,7 +3863,15 @@
         "email": "rcarvalh@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Rohit Jnagal <jnagal@google.com>": {
+    "gambol99@gmail.com": {
+        "name": "Rohith",
+        "additionalName": "gambol99",
+        "worksFor": "",
+        "homeLocation": "London",
+        "email": "gambol99@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "jnagal@google.com": {
         "name": "Rohit Jnagal",
         "additionalName": "rjnagal",
         "worksFor": "Google Inc",
@@ -3423,7 +3879,7 @@
         "email": "jnagal@google.com",
         "orgnization": "Google Inc"
     },
-    "Ron Alexander <ron.alexander@rackspace.com>": {
+    "ron.alexander@rackspace.com": {
         "name": "Ron Alexander",
         "additionalName": "Ron Alexander",
         "worksFor": "",
@@ -3431,7 +3887,14 @@
         "email": "ron.alexander@rackspace.com",
         "orgnization": "rackspace.com"
     },
-    "Ryan Fowler <rwfowler@gmail.com>": {
+    "Uday Kumar Raju": {
+        "name": "Ruddarraju",
+        "additionalName": "Ruddarraju",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "Uday Kumar Raju"
+    },
+    "rwfowler@gmail.com": {
         "name": "Ryan Fowler",
         "additionalName": "ryfow",
         "worksFor": "",
@@ -3439,7 +3902,7 @@
         "email": "rwfowler@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Ryan Fowler <ryan.fowler@singlewire.com>": {
+    "ryan.fowler@singlewire.com": {
         "name": "Ryan Fowler",
         "additionalName": "ryfow",
         "worksFor": "",
@@ -3447,7 +3910,7 @@
         "email": "ryan.fowler@singlewire.com",
         "orgnization": "singlewire.com"
     },
-    "Ryan Richard <ryanrichard07@gmail.com>": {
+    "ryanrichard07@gmail.com": {
         "name": "Ryan Richard",
         "additionalName": "doublerr",
         "worksFor": "Rackspace",
@@ -3455,7 +3918,7 @@
         "email": "ryanrichard07@gmail.com",
         "orgnization": "Rackspace"
     },
-    "Ryan Richard <ryan.richard@rackspace.com>": {
+    "ryan.richard@rackspace.com": {
         "name": "Ryan Richard",
         "additionalName": "doublerr",
         "worksFor": "Rackspace",
@@ -3463,7 +3926,7 @@
         "email": "ryan.richard@rackspace.com",
         "orgnization": "Rackspace"
     },
-    "Ryan Walters <shout@ryanwalters.co>": {
+    "shout@ryanwalters.co": {
         "name": "Ryan Walters",
         "additionalName": "ryanwalters",
         "worksFor": "Encyclopaedia Britannica",
@@ -3471,7 +3934,7 @@
         "email": "shout@ryanwalters.co",
         "orgnization": "Encyclopaedia Britannica"
     },
-    "Saad Ali <saadali@google.com>": {
+    "saadali@google.com": {
         "name": "Saad Ali",
         "additionalName": "saad-ali",
         "worksFor": "Google",
@@ -3479,7 +3942,7 @@
         "email": "saadali@google.com",
         "orgnization": "Google"
     },
-    "Dario Minonne <salvatore-dario.minonne@amadeus.com>": {
+    "salvatore-dario.minonne@amadeus.com": {
         "name": "Dario Minonne",
         "additionalName": "sdminonne",
         "worksFor": "Amadeus SAS",
@@ -3487,7 +3950,7 @@
         "email": "salvatore-dario.minonne@amadeus.com",
         "orgnization": "Amadeus SAS"
     },
-    "Sam Abed <samabed@gmail.com>": {
+    "samabed@gmail.com": {
         "name": "Sam Abed",
         "additionalName": "samabed",
         "worksFor": "",
@@ -3495,7 +3958,15 @@
         "email": "samabed@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Sam Ghods <sam@box.com>": {
+    "samsabed@gmail.com": {
+        "name": "Sam Abed",
+        "additionalName": "samsabed",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "samsabed@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "sam@box.com": {
         "name": "Sam Ghods",
         "additionalName": "ghodss",
         "worksFor": "Box",
@@ -3503,7 +3974,7 @@
         "email": "sam@box.com",
         "orgnization": "Box"
     },
-    "Sami Wagiaalla <swagiaal@redhat.com>": {
+    "swagiaal@redhat.com": {
         "name": "Sami Wagiaalla",
         "additionalName": "swagiaal",
         "worksFor": "Red Hat",
@@ -3511,15 +3982,15 @@
         "email": "swagiaal@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Alex Mohr <samuelmarks@gmail.com>": {
-        "name": "Alex Mohr",
-        "additionalName": "alex-mohr",
-        "worksFor": "Google",
-        "homeLocation": "Seattle",
+    "samuelmarks@gmail.com": {
+        "name": "Samuel Marks",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "samuelmarks@gmail.com",
-        "orgnization": "Google"
+        "orgnization": "gmail.com"
     },
-    "Samuel ROZE <samuel.roze@gmail.com>": {
+    "samuel.roze@gmail.com": {
         "name": "Samuel ROZE",
         "additionalName": "sroze",
         "worksFor": "Inviqa & Freelancer",
@@ -3527,7 +3998,15 @@
         "email": "samuel.roze@gmail.com",
         "orgnization": "Inviqa & Freelancer"
     },
-    "sandric <kyrychenkoanton@gmail.com>": {
+    "sandeepdinesh@google.com": {
+        "name": "Sandeep Dinesh",
+        "additionalName": "thesandlord",
+        "worksFor": "Google",
+        "homeLocation": "United States",
+        "email": "sandeepdinesh@google.com",
+        "orgnization": "Google"
+    },
+    "kyrychenkoanton@gmail.com": {
         "name": "sandric",
         "additionalName": "sandric",
         "worksFor": "Kyrychenko Anton",
@@ -3535,7 +4014,7 @@
         "email": "kyrychenkoanton@gmail.com",
         "orgnization": "Kyrychenko Anton"
     },
-    "Santosh Sahoo <santoshsahoo@users.noreply.github.com>": {
+    "santoshsahoo@users.noreply.github.com": {
         "name": "Santosh Sahoo",
         "additionalName": "santoshsahoo",
         "worksFor": "SantoshSahoo.com",
@@ -3543,7 +4022,7 @@
         "email": "santoshsahoo@users.noreply.github.com",
         "orgnization": "SantoshSahoo.com"
     },
-    "Satnam Singh <satnam6502@gmail.com>": {
+    "satnam6502@gmail.com": {
         "name": "Satnam Singh",
         "additionalName": "satnam6502",
         "worksFor": "Google",
@@ -3551,7 +4030,7 @@
         "email": "satnam6502@gmail.com",
         "orgnization": "Google"
     },
-    "Satnam Singh <satnam@google.com>": {
+    "satnam@google.com": {
         "name": "Satnam Singh",
         "additionalName": "satnam6502",
         "worksFor": "Google",
@@ -3559,7 +4038,7 @@
         "email": "satnam@google.com",
         "orgnization": "Google"
     },
-    "Satnam Singh <satnam@raintown.org>": {
+    "satnam@raintown.org": {
         "name": "Satnam Singh",
         "additionalName": "satnam6502",
         "worksFor": "Google",
@@ -3567,7 +4046,7 @@
         "email": "satnam@raintown.org",
         "orgnization": "Google"
     },
-    "Scott Collier <emailscottcollier@gmail.com>": {
+    "emailscottcollier@gmail.com": {
         "name": "Scott Collier",
         "additionalName": "scollier",
         "worksFor": "",
@@ -3575,7 +4054,7 @@
         "email": "emailscottcollier@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Scott Creeley <screeley@redhat.com>": {
+    "screeley@redhat.com": {
         "name": "Scott Creeley",
         "additionalName": "screeley44",
         "worksFor": "Red Hat, Inc",
@@ -3583,7 +4062,7 @@
         "email": "screeley@redhat.com",
         "orgnization": "Red Hat, Inc"
     },
-    "Scott Dodson <sdodson@redhat.com>": {
+    "sdodson@redhat.com": {
         "name": "Scott Dodson",
         "additionalName": "sdodson",
         "worksFor": "Red Hat, Inc.",
@@ -3591,7 +4070,7 @@
         "email": "sdodson@redhat.com",
         "orgnization": "Red Hat, Inc."
     },
-    "Scott Konzem <konzems@gmail.com>": {
+    "konzems@gmail.com": {
         "name": "Scott Konzem",
         "additionalName": "skonzem",
         "worksFor": "",
@@ -3599,7 +4078,7 @@
         "email": "konzems@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Yiqian Hsia <scuxiayiqian@gmail.com>": {
+    "scuxiayiqian@gmail.com": {
         "name": "Yiqian Hsia",
         "additionalName": "scuxiayiqian",
         "worksFor": "Sichuan University",
@@ -3607,7 +4086,7 @@
         "email": "scuxiayiqian@gmail.com",
         "orgnization": "Sichuan University"
     },
-    "Sean Borman <github@seanborman.com>": {
+    "github@seanborman.com": {
         "name": "Sean Borman",
         "additionalName": "sborman",
         "worksFor": "",
@@ -3615,7 +4094,7 @@
         "email": "github@seanborman.com",
         "orgnization": "seanborman.com"
     },
-    "Sean O'Keefe <seano314@users.noreply.github.com>": {
+    "seano314@users.noreply.github.com": {
         "name": "Sean O'Keefe",
         "additionalName": "seano314",
         "worksFor": "Google",
@@ -3623,7 +4102,7 @@
         "email": "seano314@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "Sebastian Müller <info@sebastian-mueller.net>": {
+    "info@sebastian-mueller.net": {
         "name": "Sebastian Müller",
         "additionalName": "SebastianM",
         "worksFor": "adesso AG",
@@ -3631,7 +4110,7 @@
         "email": "info@sebastian-mueller.net",
         "orgnization": "adesso AG"
     },
-    "Sebastien Goasguen <runseb@gmail.com>": {
+    "runseb@gmail.com": {
         "name": "Sebastien Goasguen",
         "additionalName": "runseb",
         "worksFor": "",
@@ -3639,7 +4118,7 @@
         "email": "runseb@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Sergey Evstifeev <sergey.evstifeev@gmail.com>": {
+    "sergey.evstifeev@gmail.com": {
         "name": "Sergey Evstifeev",
         "additionalName": "sergeyevstifeev",
         "worksFor": "Klarna AB",
@@ -3647,7 +4126,7 @@
         "email": "sergey.evstifeev@gmail.com",
         "orgnization": "Klarna AB"
     },
-    "Sergey Evstifeev <sergey.evstifeev@klarna.com>": {
+    "sergey.evstifeev@klarna.com": {
         "name": "Sergey Evstifeev",
         "additionalName": "sergeyevstifeev",
         "worksFor": "Klarna AB",
@@ -3655,7 +4134,7 @@
         "email": "sergey.evstifeev@klarna.com",
         "orgnization": "Klarna AB"
     },
-    "Seth House <seth@eseth.com>": {
+    "seth@eseth.com": {
         "name": "Seth House",
         "additionalName": "whiteinge",
         "worksFor": "",
@@ -3663,7 +4142,7 @@
         "email": "seth@eseth.com",
         "orgnization": "eseth.com"
     },
-    "Shai Coleman <git@shaicoleman.com>": {
+    "git@shaicoleman.com": {
         "name": "Shai Coleman",
         "additionalName": "shaicoleman",
         "worksFor": "",
@@ -3671,7 +4150,15 @@
         "email": "git@shaicoleman.com",
         "orgnization": "shaicoleman.com"
     },
-    "Shaun Stanworth <shaun@freeformers.com>": {
+    "shaunrparker@gmail.com": {
+        "name": "Shaun Parker",
+        "additionalName": "shaunparker",
+        "worksFor": "Lohi Labs",
+        "homeLocation": "Denver, CO",
+        "email": "shaunrparker@gmail.com",
+        "orgnization": "Lohi Labs"
+    },
+    "shaun@freeformers.com": {
         "name": "Shaun Stanworth",
         "additionalName": "shauns",
         "worksFor": "",
@@ -3679,7 +4166,7 @@
         "email": "shaun@freeformers.com",
         "orgnization": "freeformers.com"
     },
-    "Shawn Smith <shawnpsmith@gmail.com>": {
+    "shawnpsmith@gmail.com": {
         "name": "Shawn Smith",
         "additionalName": "shawnps",
         "worksFor": "",
@@ -3687,7 +4174,7 @@
         "email": "shawnpsmith@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Shichao An <anshichao.cn@gmail.com>": {
+    "anshichao.cn@gmail.com": {
         "name": "Shichao An",
         "additionalName": "shichao-an",
         "worksFor": "New York University",
@@ -3695,7 +4182,7 @@
         "email": "anshichao.cn@gmail.com",
         "orgnization": "New York University"
     },
-    "Shimin Guo <smguo2001@gmail.com>": {
+    "smguo2001@gmail.com": {
         "name": "Shimin Guo",
         "additionalName": "guoshimin",
         "worksFor": "",
@@ -3703,7 +4190,7 @@
         "email": "smguo2001@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Shlomi Zadok <shlomi@ben-hanna.com>": {
+    "shlomi@ben-hanna.com": {
         "name": "Shlomi Zadok",
         "additionalName": "shlomizadok",
         "worksFor": "Red Hat",
@@ -3711,7 +4198,7 @@
         "email": "shlomi@ben-hanna.com",
         "orgnization": "Red Hat"
     },
-    "Sidharta Seethana <sidharta.apache@gmail.com>": {
+    "sidharta.apache@gmail.com": {
         "name": "Sidharta Seethana",
         "additionalName": "sidharta-s",
         "worksFor": "Hortonworks",
@@ -3719,7 +4206,7 @@
         "email": "sidharta.apache@gmail.com",
         "orgnization": "Hortonworks"
     },
-    "Simone Gotti <simone.gotti@gmail.com>": {
+    "simone.gotti@gmail.com": {
         "name": "Simone Gotti",
         "additionalName": "sgotti",
         "worksFor": "",
@@ -3727,7 +4214,15 @@
         "email": "simone.gotti@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Sreekanth Pothanis <spothanis@ebay.com>": {
+    "sross@redhat.com": {
+        "name": "Solly",
+        "additionalName": "DirectXMan12",
+        "worksFor": "Red Hat, Inc",
+        "homeLocation": "Westford, MA",
+        "email": "sross@redhat.com",
+        "orgnization": "Red Hat, Inc"
+    },
+    "spothanis@ebay.com": {
         "name": "Sreekanth Pothanis",
         "additionalName": "spothanis",
         "worksFor": "eBay",
@@ -3735,7 +4230,7 @@
         "email": "spothanis@ebay.com",
         "orgnization": "eBay"
     },
-    "Stef Walter <stefw@redhat.com>": {
+    "stefw@redhat.com": {
         "name": "Stef Walter",
         "additionalName": "stefwalter",
         "worksFor": "Red Hat Inc.",
@@ -3743,7 +4238,23 @@
         "email": "stefw@redhat.com",
         "orgnization": "Red Hat Inc."
     },
-    "Steve Kuznetsov <steve.kuznetsov@gmail.com>": {
+    "sgallagh@redhat.com": {
+        "name": "Stephen Gallagher",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "sgallagh@redhat.com",
+        "orgnization": "redhat.com"
+    },
+    "skuznets@redhat.com": {
+        "name": "Steve Kuznetsov",
+        "additionalName": "stevekuznetsov",
+        "worksFor": "Red Hat, Inc.",
+        "homeLocation": "United States",
+        "email": "skuznets@redhat.com",
+        "orgnization": "Red Hat, Inc."
+    },
+    "steve.kuznetsov@gmail.com": {
         "name": "Steve Kuznetsov",
         "additionalName": "stevekuznetsov",
         "worksFor": "Red Hat, Inc.",
@@ -3751,7 +4262,7 @@
         "email": "steve.kuznetsov@gmail.com",
         "orgnization": "Red Hat, Inc."
     },
-    "Stephen Milner <smilner@redhat.com>": {
+    "smilner@redhat.com": {
         "name": "Stephen Milner",
         "additionalName": "ashcrow",
         "worksFor": "Red Hat",
@@ -3759,7 +4270,7 @@
         "email": "smilner@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Stephen Milner <stevem@gnulinux.net>": {
+    "stevem@gnulinux.net": {
         "name": "Stephen Milner",
         "additionalName": "ashcrow",
         "worksFor": "Red Hat",
@@ -3767,7 +4278,7 @@
         "email": "stevem@gnulinux.net",
         "orgnization": "Red Hat"
     },
-    "Steve Reed <sreed@zulily.com>": {
+    "sreed@zulily.com": {
         "name": "Steve Reed",
         "additionalName": "smreed",
         "worksFor": "zulily",
@@ -3775,7 +4286,7 @@
         "email": "sreed@zulily.com",
         "orgnization": "zulily"
     },
-    "Steve Sloka <slokas@upmc.edu>": {
+    "slokas@upmc.edu": {
         "name": "Steve Sloka",
         "additionalName": "Steve Sloka",
         "worksFor": "",
@@ -3783,7 +4294,7 @@
         "email": "slokas@upmc.edu",
         "orgnization": "upmc.edu"
     },
-    "Steve Watt <swatt@redhat.com>": {
+    "swatt@redhat.com": {
         "name": "Steve Watt",
         "additionalName": "wattsteve",
         "worksFor": "Red Hat, Inc.",
@@ -3791,7 +4302,7 @@
         "email": "swatt@redhat.com",
         "orgnization": "Red Hat, Inc."
     },
-    "Steve Watt <wattsteve@yahoo.com>": {
+    "wattsteve@yahoo.com": {
         "name": "Steve Watt",
         "additionalName": "wattsteve",
         "worksFor": "Red Hat, Inc.",
@@ -3799,7 +4310,7 @@
         "email": "wattsteve@yahoo.com",
         "orgnization": "Red Hat, Inc."
     },
-    "Subin M <subin@apache.org>": {
+    "subin@apache.org": {
         "name": "Subin M",
         "additionalName": "sub-mod",
         "worksFor": "Red Hat",
@@ -3807,7 +4318,7 @@
         "email": "subin@apache.org",
         "orgnization": "Red Hat"
     },
-    "Swapnil Kulkarni <coolsvap@gmail.com>": {
+    "coolsvap@gmail.com": {
         "name": "Swapnil Kulkarni",
         "additionalName": "coolsvap",
         "worksFor": "Red Hat",
@@ -3815,7 +4326,7 @@
         "email": "coolsvap@gmail.com",
         "orgnization": "Red Hat"
     },
-    "Takeshi Hagikura <shiketa1999@gmail.com>": {
+    "shiketa1999@gmail.com": {
         "name": "Takeshi Hagikura",
         "additionalName": "thagikura",
         "worksFor": "Google",
@@ -3823,7 +4334,15 @@
         "email": "shiketa1999@gmail.com",
         "orgnization": "Google"
     },
-    "Tamer TAS <tamertas@outlook.com>": {
+    "contact@tmrts.com": {
+        "name": "Tamer TAS",
+        "additionalName": "tmrts",
+        "worksFor": "",
+        "homeLocation": "Ankara, Turkey",
+        "email": "contact@tmrts.com",
+        "orgnization": "tmrts.com"
+    },
+    "tamertas@outlook.com": {
         "name": "Tamer TAS",
         "additionalName": "tmrts",
         "worksFor": "",
@@ -3831,7 +4350,15 @@
         "email": "tamertas@outlook.com",
         "orgnization": "outlook.com"
     },
-    "Thien-Thi Nguyen <tnguyen@redhat.com>": {
+    "tmrts@users.noreply.github.com": {
+        "name": "Tamer TAS",
+        "additionalName": "tmrts",
+        "worksFor": "",
+        "homeLocation": "Ankara, Turkey",
+        "email": "tmrts@users.noreply.github.com",
+        "orgnization": "users.noreply.github.com"
+    },
+    "tnguyen@redhat.com": {
         "name": "Thien-Thi Nguyen",
         "additionalName": "tnguyen-rh",
         "worksFor": "Red Hat",
@@ -3839,7 +4366,7 @@
         "email": "tnguyen@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Thom May <thom_may@external.mckinsey.com>": {
+    "thom_may@external.mckinsey.com": {
         "name": "Thom May",
         "additionalName": "Thom May",
         "worksFor": "",
@@ -3847,7 +4374,7 @@
         "email": "thom_may@external.mckinsey.com",
         "orgnization": "external.mckinsey.com"
     },
-    "Thom May <thom@may.lt>": {
+    "thom@may.lt": {
         "name": "Thom May",
         "additionalName": "thommay",
         "worksFor": "Chef",
@@ -3855,7 +4382,7 @@
         "email": "thom@may.lt",
         "orgnization": "Chef"
     },
-    "Thorsten Scherf <tscherf@redhat.com>": {
+    "tscherf@redhat.com": {
         "name": "Thorsten Scherf",
         "additionalName": "Thorsten Scherf",
         "worksFor": "",
@@ -3863,7 +4390,7 @@
         "email": "tscherf@redhat.com",
         "orgnization": "redhat.com"
     },
-    "Tim Hockin <thockin@google.com>": {
+    "thockin@google.com": {
         "name": "Tim Hockin",
         "additionalName": "thockin",
         "worksFor": "Google",
@@ -3871,7 +4398,7 @@
         "email": "thockin@google.com",
         "orgnization": "Google"
     },
-    "Timothy St. Clair <tstclair@redhat.com>": {
+    "tstclair@redhat.com": {
         "name": "Timothy St. Clair",
         "additionalName": "timothysc",
         "worksFor": "Red Hat",
@@ -3879,7 +4406,7 @@
         "email": "tstclair@redhat.com",
         "orgnization": "Red Hat"
     },
-    "Tim St. Clair <stclair@google.com>": {
+    "stclair@google.com": {
         "name": "Tim St. Clair",
         "additionalName": "timstclair",
         "worksFor": "Google",
@@ -3887,7 +4414,7 @@
         "email": "stclair@google.com",
         "orgnization": "Google"
     },
-    "T.Miyake <info@miyake.me>": {
+    "info@miyake.me": {
         "name": "T.Miyake",
         "additionalName": "t-miyake",
         "worksFor": "Noraneko Inc.",
@@ -3895,7 +4422,7 @@
         "email": "info@miyake.me",
         "orgnization": "Noraneko Inc."
     },
-    "Tobi Knaup <tobi@mesosphere.io>": {
+    "tobi@mesosphere.io": {
         "name": "Tobi Knaup",
         "additionalName": "guenter",
         "worksFor": "Mesosphere",
@@ -3903,7 +4430,7 @@
         "email": "tobi@mesosphere.io",
         "orgnization": "Mesosphere"
     },
-    "Todd Derr <salty@google.com>": {
+    "salty@google.com": {
         "name": "Todd Derr",
         "additionalName": "mr-salty",
         "worksFor": "",
@@ -3911,7 +4438,7 @@
         "email": "salty@google.com",
         "orgnization": "google.com"
     },
-    "Tomás Senart <tomas@mesosphere.io>": {
+    "tomas@mesosphere.io": {
         "name": "Tomás Senart",
         "additionalName": "tsenart",
         "worksFor": "Mesosphere",
@@ -3919,7 +4446,7 @@
         "email": "tomas@mesosphere.io",
         "orgnization": "Mesosphere"
     },
-    "Tomek Kulczynski <tkulczynski@google.com>": {
+    "tkulczynski@google.com": {
         "name": "Tomek Kulczynski",
         "additionalName": "tkulczynski",
         "worksFor": "",
@@ -3927,7 +4454,7 @@
         "email": "tkulczynski@google.com",
         "orgnization": "google.com"
     },
-    "Travis Beatty <travisby@gmail.com>": {
+    "travisby@gmail.com": {
         "name": "Travis Beatty",
         "additionalName": "travisby",
         "worksFor": "FactSet Research Systems",
@@ -3935,7 +4462,7 @@
         "email": "travisby@gmail.com",
         "orgnization": "FactSet Research Systems"
     },
-    "Trevor Pounds <trevor.pounds@gmail.com>": {
+    "trevor.pounds@gmail.com": {
         "name": "Trevor Pounds",
         "additionalName": "tpounds",
         "worksFor": "Epic Games",
@@ -3943,7 +4470,7 @@
         "email": "trevor.pounds@gmail.com",
         "orgnization": "Epic Games"
     },
-    "Jacques Uber <jaxbr503@gmail.com>": {
+    "jaxbr503@gmail.com": {
         "name": "Jacques Uber",
         "additionalName": "uberj",
         "worksFor": "",
@@ -3951,7 +4478,7 @@
         "email": "jaxbr503@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Uri Sarid <usarid@gmail.com>": {
+    "usarid@gmail.com": {
         "name": "Uri Sarid",
         "additionalName": "usarid",
         "worksFor": "MuleSoft",
@@ -3959,7 +4486,31 @@
         "email": "usarid@gmail.com",
         "orgnization": "MuleSoft"
     },
-    "Vicken Simonian <vsimon@gmail.com>": {
+    "vallard@benincosa.com": {
+        "name": "Vallard Benincosa",
+        "additionalName": "vallard",
+        "worksFor": "",
+        "homeLocation": "Portland, OR",
+        "email": "vallard@benincosa.com",
+        "orgnization": "benincosa.com"
+    },
+    "vanya@google.com": {
+        "name": "Ivan Tarasov",
+        "additionalName": "ivant",
+        "worksFor": "Google",
+        "homeLocation": "San Francisco Bay Area",
+        "email": "vanya@google.com",
+        "orgnization": "Google"
+    },
+    "vlajos@gmail.com": {
+        "name": "Veres Lajos",
+        "additionalName": "vlajos",
+        "worksFor": "",
+        "homeLocation": "London",
+        "email": "vlajos@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "vsimon@gmail.com": {
         "name": "Vicken Simonian",
         "additionalName": "vsimon",
         "worksFor": "Oblong Industries, Inc.",
@@ -3967,7 +4518,7 @@
         "email": "vsimon@gmail.com",
         "orgnization": "Oblong Industries, Inc."
     },
-    "Victor Marmol <vmarmol@google.com>": {
+    "vmarmol@google.com": {
         "name": "Victor Marmol",
         "additionalName": "vmarmol",
         "worksFor": "Google",
@@ -3975,7 +4526,7 @@
         "email": "vmarmol@google.com",
         "orgnization": "Google"
     },
-    "Vincent Batts <vbatts@redhat.com>": {
+    "vbatts@redhat.com": {
         "name": "Vincent Batts",
         "additionalName": "vbatts",
         "worksFor": "",
@@ -3983,7 +4534,7 @@
         "email": "vbatts@redhat.com",
         "orgnization": "redhat.com"
     },
-    "Vipin Jain <vipijain@insiemenetworks.com>": {
+    "vipijain@insiemenetworks.com": {
         "name": "Vipin Jain",
         "additionalName": "jainvipin",
         "worksFor": "",
@@ -3991,7 +4542,7 @@
         "email": "vipijain@insiemenetworks.com",
         "orgnization": "insiemenetworks.com"
     },
-    "Vish Kannan <vishh@users.noreply.github.com>": {
+    "vishh@users.noreply.github.com": {
         "name": "Vish Kannan",
         "additionalName": "vishh",
         "worksFor": "Google",
@@ -3999,7 +4550,7 @@
         "email": "vishh@users.noreply.github.com",
         "orgnization": "Google"
     },
-    "Vish Kannan <vishnuk@google.com>": {
+    "vishnuk@google.com": {
         "name": "Vish Kannan",
         "additionalName": "vishh",
         "worksFor": "Google",
@@ -4007,7 +4558,7 @@
         "email": "vishnuk@google.com",
         "orgnization": "Google"
     },
-    "Vladimir Shcherbakov <shcherbakov.mailbox@gmail.com>": {
+    "shcherbakov.mailbox@gmail.com": {
         "name": "Vladimir Shcherbakov",
         "additionalName": "v-vlshch",
         "worksFor": "Akvelon",
@@ -4015,7 +4566,7 @@
         "email": "shcherbakov.mailbox@gmail.com",
         "orgnization": "Akvelon"
     },
-    "Vojtech Vitek <vvitek@redhat.com>": {
+    "vvitek@redhat.com": {
         "name": "Vojtech Vitek",
         "additionalName": "VojtechVitek",
         "worksFor": "Pressly Inc.",
@@ -4023,7 +4574,15 @@
         "email": "vvitek@redhat.com",
         "orgnization": "Pressly Inc."
     },
-    "Weiwei Jiang <wjiang@redhat.com>": {
+    "wael.nasreddine@gmail.com": {
+        "name": "Wael M. Nasreddine",
+        "additionalName": "k8s-merge-robot",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "wael.nasreddine@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "wjiang@redhat.com": {
         "name": "Weiwei Jiang",
         "additionalName": "wjiangjay",
         "worksFor": "Redhat",
@@ -4031,7 +4590,7 @@
         "email": "wjiang@redhat.com",
         "orgnization": "Redhat"
     },
-    "Wes Turner <wes.turner@gmail.com>": {
+    "wes.turner@gmail.com": {
         "name": "Wes Turner",
         "additionalName": "westurner",
         "worksFor": "",
@@ -4039,7 +4598,7 @@
         "email": "wes.turner@gmail.com",
         "orgnization": "gmail.com"
     },
-    "langdon <langdon@redhat.com>": {
+    "langdon@redhat.com": {
         "name": "langdon",
         "additionalName": "whitel",
         "worksFor": "",
@@ -4047,31 +4606,31 @@
         "email": "langdon@redhat.com",
         "orgnization": "redhat.com"
     },
-    "Whit Morriss <whit.morriss@canonical.com>": {
+    "whit.morriss@canonical.com": {
         "name": "Whit Morriss",
-        "additionalName": "whitmo",
-        "worksFor": "Canonical",
-        "homeLocation": "Nashville, TN",
+        "additionalName": "Whit Morriss",
+        "worksFor": "",
+        "homeLocation": "",
         "email": "whit.morriss@canonical.com",
-        "orgnization": "Canonical"
+        "orgnization": "canonical.com"
     },
-    "Xingyu Chen <wizardcxy@126.com>": {
+    "wizardcxy@126.com": {
         "name": "Xingyu Chen",
         "additionalName": "WIZARD-CXY",
         "worksFor": "Zhejiang Universisty",
         "homeLocation": "China",
         "email": "wizardcxy@126.com",
-        "orgnization": "Zhejiang Universisty"
+        "orgnization": "ZheJiang University"
     },
-    "Xingyu Chen <wizard_cxy@hotmail.com>": {
+    "wizard_cxy@hotmail.com": {
         "name": "Xingyu Chen",
         "additionalName": "WIZARD-CXY",
         "worksFor": "Zhejiang Universisty",
         "homeLocation": "China",
         "email": "wizard_cxy@hotmail.com",
-        "orgnization": "Zhejiang Universisty"
+        "orgnization": "ZheJiang University"
     },
-    "Wojciech Tyczynski <wojtekt@google.com>": {
+    "wojtekt@google.com": {
         "name": "Wojciech Tyczynski",
         "additionalName": "wojtek-t",
         "worksFor": "Google",
@@ -4079,7 +4638,23 @@
         "email": "wojtekt@google.com",
         "orgnization": "Google"
     },
-    "Xiang Li <xiang.li@coreos.com>": {
+    "wulonghui6666@gmail.com": {
+        "name": "Tim Wu",
+        "additionalName": "wulonghui",
+        "worksFor": "ChinaNetCenter",
+        "homeLocation": "XiaMen China ",
+        "email": "wulonghui6666@gmail.com",
+        "orgnization": "ChinaNetCenter"
+    },
+    "xavier.baude@adeoservices.com": {
+        "name": "xavierbaude",
+        "additionalName": "xavierbaude",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "xavier.baude@adeoservices.com",
+        "orgnization": "adeoservices.com"
+    },
+    "xiang.li@coreos.com": {
         "name": "Xiang Li",
         "additionalName": "xiang90",
         "worksFor": "CoreOS",
@@ -4087,7 +4662,7 @@
         "email": "xiang.li@coreos.com",
         "orgnization": "CoreOS"
     },
-    "Xiang Li <xiangli.cs@gmail.com>": {
+    "xiangli.cs@gmail.com": {
         "name": "Xiang Li",
         "additionalName": "xiang90",
         "worksFor": "CoreOS",
@@ -4095,7 +4670,15 @@
         "email": "xiangli.cs@gmail.com",
         "orgnization": "CoreOS"
     },
-    "Yaron Rosenbaum <yaronr@users.noreply.github.com>": {
+    "xiejunan@huawei.com": {
+        "name": "xiejunan",
+        "additionalName": "xiejunan",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "xiejunan@huawei.com",
+        "orgnization": "huawei.com"
+    },
+    "yaronr@users.noreply.github.com": {
         "name": "Yaron Rosenbaum",
         "additionalName": "yaronr",
         "worksFor": "WhatsOn",
@@ -4103,7 +4686,15 @@
         "email": "yaronr@users.noreply.github.com",
         "orgnization": "WhatsOn"
     },
-    "Ye Yin <eyniy@qq.com>": {
+    "parikh.yash21@gmail.com": {
+        "name": "Yash Parikh",
+        "additionalName": "parikhyash",
+        "worksFor": "",
+        "homeLocation": "San Francisco Bay Area",
+        "email": "parikh.yash21@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "eyniy@qq.com": {
         "name": "Ye Yin",
         "additionalName": "hustcat",
         "worksFor": "Tencent",
@@ -4111,7 +4702,7 @@
         "email": "eyniy@qq.com",
         "orgnization": "Tencent"
     },
-    "Yicheng Qin <qycqycqycqycqyc@gmail.com>": {
+    "qycqycqycqycqyc@gmail.com": {
         "name": "Yicheng Qin",
         "additionalName": "yichengq",
         "worksFor": "CoreOS",
@@ -4119,7 +4710,7 @@
         "email": "qycqycqycqycqyc@gmail.com",
         "orgnization": "CoreOS"
     },
-    "Yifan Gu <guyifan1121@gmail.com>": {
+    "guyifan1121@gmail.com": {
         "name": "Yifan Gu",
         "additionalName": "yifan-gu",
         "worksFor": "CoreOS",
@@ -4127,7 +4718,7 @@
         "email": "guyifan1121@gmail.com",
         "orgnization": "CoreOS"
     },
-    "Yifan Gu <yifan.gu@coreos.com>": {
+    "yifan.gu@coreos.com": {
         "name": "Yifan Gu",
         "additionalName": "yifan-gu",
         "worksFor": "CoreOS",
@@ -4135,7 +4726,7 @@
         "email": "yifan.gu@coreos.com",
         "orgnization": "CoreOS"
     },
-    "Yoshikawa Ryota <yoshikawa@heartbeats.jp>": {
+    "yoshikawa@heartbeats.jp": {
         "name": "Yoshikawa Ryota",
         "additionalName": "rrreeeyyy",
         "worksFor": "Topotal",
@@ -4143,15 +4734,7 @@
         "email": "yoshikawa@heartbeats.jp",
         "orgnization": "Topotal"
     },
-    "you-n-g <afe.young@gmail.com>": {
-        "name": "you-n-g",
-        "additionalName": "you-n-g",
-        "worksFor": "",
-        "homeLocation": "",
-        "email": "afe.young@gmail.com",
-        "orgnization": "gmail.com"
-    },
-    "Young <afe.young@gmail.com>": {
+    "afe.young@gmail.com": {
         "name": "Young",
         "additionalName": "you-n-g",
         "worksFor": "",
@@ -4159,7 +4742,7 @@
         "email": "afe.young@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Yu-Ju Hong <yjhong@google.com>": {
+    "yjhong@google.com": {
         "name": "Yu-Ju Hong",
         "additionalName": "yujuhong",
         "worksFor": "",
@@ -4167,7 +4750,7 @@
         "email": "yjhong@google.com",
         "orgnization": "google.com"
     },
-    "Yuki Yugui Sonoda <yugui@yugui.jp>": {
+    "yugui@yugui.jp": {
         "name": "Yuki Yugui Sonoda",
         "additionalName": "yugui",
         "worksFor": "",
@@ -4175,7 +4758,7 @@
         "email": "yugui@yugui.jp",
         "orgnization": "yugui.jp"
     },
-    "Yuki Yugui Sonoda <yugui@google.com>": {
+    "yugui@google.com": {
         "name": "Yuki Yugui Sonoda",
         "additionalName": "Yuki Yugui Sonoda",
         "worksFor": "",
@@ -4183,7 +4766,23 @@
         "email": "yugui@google.com",
         "orgnization": "google.com"
     },
-    "Yves Junqueira <yves.junqueira@gmail.com>": {
+    "huangyuqi@users.noreply.github.com": {
+        "name": "yuqi huang",
+        "additionalName": "huangyuqi",
+        "worksFor": "",
+        "homeLocation": "",
+        "email": "huangyuqi@users.noreply.github.com",
+        "orgnization": "users.noreply.github.com"
+    },
+    "yuvipanda@gmail.com": {
+        "name": "Yuvi Panda",
+        "additionalName": "yuvipanda",
+        "worksFor": "",
+        "homeLocation": "Chennai",
+        "email": "yuvipanda@gmail.com",
+        "orgnization": "gmail.com"
+    },
+    "yves.junqueira@gmail.com": {
         "name": "Yves Junqueira",
         "additionalName": "nictuku",
         "worksFor": "",
@@ -4191,7 +4790,7 @@
         "email": "yves.junqueira@gmail.com",
         "orgnization": "gmail.com"
     },
-    "Zach Loafman <zml@google.com>": {
+    "zml@google.com": {
         "name": "Zach Loafman",
         "additionalName": "zmerlynn",
         "worksFor": "Google",
@@ -4199,15 +4798,15 @@
         "email": "zml@google.com",
         "orgnization": "Google"
     },
-    "Zack Zatkin-Gold <zg@users.noreply.github.com>": {
+    "zg@users.noreply.github.com": {
         "name": "Zack Zatkin-Gold",
         "additionalName": "zg",
-        "worksFor": "Cisco",
-        "homeLocation": "",
+        "worksFor": "",
+        "homeLocation": "Rochester, NY",
         "email": "zg@users.noreply.github.com",
-        "orgnization": "Cisco"
+        "orgnization": "users.noreply.github.com"
     },
-    "ZhiMing Zhang <maple_m@hotmail.com>": {
+    "maple_m@hotmail.com": {
         "name": "ZhiMing Zhang",
         "additionalName": "BlueShells",
         "worksFor": "redhat",

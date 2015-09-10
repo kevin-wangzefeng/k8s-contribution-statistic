@@ -15,7 +15,6 @@ cd $target_git_repo
 git log --pretty='%aN <%aE>' --all | sort | uniq | while read line
 do
     commit_id=`git log --pretty=%H --author="$line" -1`
-#   echo "$line, https://github.com/GoogleCloudPlatform/kubernetes/commit/$commit_id"
     echo "$line, $commit_id" >> $cur_dir/$output_file_name
 done
 

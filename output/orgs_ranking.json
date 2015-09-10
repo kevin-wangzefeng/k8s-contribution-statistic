@@ -2,17 +2,20 @@
     "gl-systemhaus.de": {
         "commits": 1
     },
-    "gmail.com": {
-        "commits": 404
+    "*independent": {
+        "commits": 794
     },
-    "coreos.com": {
-        "commits": 6
+    "CoreOS": {
+        "commits": 219
     },
-    "Google Inc.": {
-        "commits": 169
+    "Google": {
+        "commits": 13451
     },
-    "Red Hat, Inc": {
-        "commits": 48
+    "Redhat": {
+        "commits": 2455
+    },
+    "Ustream, Inc.": {
+        "commits": 1
     },
     "nine.net": {
         "commits": 1
@@ -21,37 +24,28 @@
         "commits": 1
     },
     "BrainFund": {
-        "commits": 11
+        "commits": 12
     },
-    "https://github.com/organizations/browserstack/settings": {
+    "Mumbai, India": {
         "commits": 2
     },
     "Microsoft Azure": {
         "commits": 1
     },
-    "Red Hat": {
-        "commits": 1432
-    },
     "the-kramers.net": {
         "commits": 1
     },
     "yahoo.com": {
-        "commits": 9
+        "commits": 3
     },
     "Autodesk": {
         "commits": 1
     },
-    "live.com": {
-        "commits": 42
+    "Metaswitch Networks": {
+        "commits": 2
     },
-    "Google": {
-        "commits": 7322
-    },
-    "CoreOS": {
-        "commits": 142
-    },
-    "redhat.com": {
-        "commits": 69
+    "alexwlchan.net": {
+        "commits": 2
     },
     "Datastax": {
         "commits": 1
@@ -59,8 +53,11 @@
     "Travis CI": {
         "commits": 1
     },
+    "infosleuth.net": {
+        "commits": 4
+    },
     "CERN": {
-        "commits": 18
+        "commits": 22
     },
     "aas.io": {
         "commits": 2
@@ -84,19 +81,16 @@
         "commits": 3
     },
     "ilin.dn.ua": {
-        "commits": 1
+        "commits": 2
     },
     "reformi.st": {
         "commits": 15
     },
     "mamikonyan.am": {
-        "commits": 2
+        "commits": 3
     },
     "HugeInc": {
         "commits": 1
-    },
-    "Red Hat Inc.": {
-        "commits": 34
     },
     "Digital Natives Hungary Ltd.": {
         "commits": 1
@@ -110,8 +104,11 @@
     "Dollar Shave Club": {
         "commits": 1
     },
+    "python.org": {
+        "commits": 1
+    },
     "Connectifier": {
-        "commits": 6
+        "commits": 7
     },
     "ALTA Language Services, Inc": {
         "commits": 2
@@ -119,17 +116,8 @@
     "On Center Software, Inc": {
         "commits": 1
     },
-    "CoreOS, Inc": {
-        "commits": 46
-    },
-    "Google, Inc.": {
-        "commits": 1459
-    },
     "cornell.edu": {
-        "commits": 2
-    },
-    "Google (Kubernetes, Omega, Borg)": {
-        "commits": 479
+        "commits": 3
     },
     "Devsisters Corp.": {
         "commits": 1
@@ -143,26 +131,35 @@
     "Yammer": {
         "commits": 1
     },
-    "Revinate, Siliconvortex": {
+    "Eldarion, Inc.": {
         "commits": 1
+    },
+    "Revinate, Siliconvortex": {
+        "commits": 2
     },
     "GREE Inc": {
         "commits": 2
     },
+    "NHN ENTERTAINMENT": {
+        "commits": 3
+    },
+    "Univa": {
+        "commits": 1
+    },
+    "CMCC": {
+        "commits": 3
+    },
     "maestrodev.com": {
         "commits": 1
+    },
+    "Project Calico": {
+        "commits": 4
     },
     "datawisesystems.com": {
         "commits": 6
     },
-    "users.noreply.github.com": {
-        "commits": 16
-    },
-    "google.com": {
-        "commits": 880
-    },
-    "Canonical, USA": {
-        "commits": 7
+    "Canonical": {
+        "commits": 39
     },
     "clkao.org": {
         "commits": 2
@@ -182,6 +179,12 @@
     "Q42": {
         "commits": 2
     },
+    "swine.de": {
+        "commits": 1
+    },
+    "paral.in": {
+        "commits": 1
+    },
     "Freelance": {
         "commits": 1
     },
@@ -191,14 +194,14 @@
     "lollyrock.com": {
         "commits": 1
     },
+    "gmx.de": {
+        "commits": 1
+    },
     "hotmail.com": {
         "commits": 1
     },
-    "Red Hat, Inc.": {
-        "commits": 15
-    },
     "Mesosphere": {
-        "commits": 60
+        "commits": 88
     },
     "mindscratch.org": {
         "commits": 1
@@ -209,8 +212,14 @@
     "spotify.com": {
         "commits": 2
     },
+    "Zendesk": {
+        "commits": 1
+    },
     "metaswitch.com": {
         "commits": 2
+    },
+    "binarygoo inc.": {
+        "commits": 1
     },
     "Liquidweb": {
         "commits": 1
@@ -227,29 +236,50 @@
     "CloudFlare": {
         "commits": 1
     },
-    "huawei.com": {
-        "commits": 9
+    "Hashrocket": {
+        "commits": 2
+    },
+    "www.shippable.com": {
+        "commits": 4
+    },
+    "ПРОНИКС": {
+        "commits": 1
+    },
+    "Huawei": {
+        "commits": 144
     },
     "Stigmergy LLC": {
-        "commits": 5
+        "commits": 7
     },
     "Hotels.com": {
         "commits": 1
     },
-    "Parallel Drive": {
+    "Heroku": {
+        "commits": 2
+    },
+    "dilvie.com": {
+        "commits": 1
+    },
+    "Amadeus SAS": {
+        "commits": 44
+    },
+    "DiscoPosse": {
         "commits": 1
     },
     "Gopher Academy": {
         "commits": 1
     },
-    "huawei": {
-        "commits": 20
+    "TigerText": {
+        "commits": 1
     },
-    "Google Inc": {
-        "commits": 267
+    "feelobot": {
+        "commits": 3
     },
     "souza.cc": {
         "commits": 2
+    },
+    "fredjean.net": {
+        "commits": 1
     },
     "Tumblr": {
         "commits": 1
@@ -263,7 +293,13 @@
     "99cloud.net": {
         "commits": 1
     },
+    "iconectiv.com": {
+        "commits": 1
+    },
     "Aclima": {
+        "commits": 1
+    },
+    "RedHat": {
         "commits": 1
     },
     "gurpartap.com": {
@@ -273,13 +309,16 @@
         "commits": 3
     },
     "Box": {
-        "commits": 45
+        "commits": 46
     },
     "ZheJiang University": {
-        "commits": 6
+        "commits": 47
     },
     "Virgen Technologies": {
         "commits": 1
+    },
+    "http://luxiar.co.jp/": {
+        "commits": 4
     },
     "tenxcloud": {
         "commits": 1
@@ -291,22 +330,31 @@
         "commits": 1
     },
     "weave.works": {
-        "commits": 28
+        "commits": 29
+    },
+    "apache.org": {
+        "commits": 2
     },
     "Oberlin College": {
-        "commits": 4
+        "commits": 6
+    },
+    "informaticslab.co.uk": {
+        "commits": 2
     },
     "skedulo.com": {
         "commits": 2
     },
     "AT&T Foundry": {
-        "commits": 2
+        "commits": 3
     },
-    "apache.org": {
+    "littleBits": {
         "commits": 1
     },
     "vt.edu": {
         "commits": 3
+    },
+    "IBM": {
+        "commits": 7
     },
     "Mirantis, Inc.": {
         "commits": 1
@@ -314,37 +362,40 @@
     "Accelerant Mobile Corp.": {
         "commits": 6
     },
+    "hds.com": {
+        "commits": 5
+    },
     "University of Michigan": {
         "commits": 3
     },
     "kos.mx": {
         "commits": 1
     },
-    "Huawei": {
-        "commits": 3
-    },
-    "Dynamic Design": {
+    "Naver Corp.": {
         "commits": 1
     },
-    "0xBEDA, LLC": {
-        "commits": 456
+    "Layer 10": {
+        "commits": 1
     },
     "Smart Scheduling": {
         "commits": 2
     },
-    "CoreOS, Inc.": {
-        "commits": 5
-    },
     "N/A": {
+        "commits": 1
+    },
+    "SPARCS, KAIST": {
+        "commits": 2
+    },
+    "appeartv.com": {
         "commits": 1
     },
     "josephholsten.com": {
         "commits": 1
     },
-    "SoundCloud Ltd.": {
-        "commits": 1
+    "Opsview Ltd": {
+        "commits": 3
     },
-    "SPARCS, KAIST": {
+    "SoundCloud Ltd.": {
         "commits": 1
     },
     "mspin.net": {
@@ -353,8 +404,8 @@
     "Workiva": {
         "commits": 2
     },
-    "Meteor": {
-        "commits": 278
+    "FathomDB": {
+        "commits": 306
     },
     "marhubi.com": {
         "commits": 1
@@ -362,20 +413,11 @@
     "endocode.com": {
         "commits": 5
     },
-    "Mesoshpere, Inc.": {
-        "commits": 7
-    },
-    "kprobst-macbookair2.roam.corp.google.com": {
-        "commits": 1
-    },
     "Yahoo Japan Corporation": {
         "commits": 1
     },
     "praisechaos.com": {
-        "commits": 1
-    },
-    "Red Hat Japan": {
-        "commits": 18
+        "commits": 4
     },
     "ie.suberic.net": {
         "commits": 3
@@ -383,14 +425,8 @@
     "Kornisteui-MacBook-Pro.local": {
         "commits": 1
     },
-    "Google Japan, Inc.": {
-        "commits": 36
-    },
     "RelateRocket": {
-        "commits": 1
-    },
-    "Amadeus SAS": {
-        "commits": 19
+        "commits": 2
     },
     "Appier": {
         "commits": 1
@@ -398,8 +434,8 @@
     "emergingstack.com": {
         "commits": 1
     },
-    "lvlv.email": {
-        "commits": 2
+    "Transwarp": {
+        "commits": 4
     },
     "Irian Solutions": {
         "commits": 6
@@ -416,17 +452,29 @@
     "CS Student @ UQÀM": {
         "commits": 1
     },
+    "Kalon": {
+        "commits": 3
+    },
+    "xoom.com": {
+        "commits": 1
+    },
     "way2clever.com": {
         "commits": 1
     },
-    "Stellar Development Foundation": {
+    "Atos": {
+        "commits": 1
+    },
+    "schaffer.me": {
         "commits": 2
     },
-    "canonical.com": {
-        "commits": 20
+    "Veritaseum, Inc.": {
+        "commits": 2
     },
-    "mjeffrey-macpro.kir.corp.google.com": {
-        "commits": 5
+    "Listhub": {
+        "commits": 1
+    },
+    "WebSpark, Inc.": {
+        "commits": 1
     },
     "MediaMath": {
         "commits": 1
@@ -437,8 +485,14 @@
     "Samsung SDS America": {
         "commits": 1
     },
+    "vianett.no": {
+        "commits": 1
+    },
     "qse.no": {
         "commits": 2
+    },
+    "zarb.org": {
+        "commits": 1
     },
     " Recruit Marketing Partners Co.,Ltd.": {
         "commits": 1
@@ -449,13 +503,28 @@
     "prokoschenko.de": {
         "commits": 1
     },
+    "Amysta": {
+        "commits": 1
+    },
     "-": {
         "commits": 4
     },
     "Kismatic, Inc.": {
-        "commits": 10
+        "commits": 14
     },
     "WillCall": {
+        "commits": 2
+    },
+    "Kende": {
+        "commits": 1
+    },
+    "juniper.net": {
+        "commits": 2
+    },
+    "IIT Kanpur": {
+        "commits": 1
+    },
+    "Pachyderm, Inc.": {
         "commits": 1
     },
     "Cyrus Biotechnology": {
@@ -464,22 +533,19 @@
     "pcx.io": {
         "commits": 3
     },
+    "Ericsson": {
+        "commits": 2
+    },
     "Teads Technology": {
         "commits": 2
     },
     "pcservice.co.za": {
         "commits": 1
     },
-    "vmware.com": {
-        "commits": 30
+    "VMware": {
+        "commits": 36
     },
     "springer.com": {
-        "commits": 2
-    },
-    "Google, Inc": {
-        "commits": 151
-    },
-    "red hat": {
         "commits": 2
     },
     "Time Inc. UK": {
@@ -491,20 +557,26 @@
     "uSwitch": {
         "commits": 2
     },
+    "RightScale": {
+        "commits": 1
+    },
+    "Dutchcoders": {
+        "commits": 6
+    },
     "Symantec": {
         "commits": 2
     },
     "BoomTown!": {
         "commits": 1
     },
-    "rackspace.com": {
-        "commits": 1
+    "Rackspace": {
+        "commits": 26
+    },
+    "undefined": {
+        "commits": 2
     },
     "singlewire.com": {
         "commits": 1
-    },
-    "Rackspace": {
-        "commits": 25
     },
     "Encyclopaedia Britannica": {
         "commits": 1
@@ -516,6 +588,9 @@
         "commits": 1
     },
     "SantoshSahoo.com": {
+        "commits": 1
+    },
+    "Sichuan University": {
         "commits": 1
     },
     "seanborman.com": {
@@ -533,6 +608,9 @@
     "shaicoleman.com": {
         "commits": 1
     },
+    "Lohi Labs": {
+        "commits": 1
+    },
     "freeformers.com": {
         "commits": 1
     },
@@ -543,13 +621,19 @@
         "commits": 1
     },
     "eBay": {
-        "commits": 1
+        "commits": 3
     },
     "zulily": {
         "commits": 12
     },
     "upmc.edu": {
         "commits": 1
+    },
+    "tmrts.com": {
+        "commits": 2
+    },
+    "outlook.com": {
+        "commits": 7
     },
     "external.mckinsey.com": {
         "commits": 1
@@ -569,6 +653,9 @@
     "MuleSoft": {
         "commits": 1
     },
+    "benincosa.com": {
+        "commits": 2
+    },
     "Oblong Industries, Inc.": {
         "commits": 4
     },
@@ -578,13 +665,13 @@
     "Akvelon": {
         "commits": 2
     },
-    "Redhat": {
+    "Pressly Inc.": {
+        "commits": 16
+    },
+    "ChinaNetCenter": {
         "commits": 1
     },
-    "Canonical": {
-        "commits": 8
-    },
-    "Zhejiang Universisty": {
+    "adeoservices.com": {
         "commits": 1
     },
     "WhatsOn": {
@@ -593,7 +680,10 @@
     "Tencent": {
         "commits": 1
     },
-    "redhat": {
-        "commits": 2
+    "Topotal": {
+        "commits": 1
+    },
+    "yugui.jp": {
+        "commits": 12
     }
 }

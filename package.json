@@ -7,7 +7,8 @@
     "request": "~2.53.0",
     "cheerio": "~0.18.0",
     "procstreams": "0.3.0",
-    "eventproxy": "0.3.4"
+    "eventproxy": "0.3.4",
+    "config": "1.16.0"
   },
   "engines": {
     "node": "0.12.x",
