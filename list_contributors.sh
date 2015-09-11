@@ -7,7 +7,7 @@ cur_dir=`pwd`
 target_git_repo=${1:-"/home/oss-contrib/kubernetes"}
 
 # output_file_name=$2
-output_file_name=${2:-"commits.txt"}
+output_file_name=${2:-"output/commits.txt"}
 
 rm -f $cur_dir/$output_file_name
 cd $target_git_repo

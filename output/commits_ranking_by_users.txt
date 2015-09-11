@@ -28,7 +28,7 @@
      91 ##Alex Mohr <mohr@google.com>
       1 ##Alex Polvi <alex@polvi.net>
     181 ##Alex Robinson <alexdwanerobinson@gmail.com>
-    187 ##Alex Robinson <arob@google.com>
+    188 ##Alex Robinson <arob@google.com>
       2 ##Alissa Bonas <abonas@redhat.com>
       1 ##Al Tobey <tobert@gmail.com>
       1 ##Aly Fulton <sinthetix@users.noreply.github.com>
@@ -73,10 +73,11 @@
     159 ##bgrant0607 <bgrant0607@users.noreply.github.com>
       1 ##Bin Wang <wbin00@gmail.com>
       1 ##Blake Haggerty <blake.haggerty@rackspace.com>
+      1 ##Bobby Abbott <abbott@squareup.com>
       2 ##Brad Wells <bwells@altalang.com>
       1 ##Brandon Davis <brandon.davis@oncenter.com>
       4 ##Brandon Philips <brandon@ifup.org>
-   1352 ##Brendan Burns <bburns@google.com>
+   1361 ##Brendan Burns <bburns@google.com>
       4 ##Brendan Burns <brendan.d.burns@gmail.com>
       3 ##Brendan Burns <real.cost.info@gmail.com>
     285 ##brendandburns <bburns@google.com>
@@ -128,7 +129,7 @@
      75 ##CJ Cullen <cjcullen888@gmail.com>
      76 ##CJ Cullen <cjcullen@google.com>
      25 ##Claire Li <claire921@gmail.com>
-    806 ##Clayton Coleman <ccoleman@redhat.com>
+    808 ##Clayton Coleman <ccoleman@redhat.com>
       1 ##codemonkey77 <arb77@hotmail.com>
       4 ##Cole Mickens <cole.mickens@gmail.com>
       2 ##Colin Walters <walters@verbum.org>
@@ -140,11 +141,11 @@
       1 ##Dan Ciruli <ciruli@gmail.com>
       2 ##Daniel Dreier <d@puppetlabs.com>
       1 ##Daniel Lobato García <elobatocs@gmail.com>
-      2 ##Daniel Martí <mvdan@mvdan.cc>
+      9 ##Daniel Martí <mvdan@mvdan.cc>
       3 ##Daniel Norberg <daniel.norberg@gmail.com>
       1 ##Daniel Norberg <dano@spotify.com>
       1 ##Daniel Schierbeck <dasch@zendesk.com>
-   1304 ##Daniel Smith <dbsmith@google.com>
+   1307 ##Daniel Smith <dbsmith@google.com>
       3 ##Dan Mace <dmace@redhat.com>
      13 ##Dan Mace <ironcladlou@gmail.com>
       4 ##Dan McPherson <dmcphers@redhat.com>
@@ -202,7 +203,7 @@
       1 ##Erik St. Martin <alakriti@gmail.com>
       1 ##erulabs <seandon.mooy@gmail.com>
       1 ##Evan Flynn <evan.flynn@gmail.com>
-      8 ##Ewa Socala <socaa@google.com>
+     11 ##Ewa Socala <socaa@google.com>
       5 ##fabianofranz <contact@fabianofranz.com>
       2 ##Fabio Yeon <fabioy@fabioy-macbookpro2.roam.corp.google.com>
      13 ##Fabio Yeon <fabioy@google.com>
@@ -248,9 +249,9 @@
       1 ##Hokutosei <jeanepaul@gmail.com>
       7 ##Huamin Chen <hchen@redhat.com>
       1 ##huangqg <csuhp007@gmail.com>
-      1 ##huangyuqi <huangyuqi@huawei.com>
+      2 ##huangyuqi <huangyuqi@huawei.com>
       1 ##Hunter Freyer <yt@hjfreyer.com>
-     29 ##hurf <huruifeng@huawei.com>
+     30 ##hurf <huruifeng@huawei.com>
       1 ##hw-qiaolei <qiaolei2@huawei.com>
       1 ##hyeongkyu.lee <hyeongkyu.lee@navercorp.com>
       1 ##Ian Lewis <ianmlewis@gmail.com>
@@ -262,7 +263,7 @@
       1 ##Imesh Gunaratne <imesh@apache.org>
       3 ##Ingo Gottwald <in.gottwald@gmail.com>
       2 ##invenfantasy <caogaojin.nk@gmail.com>
-      6 ##Isaac Hollander McCreery <ihmccreery@google.com>
+      7 ##Isaac Hollander McCreery <ihmccreery@google.com>
       3 ##jackgr <jackgr@google.com>
       2 ##Jacob Tomlinson <jacob.tomlinson@informaticslab.co.uk>
       1 ##Jakub Hadvig <jhadvig@redhat.com>
@@ -273,7 +274,8 @@
       3 ##James Kyle <james@jameskyle.org>
       5 ##Jan Chaloupka <jchaloup@redhat.com>
       1 ##Jan Dolecek <juzna.cz@gmail.com>
-     42 ##Janet Kuo <chiachenk@google.com>
+     43 ##Janet Kuo <chiachenk@google.com>
+      1 ##JanetKuo <chiachenk@google.com>
       4 ##Janet Kuo <JanetKuo@users.noreply.github.com>
      15 ##Jan Safranek <jsafrane@redhat.com>
       1 ##Jason Giedymin <jasong@apache.org>
@@ -296,7 +298,7 @@
       9 ##Jeff Bean <jeffreyrobertbean@gmail.com>
      19 ##Jeff Grafton <ixdy@users.noreply.github.com>
      46 ##Jeff Grafton <jgrafton@google.com>
-    219 ##Jeff Lowdermilk <jeffml@google.com>
+    220 ##Jeff Lowdermilk <jeffml@google.com>
      54 ##Jeff Lowdermilk <tiro.jeff.ml@gmail.com>
      14 ##Jeff Lowdermlk <tiro.jeff.ml@gmail.com>
      14 ##Jeff Mendoza <jeffmendoza@google.com>
@@ -306,7 +308,7 @@
       3 ##Jeffrey Sica <jeef111x@gmail.com>
       1 ##Jernej Kos <jernej@kos.mx>
       3 ##Jeromy Carriere <jcarriere@google.com>
-    133 ##Jerzy Szczepkowski <jsz@google.com>
+    134 ##Jerzy Szczepkowski <jsz@google.com>
       8 ##Jessica Forrester <jforrest@redhat.com>
      20 ##jhadvig <j.hadvig@gmail.com>
       1 ##jhadvig <jhadvig@redhat.com>
@@ -342,7 +344,7 @@
       1 ##Justin Lindh <justin.lindh@webfilings.com>
     299 ##Justin Santa Barbara <justin@fathomdb.com>
       7 ##Justin SB <justin@fathomdb.com>
-    109 ##k8s-merge-robot <k8s.production.user@gmail.com>
+    124 ##k8s-merge-robot <k8s.production.user@gmail.com>
       1 ##Kai Zhang <zakir.exe@gmail.com>
       1 ##Kamal Marhubi <kamal@marhubi.com>
      26 ##kargakis <kargakis@users.noreply.github.com>
@@ -360,7 +362,7 @@
       6 ##Kennan <wkq5325@gmail.com>
       1 ##Ken Rimey <rimey@google.com>
       3 ##Kevin Lyda <kevin@ie.suberic.net>
-      6 ##Kevin <wangzefeng@huawei.com>
+      7 ##Kevin <wangzefeng@huawei.com>
       1 ##Kieran O'Mahony <kieranom@gmail.com>
       4 ##Kit Merker <kitm@google.com>
       1 ##KORNISTE <Korniste@Kornisteui-MacBook-Pro.local>
@@ -431,7 +433,7 @@
       1 ##Miciah Masters <miciah.masters@gmail.com>
       1 ##Miguel Perez <mperez@mediamath.com>
       1 ##Mikaël Cluseau <mikael.cluseau@gmail.com>
-    336 ##Mike Danese <mikedanese@gmail.com>
+    343 ##Mike Danese <mikedanese@gmail.com>
       1 ##Mike Danese <mikedanese@google.com>
       2 ##Mike Foley <mfoley@manh.com>
       5 ##MikeJeffrey <mike.jeffrey@gmail.com>
@@ -492,7 +494,7 @@
       1 ##Przemo Nowaczyk <pnowaczyk.mail@gmail.com>
      22 ##qiaolei <qiaolei2@huawei.com>
       1 ##Qiu Yu <unicell@gmail.com>
-    183 ##Quinton Hoole <quinton@google.com>
+    185 ##Quinton Hoole <quinton@google.com>
       1 ##Quinton Hoole <quinton@quinton-macbookpro.roam.corp.google.com>
       2 ##Rabi Mishra <ramishra@redhat.com>
       1 ##Radek Simko <radek.simko@gmail.com>
@@ -603,6 +605,7 @@
       3 ##Tony Hsu <gosharplite@gmail.com>
       1 ##Travis Beatty <travisby@gmail.com>
       3 ##Trevor Pounds <trevor.pounds@gmail.com>
+      1 ##tummychow <sjung@squareup.com>
       1 ##uberj <jaxbr503@gmail.com>
       1 ##Uri Sarid <usarid@gmail.com>
       2 ##Vallard Benincosa <vallard@benincosa.com>
@@ -637,17 +640,18 @@
       1 ##Ye Yin <eyniy@qq.com>
       2 ##Yicheng Qin <qycqycqycqycqyc@gmail.com>
      12 ##Yifan Gu <guyifan1121@gmail.com>
-    114 ##Yifan Gu <yifan.gu@coreos.com>
+    117 ##Yifan Gu <yifan.gu@coreos.com>
       1 ##YOSHIKAWA Ryota <yoshikawa@heartbeats.jp>
       2 ##you-n-g <afe.young@gmail.com>
      13 ##Young <afe.young@gmail.com>
     276 ##Yu-Ju Hong <yjhong@google.com>
      12 ##Yuki Sonoda (Yugui) <yugui@yugui.jp>
      25 ##Yuki Yugui Sonoda <yugui@google.com>
+      1 ##yuqi huang <huangyuqi@huawei.com>
       1 ##yuqi huang <huangyuqi@users.noreply.github.com>
       1 ##Yuvi Panda <yuvipanda@gmail.com>
       3 ##Yves Junqueira <yves.junqueira@gmail.com>
-    613 ##Zach Loafman <zml@google.com>
+    615 ##Zach Loafman <zml@google.com>
       1 ##Zack Gold <zg@users.noreply.github.com>
       2 ##ZhiMing Zhang <maple_m@hotmail.com>
       1 ##Zichang Lin <linzichang@huawei.com>

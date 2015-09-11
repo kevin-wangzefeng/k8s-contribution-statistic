@@ -3,16 +3,16 @@
         "commits": 1
     },
     "*independent": {
-        "commits": 794
+        "commits": 809
     },
     "CoreOS": {
-        "commits": 219
+        "commits": 222
     },
     "Google": {
-        "commits": 13451
+        "commits": 13489
     },
     "Redhat": {
-        "commits": 2455
+        "commits": 2457
     },
     "Ustream, Inc.": {
         "commits": 1
@@ -246,7 +246,7 @@
         "commits": 1
     },
     "Huawei": {
-        "commits": 144
+        "commits": 148
     },
     "Stigmergy LLC": {
         "commits": 7
@@ -336,7 +336,7 @@
         "commits": 2
     },
     "Oberlin College": {
-        "commits": 6
+        "commits": 7
     },
     "informaticslab.co.uk": {
         "commits": 2

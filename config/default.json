@@ -8,10 +8,10 @@
     "uesr_url_prefix": "https://github.com/",
 
 
-    "users_file_name": "commits.txt",
-    "user_info_json_file_name": "user_info.json",
-    "commits_ranking_file": "commits_ranking_by_users.txt",
-    "orgs_ranking_output_file": "orgs_ranking.json",
+    "users_file_name": "output/commits.txt",
+    "user_info_json_file_name": "output/user_info.json",
+    "commits_ranking_file": "output/commits_ranking_by_users.txt",
+    "orgs_ranking_output_file": "output/orgs_ranking.json",
 
     "concurrency": 50,
 
