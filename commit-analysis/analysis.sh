@@ -11,7 +11,8 @@ STARTED_AT=$(date)
 # clone the repos
 #for REPO in kubernetes kubernetes.github.io test-infra ingress community heapster contrib
 mkdir -p ${REPO_ROOT}
-mkdir -p ${OUTPUT_DIR}
+mkdir -p ${OUTPUT_DIR}/raw
+mkdir -p ${OUTPUT_DIR}/orgs
 
 for REPO_NAME in $REPOS_TO_CHECK; do
   REPO_X="${REPO_ROOT}/${REPO_NAME}"
@@ -29,9 +30,31 @@ for REPO_NAME in $REPOS_TO_CHECK; do
   git checkout $UPSTREAM/master
 
   echo "Checking git logs"
-  git log --pretty="tformat:^%H##%at##%aN##%aE##%s##" --shortstat |tr "\n" " " | sed "s/\ \ \ //g" | tr "^" "\n" > ${OUTPUT_DIR}/${REPO_NAME}.txt
-  echo "Commit data formatted, see ${OUTPUT_DIR}/${REPO_NAME}.txt"
+  FILE=${OUTPUT_DIR}/raw/${REPO_NAME}.txt
+  git log --pretty="tformat:^%H##%at##%aN##%aE##%s##" --shortstat |tr "\n" " " | sed "s/\ \ \ //g" | tr "^" "\n" | grep -v "##Merge " > $FILE
+  sed -i "s/##/^/g" $FILE
+
+  sed -i "s/ file changed, /^files changed^/g" $FILE
+  sed -i "s/ files changed, /^files changed^/g" $FILE
+
+  sed -i "s/ insertion(+), /^insertions^/g" $FILE
+  sed -i "s/ insertions(+), /^insertions^/g" $FILE
+  sed -i "s/ insertion(+)/^insertions/g" $FILE
+  sed -i "s/ insertions(+)/^insertions/g" $FILE
+
+  sed -i "s/ deletion(-), /^deletions^/g" $FILE
+  sed -i "s/ deletions(-), /^deletions^/g" $FILE
+  sed -i "s/ deletion(-)/^deletions/g" $FILE
+  sed -i "s/ deletions(-)/^deletions/g" $FILE
+
+  echo "Commit data formatted, see $FILE"
   popd
+done
+
+
+for org in google redhat coreos huawei microsoft fujitsu ibm hyper rackspace mirantis apprenda fathomdb zju zte
+do
+  grep -rE "@.*${org}.*\.(edu|cn|com|io|inc|sh)" ${OUTPUT_DIR}/raw > ${OUTPUT_DIR}/orgs/${org}.txt
 done
 
 DONE_AT=$(date)
